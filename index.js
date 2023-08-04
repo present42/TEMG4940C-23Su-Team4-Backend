@@ -75,6 +75,103 @@ app.get('/bond/price_history/:bondID', (req, res) => {
     });
 });
 
+// query historic prices of corporate income tax rates with 3 digit country code
+app.get('/macro/corporateIncomeTaxRate/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/corporate income tax rate (yearly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((taxRates) => taxRates["Country Code"] === req?.params?.countryCode);
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if(result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
+app.get('/macro/currentAccountBalance/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/current account balance (quarterly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((balances) => balances["Country Code"] === req?.params?.countryCode);
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if(result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
+app.get('/macro/gdpPerCapita/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/gdp per capita (yearly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((gdp) => gdp["Country Code"] === req?.params?.countryCode);
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if(result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
+app.get('/macro/governmentSpending/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/government spending (yearly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((spending) => spending["Country Code"] === req?.params?.countryCode);
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if(result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
+app.get('/macro/shortTermInterestRate/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/short-term (montly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((rates) => rates["Country Code"] === req?.params?.countryCode);
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if(result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
+app.get('/macro/unemploymentRate/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/unemployment rate (monthly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((rates) => rates["Country Code"] === req?.params?.countryCode);
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if(result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
 app.listen(port, () => {
     console.log(`TEMG4940C Team 4 Backend Server listening on port ${port}`)
 });
