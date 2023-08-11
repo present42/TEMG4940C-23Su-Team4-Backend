@@ -30,6 +30,9 @@ Returns a list of bonds issued by the company with the provided company ID in JS
 ### GET /bond/:bondID
 Returns information of a specific bond with the provided bond ID in JSON format.
 
+### GET /bond
+Returns information of all bonds in JSON format.
+
 ### GET /bond/price_history/:bondID
 Returns price history of a specific bond with the provided bond ID in CSV format. If the price history does not exist, an empty array is returned.
 
