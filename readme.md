@@ -63,6 +63,11 @@ This endpoint returns the unemployment rate for a specific country. The :country
 
 If the specified country code is not found, a 404 error is returned.
 
+### GET /credit/bonds/:countryCode
+This endpoint allows you to retrieve a list of bonds issued by companies based in a specific country. You can use the :countryCode parameter (3-letter country code) to specify the country you are interested in. The response will be a JSON object containing an array of bonds issued by companies headquartered in the specified country.
+
+If the specified country code is not found, a 404 error is returned.
+
 ## Data Sources
 The application uses the following CSV files as data sources:
 

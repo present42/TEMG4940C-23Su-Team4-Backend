@@ -16,7 +16,7 @@ app.use(function (req, res, next) {
     // Set to true if you need the website to include cookies in the requests sent
     // to the API (e.g. in case you use sessions)
     res.setHeader('Access-Control-Allow-Credentials', true);
-    
+
     // Pass to next layer of middleware
     next();
 });
@@ -185,6 +185,43 @@ app.get('/macro/unemploymentRate/:countryCode', (req, res) => {
             })
             res.send(result[0]);
         })
+    });
+});
+
+// get bonds of companies whose headquarters in a specific country
+app.get('/credit/bonds/:countryCode', (req, res) => {
+    fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((rates) => rates["Company Headquarter"] === req?.params?.countryCode);
+            result = result.map(({ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs}) => {
+                return keepAttrs
+            })
+
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+
+            res.send(result);
+        });
+    });
+});
+
+app.get('/credit/overall/:countryCode', (req, res) => {
+    fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((rates) => rates["Company Headquarter"] === req?.params?.countryCode);
+            result = result.map(({ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs}) => {
+                return keepAttrs
+            })
+
+            if(result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+
+            res.send(result);
+        });
     });
 });
 

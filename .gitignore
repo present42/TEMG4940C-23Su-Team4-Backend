@@ -1,4 +1,7 @@
 data/bond_prices
 data/bonds_data
 data/stock_prices
+data/balance_sheet
+data/income_stmt
+data/cash_flow
 node_modules
