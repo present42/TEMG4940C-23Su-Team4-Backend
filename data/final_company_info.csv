@@ -1,0 +1,1996 @@
+CommonName,PrimaryRIC,OAPermID,CountryHeadquarters,Ticker,PrimaryRICExchangeCode,PrimaryRICTickerSymbol,IsPublic,BondsCount
+JPMorgan Chase & Co,JPM,5000021791,USA,JPM,NYQ,JPM,True,1423
+Bank of America Corp,BAC,8589934339,USA,BAC,NYQ,BAC,True,852
+Wells Fargo & Co,WFC,8589934175,USA,WFC,NYQ,WFC,True,450
+HSBC Holdings PLC,HSBA.L,8589934275,GBR,HSBA,LSE,HSBA,True,125
+Royal Bank of Canada,RY.TO,8589934213,CAN,RY,TOR,RY,True,5848
+Toronto-Dominion Bank,TD.TO,4295862902,CAN,TD,TOR,TD,True,5988
+Commonwealth Bank of Australia,CBA.AX,4295856152,AUS,CBA,ASX,CBA,True,1225
+Mitsubishi UFJ Financial Group Inc,8306.T,5000000933,JPN,MTFGI,TYO,8306,True,131
+BNP Paribas SA,BNPP.PA,8589934326,FRA,BNPP,PAR,BNP,True,3388
+Bank of Montreal,BMO.TO,4295860596,CAN,BMO,TOR,BMO,True,10130
+Banco Santander SA,SAN.MC,8589934205,ESP,SAN,MCE,SAN,True,515
+Sumitomo Mitsui Financial Group Inc,8316.T,4295878766,JPN,SUMFG,TYO,8316,True,101
+Bank of Nova Scotia,BNS.TO,4295860592,CAN,BNS,TOR,BNS,True,4616
+National Australia Bank Ltd,NAB.AX,4295857405,AUS,NAB,ASX,NAB,True,742
+US Bancorp,USB,8589934183,USA,USB,NYQ,USB,True,33
+PNC Financial Services Group Inc,PNC,4295904676,USA,PNC,NYQ,PNC,True,24
+ING Groep NV,INGA.AS,4295884647,NLD,INGA,AEX,INGA,True,77
+Westpac Banking Corp,WBC.AX,4295856627,AUS,WBC,ASX,WBC,True,631
+Intesa Sanpaolo SpA,ISP.MI,4295875735,ITA,ISP,MIL,ISP,True,476
+UniCredit SpA,CRDI.MI,4295875726,ITA,CRDI,MIL,UCG,True,190
+Banco Bilbao Vizcaya Argentaria SA,BBVA.MC,4295889577,ESP,BBVA,MCE,BBVA,True,129
+Truist Financial Corp,TFC,4295903505,USA,TFC,NYQ,TFC,True,32
+Nordea Bank Abp,NDAFI.HE,5060588378,FIN,NDAFI,HEX,NDA FI,True,1058
+Mizuho Financial Group Inc,8411.T,4295878505,JPN,MZFG,TYO,8411,True,93
+Canadian Imperial Bank of Commerce,CM.TO,4295860600,CAN,CM,TOR,CM,True,8432
+Lloyds Banking Group PLC,LLOY.L,8589934254,GBR,LLOY,LSE,LLOY,True,80
+Barclays PLC,BARC.L,8589934333,GBR,BARC,LSE,BARC,True,95
+DNB Bank ASA,DNB.OL,5000042454,NOR,DNB,OSL,DNB,True,396
+Caixabank SA,CABK.MC,4295889572,ESP,CABKX,MCE,CABK,True,132
+Kbc Groep NV,KBC.BR,8589934262,BEL,KBC,BRU,KBC,True,35
+Natwest Group PLC,NWG.L,8589934212,GBR,NWG,LSE,NWG,True,43
+Skandinaviska Enskilda Banken AB,SEBa.ST,8589934200,SWE,SEB,STO,SEB A,True,569
+National Bank of Canada,NA.TO,4295862904,CAN,NA,TOR,NA,True,2061
+Standard Chartered PLC,STAN.L,4295895205,GBR,STAN,LSE,STAN,True,103
+Grupo Financiero Banorte SAB de CV,GFNORTEO.MX,4295884395,MEX,GFNOR,MEX,GFNORTEO,True,9
+Deutsche Bank AG,DBKGn.DE,4295869482,DEU,DBKG,GER,DBK,True,1739
+M&T Bank Corp,MTB,4295904442,USA,MTBX,NYQ,MTB,True,8
+Societe Generale SA,SOGN.PA,5000039357,FRA,SOGN,PAR,GLE,True,4501
+Swedbank AB,SWEDa.ST,8589934289,SWE,SWEDX,STO,SWED A,True,436
+First Citizens BancShares Inc (Delaware),FCNCA.O,5001113817,USA,FCNCA,NSQ,FCNCA,True,5
+Danske Bank A/S,DANSKE.CO,8589934305,DNK,DANSK,CPH,DANSKE,True,527
+Regions Financial Corp,RF,4295907751,USA,RF,NYQ,RF,True,9
+Svenska Handelsbanken AB,SHBa.ST,8589934190,SWE,SHB,STO,SHB A,True,401
+Huntington Bancshares Inc,HBAN.O,4295906733,USA,HBAN,NSQ,HBAN,True,15
+Erste Group Bank AG,ERST.VI,8589934296,AUT,ERST,VIE,EBS,True,941
+Commerzbank AG,CBKG.DE,8589934314,DEU,CBKG,GER,CBK,True,346
+KB Financial Group Inc,105560.KS,4295881997,KOR,KBFNG,KSC,105560,True,69
+Citizens Financial Group Inc,CFG,4296419629,USA,CFG,NYQ,CFG,True,18
+Sumitomo Mitsui Trust Holdings Inc,8309.T,4295878477,JPN,MITBK,TYO,8309,True,19
+Shinhan Financial Group Co Ltd,055550.KS,4295881976,KOR,SHING,KSC,055550,True,102
+Powszechna Kasa Oszczednosci Bank Polski SA,PKO.WA,4295886629,POL,PKO,WSE,PKO,True,3
+Resona Holdings Inc,8308.T,4295878431,JPN,RESHD,TYO,8308,True,7
+Banco de Chile,CHILE.SN,4295863540,CHL,CHILX,SGO,CHILE,True,324
+Aib Group PLC,AIBG.I,5059082241,IRL,AIBG,ISE,A5G,True,17
+Bank of Ireland Group PLC,BIRG.I,5056415510,IRL,BIRG,ISE,BIRG,True,19
+KeyCorp,KEY,4295904371,USA,KEY,NYQ,KEY,True,14
+Mediobanca Banca di Credito Finanziario SpA,MDBI.MI,4295875731,ITA,MDBI,MIL,MB,True,117
+OTP Bank Nyrt,OTPB.BU,4295872091,HUN,OTPB,BUD,OTP,True,23
+Santander Bank Polska SA,SPL1.WA,4295886478,POL,SPLA,WSE,SPL,True,6
+Banco Santander-Chile,BSANTANDER.SN,4295863439,CHL,BSANT,SGO,BSANTANDER,True,443
+Banque Cantonale Vaudoise,BCVN.S,4295890966,CHE,BCVN,SWX,BCVN,True,9
+FinecoBank Banca Fineco SpA,FBK.MI,5000042928,ITA,FBK,MIL,FBK,True,4
+Mizrahi Tefahot Bank Ltd,MZTF.TA,4295875096,ISR,MZTF,TLV,MZTF,True,1
+Hana Financial Group Inc,086790.KS,4295882718,KOR,HNGRP,KSC,086790,True,54
+Bank of Ireland,BKIRx.L,8589934337,IRL,BKIR,LSE,,True,17
+New York Community Bancorp Inc,NYCB.K,4295907709,USA,NYCB,NYQ,NYCB,True,4
+Webster Financial Corp,WBS,4295908449,USA,WBS,NYQ,WBS,True,7
+ABN Amro Bank NV,ABNd.AS,5000757618,NLD,ABNAM,AEX,ABN,True,248
+Bancolombia SA,BIC.CN,4295865713,COL,BIC,COL,BCOLOMBIA,True,3550
+Bank Polska Kasa Opieki SA,PEO.WA,4295886575,POL,PEO,WSE,PEO,True,5
+Banco BPM SpA,BAMI.MI,5052789878,ITA,BAMI,MIL,BAMI,True,140
+Cullen/Frost Bankers Inc,CFR,4295903828,USA,CFR,NYQ,CFR,True,2
+First Horizon Corp,FHN,4295903994,USA,FHN,NYQ,FHN,True,6
+Banca Mediolanum SpA,BMED.MI,4296794513,ITA,BMED,MIL,BMED,True,1
+Banco de Sabadell SA,SABE.MC,4295889298,ESP,SABE,MCE,SAB,True,112
+Woori Financial Group Inc,316140.KS,5067500816,KOR,WRFGR,KSC,316140,True,22
+Comerica Inc,CMA,4295903746,USA,CMA,NYQ,CMA,True,4
+National Bank of Greece SA,NBGr.AT,4295870369,GRC,NBG,ATH,ETE,True,8
+QNB Finansbank AS,QNBFB.IS,5000063167,TUR,QNBFB,IST,QNBFB.E,True,22
+Komercni Banka as,BKOM.PR,4295865863,CZE,BKOM,PRA,KOMB,True,30
+Bankinter SA,BKT.MC,4295889567,ESP,BKT,MCE,BKT,True,165
+Turkiye Garanti Bankasi AS,GARAN.IS,4295893548,TUR,GARAN,IST,GARAN.E,True,16
+Banco de Credito e Inversiones,BCI.SN,4295863513,CHL,BCI,SGO,BCI,True,470
+SouthState Corp,SSB.O,4295903993,USA,SSB,NSQ,SSB,True,5
+Bank Ozk,OZK.O,4296474683,USA,OZK,NSQ,OZK,True,391
+Turkiye Is Bankasi AS,ISCTR.IS,4295893598,TUR,ISCTR,IST,ISCTR.E,True,33
+Raiffeisen Bank International AG,RBIV.VI,4295859134,AUT,RBIV,VIE,RBI,True,1234
+Wintrust Financial Corp,WTFC.O,4295908493,USA,WTFC,NSQ,WTFC,True,4
+Jyske Bank A/S,JYSK.CO,8589934264,DNK,JYSK,CPH,JYSK,True,117
+Valley National Bancorp,VLY.O,4295905201,USA,VLY,NSQ,VLY,True,7
+mBank SA,MBK.WA,4295886385,POL,MBKX,WSE,MBK,True,8
+Piraeus Financial Holdings SA,BOPr.AT,5000003784,GRC,BOP,ATH,TPEIR,True,4
+Akbank TAS,AKBNK.IS,4295893638,TUR,AKBNK,IST,AKBNK.E,True,25
+Bper Banca SpA,EMII.MI,4295875447,ITA,EMII,MIL,BPE,True,64
+Old National Bancorp,ONB.O,4295907462,USA,ONB,NSQ,ONB,True,4
+Synovus Financial Corp,SNV,4295905022,USA,SNV,NYQ,SNV,True,4
+Home BancShares Inc,HOMB.K,4295913053,USA,HOMB,NYQ,HOMB,True,1
+Alpha Services and Holdings SA,ACBr.AT,4295870355,GRC,ACB,ATH,ALPHA,True,7
+United Bankshares Inc,UBSI.O,4295908248,USA,UBSI,NSQ,UBSI,True,1
+Luzerner Kantonalbank AG,LUKN.S,4295890499,CHE,LUKN,SWX,LUKN,True,31
+Yapi ve Kredi Bankasi AS,YKBNK.IS,4295893564,TUR,YKBNK,IST,YKBNK.E,True,32
+Banco Comercial Portugues SA,BCP.LS,4295886766,PRT,BCP,LIS,BCP,True,15
+Cadence Bank,CADE.K,5000644899,USA,CADE,NYQ,CADE,True,20
+SBI Shinsei Bank Ltd,8303.T,4295878065,JPN,SHNSI,TYO,8303,True,18
+BAWAG Group AG,BAWG.VI,5000015903,AUT,BAWG,VIE,BG,True,4
+Banco del Bajio SA Institucion de Banca Multiple,BBAJIOO.MX,4296608184,MEX,BBAJI,MEX,BBAJIOO,True,4
+Turkiye Vakiflar Bankasi TAO,VAKBN.IS,4295893750,TUR,VAKBN,IST,VAKBN.E,True,28
+Nordnet AB (publ),SAVE.ST,5052150273,SWE,SAVE,STO,SAVE,True,3
+Glacier Bancorp Inc,GBCI.K,4295906598,USA,GBCI,NYQ,GBCI,True,16
+Turkiye Halk Bankasi AS,HALKB.IS,4295893700,TUR,HALKB,IST,HALKB.E,True,17
+Banca Monte dei Paschi di Siena SpA,BMPS.MI,4295875749,ITA,BMPS,MIL,BMPS,True,37
+St Galler Kantonalbank AG,SGKN.S,4295890700,CHE,SGKN,SWX,SGKN,True,14
+Sparebank 1 SR Bank ASA,SRBNK.OL,4295885684,NOR,SRBNK,OSL,SRBNK,True,72
+BancFirst Corp,BANF.O,4295905656,USA,BANF,NSQ,BANF,True,1
+Virgin Money UK PLC,VMUK.L,5047817132,GBR,VMUK,LSE,VMUK,True,11
+Unicaja Banco SA,UNI.MC,5037359859,ESP,UNIXX,MCE,UNI,True,11
+Grupo Aval Acciones y Valores SA,GAA.CN,4295865697,COL,GAA,COL,GRUPOAVAL,True,6
+First Interstate Bancsystem Inc,FIBK.O,5086576304,USA,FIBK,NSQ,FIBK,True,1
+Credito Emiliano SpA,EMBI.MI,4295875346,ITA,EMBI,MIL,CE,True,9
+Ameris Bancorp,ABCB.O,4295905370,USA,ABCBX,NSQ,ABCB,True,2
+Banco de Bogota SA,BBO.CN,4295865671,COL,BBO,COL,BOGOTA,True,3914
+Sydbank A/S,SYDB.CO,4295865860,DNK,SYDB,CPH,SYDB,True,9
+Axos Financial Inc,AX,4295913054,USA,AXXX,NYQ,AX,True,2
+Zuger Kantonalbank,ZUGER.S,4295890547,CHE,ZUGER,SWX,ZUGER,True,14
+Bank of Queensland Ltd,BOQ.AX,4295856173,AUS,BOQ,ASX,BOQ,True,150
+Berner Kantonalbank AG,BEKN.S,4295890862,CHE,BEKN,SWX,BEKN,True,6
+Banco Itau Chile,ITAUCL.SN,4295863493,CHL,BITAU,SGO,ITAUCL,True,638
+Simmons First National Corp,SFNC.O,4295908679,USA,SFNC,NSQ,SFNC,True,2
+Aozora Bank Ltd,8304.T,4295878798,JPN,AOZRA,TYO,8304,True,9
+Atlantic Union Bankshares Corp,AUB,4295908241,USA,AUB,NYQ,AUB,True,2
+Aareal Bank AG,ARLG.DE,4295870187,DEU,ARLG,GER,ARL,True,152
+First Financial Bancorp,FFBC.O,4295906468,USA,FFBC,NSQ,FFBC,True,4
+Bancorp Inc,TBBK.O,4295913876,USA,TBBK,NSQ,TBBK,True,1
+BankUnited Inc,BKU,5001204503,USA,BKU,NYQ,BKU,True,2
+Banca Popolare Di Sondrio SpA,BPSI.MI,4295875604,ITA,BPSI,MIL,BPSO,True,108
+Banque Cantonale du Valais,WKB.S,5000069336,CHE,WKB,SWX,WKBN,True,15
+Sparebank 1 SMN,MING.OL,4295885457,NOR,MING,OSL,MING,True,60
+Bank Millennium SA,MILP.WA,4295886417,POL,MILP,WSE,MIL,True,3
+Columbia Financial Inc,CLBK.O,5000055148,USA,CLBK,NSQ,CLBK,True,1
+Moneta Money Bank as,MONET.PR,4297301555,CZE,MONET,PRA,MONET,True,7
+Washington Federal Inc,WAFD.O,4295908450,USA,WAFD,NSQ,WAFD,True,27
+Spar Nord Bank A/S,SPNO.CO,8589934197,DNK,SPNO,CPH,SPNO,True,20
+Canadian Western Bank,CWB.TO,4295861484,CAN,CWB,TOR,CWB,True,16
+TowneBank,TOWN.O,4295915684,USA,TOWN,NSQ,TOWN,True,13
+Hilltop Holdings Inc,HTH,4295899345,USA,HTH,NYQ,HTH,True,5
+First Merchants Corp,FRME.O,4295906482,USA,FRME,NSQ,FRME,True,1
+Islandsbanki hf,ISB.IC,5000050665,ISL,ISLAN,ICX,ISB,True,29
+Close Brothers Group PLC,CBRO.L,4295893936,GBR,CBRO,LSE,CBG,True,2
+Banque Cantonale de Geneve,BCGE.S,4295890495,CHE,BCGE,SWX,BCGE,True,6
+Bank fuer Tirol und Vorarlberg AG,TIRO.VI,4295859094,AUT,TIRO,VIE,BTS,True,114
+Tatra Banka as,1TAT01DE.BV,4295888234,SVK,ATATO,BRA,1TAT01DE,True,18
+Park National Corp,PRK,4295904677,USA,PRK,ASQ,PRK,True,1
+Yamaguchi Financial Group Inc,8418.T,4295877052,JPN,YMGFG,TYO,8418,True,4
+BNK Financial Group Inc,138930.KS,5030431978,KOR,BNKGR,KSC,138930,True,27
+Arion banki hf,ARION.IC,5000456213,ISL,ARION,ICX,ARION,True,26
+Renasant Corp,RNST.O,4295904715,USA,RNST,NSQ,RNST,True,18
+WesBanco Inc,WSBC.O,4295908454,USA,WSBC,NSQ,WSBC,True,2
+FB Financial Corp,FBK,5001152912,USA,FBKX,NYQ,FBK,True,1
+NBT Bancorp Inc,NBTB.O,4295907237,USA,NBTB,NSQ,NBTB,True,1
+Banner Corp,BANR.O,4295906502,USA,BANR,NSQ,BANR,True,1
+Northwest Bancshares Inc,NWBI.O,5000473957,USA,NWBI,NSQ,NWBI,True,3
+Sparebank 1 Ostlandet,SPOLS.OL,4296742738,NOR,SPOLS,OSL,SPOL,True,54
+Laurentian Bank of Canada,LB.TO,4295860617,CAN,LB,TOR,LB,True,56
+Graubuendner Kantonalbank,GRKP.S,4295890959,CHE,GRKP,SWX,GRKP,True,11
+First Bancorp (North Carolina),FBNC.O,5000073589,USA,FBNC,NSQ,FBNC,True,1
+Grupo Bolivar SA,SCA.CN,4295945605,COL,SCAX,COL,GRUBOLIVAR,True,4
+Bicecorp SA,BICECORP.SN,4295863549,CHL,BICEC,SGO,BICECORP,True,9
+Shinkin Central Bank,8421.T,4295876880,JPN,SHKCB,TYO,8421,True,61
+LHV Group AS,LHV1T.TL,4298430237,EST,LHVAT,TLX,LHV1T,True,7
+Customers Bancorp Inc,CUBI.K,5036875088,USA,CUBI,NYQ,CUBI,True,5
+Merchants Bancorp,MBIN.O,5034173692,USA,MBIN,NAQ,MBIN,True,4
+First Busey Corp,BUSE.O,4295913427,USA,BUSE,NSQ,BUSE,True,2
+Nova Ljubljanska Banka dd Ljubljana,NLBR.LJ,4296118059,SVN,NLBR,LJU,NLBR,True,8
+Sparebanken Vest,SVEG.OL,4295885600,NOR,SVEG,OSL,SVEG,True,31
+Grupo Security SA,SECURITY.SN,4295863422,CHL,SECUR,SGO,SECURITY,True,11
+Veritex Holdings Inc,VBTX.O,5000712227,USA,VBTX,NMQ,VBTX,True,4
+Sandy Spring Bancorp Inc,SASR.O,4295907855,USA,SASR,NSQ,SASR,True,2
+OceanFirst Financial Corp,OCFC.O,4295914414,USA,OCFC,NSQ,OCFC,True,2
+Origin Bancorp Inc,OBK,4298358908,USA,OBNK,NYQ,OBK,True,1
+Lakeland Bancorp Inc,LBAI.O,4295914030,USA,LBAI,NSQ,LBAI,True,1
+Sparebank 1 Nord-Norge,NONG.OL,4295885437,NOR,NONG,OSL,NONG,True,38
+Preferred Bank,PFBC.O,4295913040,USA,PFBC,NSQ,PFBC,True,90
+DGB Financial Group,139130.KS,5035153956,KOR,DGBFN,KSC,139130,True,18
+Brookline Bancorp Inc,BRKL.O,4295905778,USA,BRKL,NSQ,BRKL,True,1
+PacWest Bancorp,PACW.O,4295901484,USA,PACW,NSQ,PACW,True,3
+Southside Bancshares Inc,SBSI.O,4295907966,USA,SBSI,NSQ,SBSI,True,1
+First Bancshares Inc (Mississippi),FBMS.O,4295909852,USA,FBMS,NMQ,FBMS,True,2
+Banca IFIS SpA,IF.MI,4295875613,ITA,IF,MIL,IF,True,5
+Banc of California Inc,BANC.K,4295902744,USA,BANC,NYQ,BANC,True,31
+Dime Community Bancshares Inc,DCOM.O,4295912707,USA,DCOM,NSQ,DCOM,True,3
+Oma Saastopankki Oyj,OMASP.HE,5038864277,FIN,OMASP,HEX,OMASP,True,7
+Aktia Bank Abp,AKTIA.HE,5000460179,FIN,AKTIA,HEX,AKTIA,True,79
+ConnectOne Bancorp Inc,CNOB.O,4295905903,USA,CNOB,NSQ,CNOB,True,2
+Collector Bank AB,COLL.ST,5034828191,SWE,COLLEB,STO,COLL,True,5
+Sparebank 1 Sorost-Norge,SOONS.OL,4295885685,NOR,SOONS,OSL,SOON,True,43
+Premier Financial Corp (OHIO),PFC.O,4295906467,USA,PFCX,NSQ,PFC,True,1
+Vestjysk Bank A/S,VJBA.CO,4295865888,DNK,VJBA,CPH,VJBA,True,4
+Great Southern Bancorp Inc,GSBC.O,4295906616,USA,GSBC,NSQ,GSBC,True,1
+BKS Bank AG,KAER.VI,4295859105,AUT,KAER,VIE,BKS,True,100
+HBT Financial Inc,HBT.O,5000060908,USA,HBT,NSQ,HBT,True,1
+Amalgamated Bank,AMAL.O,4297404958,USA,AMALX,NMQ,AMAL,True,29
+First Mid Bancshares Inc,FMBH.O,4295913441,USA,FMBH,NMQ,FMBH,True,1
+Alandsbanken Abp,ALBAV.HE,4295866329,FIN,ALBAV,HEX,ALBAV,True,8
+Basellandschaftliche Kantonalbank,BLKB.S,4295890785,CHE,BLKB,SWX,BLKB,True,20
+Turkiye Sinai Kalkinma Bankasi AS,TSKB.IS,4295893556,TUR,TSKB,IST,TSKB.E,True,4
+illimity Bank SpA,ILTY.MI,5000784969,ITA,ILTY,MIL,ILTY,True,4
+Peapack-Gladstone Financial Corp,PGC.O,4295914515,USA,PGC,NSQ,PGC,True,3
+Hanmi Financial Corp,HAFC.O,4295900253,USA,HAFC,NSQ,HAFC,True,1
+Schweizerische Nationalbank,SNBN.S,8589934377,CHE,SNBN,SWX,SNBN,True,29
+Sparebanken Sor,SOR.OL,4295885583,NOR,SOR,OSL,SOR,True,32
+Farmers National Banc Corp,FMNB.O,5000049661,USA,FMNB,NAQ,FMNB,True,2
+Horizon Bancorp Inc,HBNC.O,4295913698,USA,HBNC,NSQ,HBNC,True,1
+Midland States Bancorp Inc,MSBI.O,5037270050,USA,MSBI,NSQ,MSBI,True,3
+Banco di Desio e della Brianza SpA,DESI.MI,4295875538,ITA,DESI,MIL,BDB,True,19
+Sparebank 1 Ringerike Hadeland,RING.OL,4295885590,NOR,RING,OSL,RING,True,16
+HarborOne Bancorp Inc,HONE.O,5068328098,USA,HONEX,NSQ,HONE,True,1
+Macquarie Bank Ltd,MBLPC.AX,4295856982,AUS,MQGMBL,ASX,,True,378
+Umweltbank AG,UBKG.DE,4295869137,DEU,UBKG,GER,UBK,True,2
+Siauliu Bankas AB,SAB1L.VL,4295882934,LTU,SABAL,VLX,SAB1L,True,2
+Basler Kantonalbank,BSKP.S,4295890792,CHE,BSKP,SWX,BSKP,True,16
+Mid Penn Bancorp Inc,MPB.O,4295904532,USA,MPB,NMQ,MPB,True,8
+Southern BancShares (N C ) Inc,SBNC.PK,5000063856,USA,SBNC,PNK,SBNC,True,3
+Shore Bancshares Inc,SHBI.O,4295914919,USA,SHBI,NSQ,SHBI,True,1
+Five Star Bancorp,FSBC.O,4296127909,USA,FSBC,NSQ,FSBC,True,1
+Independent Bank Corp (Michigan),IBCP.O,4295906784,USA,IBCP,NSQ,IBCP,True,1
+SmartFinancial Inc,SMBK.O,4295899181,USA,SMBK,NAQ,SMBK,True,1
+Equity Bancshares Inc,EQBK.K,4296939326,USA,EQBK,NYQ,EQBK,True,3
+American National Bankshares Inc,AMNB.O,4295912493,USA,AMNB,NSQ,AMNB,True,1
+Flushing Financial Corp,FFIC.O,4295906520,USA,FFIC,NSQ,FFIC,True,2
+CNB Financial Corp,CCNE.O,4295905814,USA,CCNE,NSQ,CCNE,True,2
+Bar Harbor Bankshares,BHB,4295903524,USA,BHB,ASQ,BHB,True,1
+Sparebank 1 Ostfold Akershus,SOAG.OL,4296569704,NOR,SOAG,OSL,SOAG,True,16
+Burke & Herbert Bank & Trust Co,BHRB.O,4296470997,USA,BHRB,NAQ,BHRB,True,11
+Sparebanken More,MORGS.OL,4295885353,NOR,MORGS,OSL,MORG,True,14
+Pareto Bank ASA,PARB.OL,5000587670,NOR,PARBX,OSL,PARB,True,17
+Glarner Kantonalbank,GLKBN.S,4296926290,CHE,GLKBN,SWX,GLKBN,True,14
+Midwestone Financial Group Inc (IOWA),MOFG.O,5000059168,USA,MOFG,NSQ,MOFG,True,2
+Enterprise Bancorp Inc,EBTC.O,4295909764,USA,EBTC,NSQ,EBTC,True,2
+Northeast Bank,NBN.O,5000072513,USA,NBN,NMQ,NBN,True,14
+TF Bank AB,TFBANK.ST,5046657899,SWE,TFBANK,STO,TFBANK,True,4
+Danske Andelskassers Bank A/S,DABA.CO,4296955793,DNK,DABA,CPH,DAB,True,1
+Sparebank 1 Helgeland,HELG.OL,4297237912,NOR,HELG,OSL,HELG,True,11
+Farmers & Merchants Bancorp Inc,FMAO.O,4296137737,USA,FMAO,NAQ,FMAO,True,1
+Citizens & Northern Corp,CZNC.O,4295912875,USA,CZNC,NAQ,CZNC,True,2
+Caisse Regionale de Credit Agricole Mutuel Brie Picardie,CRBP2.PA,5000050762,FRA,CRBPB,PAR,CRBP2,True,27
+Bridgewater Bancshares Inc,BWB.O,5000068349,USA,BWB,NAQ,BWB,True,5
+Sierra Bancorp,BSRR.O,4295912617,USA,BSRR,NSQ,BSRR,True,1
+Civista Bancshares Inc,CIVB.O,4295913429,USA,CIVB,NAQ,CIVB,True,2
+First Foundation Inc,FFWM.O,5064590429,USA,FFWM,NMQ,FFWM,True,1
+Home Bancorp Inc,HBCP.O,4298054621,USA,HBCP,NSQ,HBCP,True,1
+RBB Bancorp,RBB.O,5000841635,USA,RBB,NSQ,RBB,True,2
+Financial Institutions Inc,FISI.O,4295913393,USA,FISI,NSQ,FISI,True,3
+National Westminster Bank PLC,NWB_pa.L,4295895575,GBR,NWB,LSE,,True,91
+MyState Ltd,MYS.AX,4298546613,AUS,MYSX,ASX,MYS,True,2
+FS Bancorp Inc,FSBW.O,5035949334,USA,FSBW,NAQ,FSBW,True,2
+Caisse Reg Credit Agric Mut Nord France,CNDF.PA,4295868187,FRA,CADNi,PAR,CNDF,True,5
+Middlefield Banc Corp,MBCN.O,4295907297,USA,MBCN,NAQ,MBCN,True,3
+VersaBank,VBNK.TO,5001085582,CAN,VBNK,TOR,VBNK,True,2
+Bank Ochrony Srodowiska SA,BOSP.WA,4295886471,POL,BOSP,WSE,BOS,True,2
+Metro Bank PLC,MTRO.L,5032463794,GBR,MTROM,LSE,MTRO,True,2
+US Century Bank,USCB.O,4298217846,USA,USCBFU,NMQ,USCB,True,3
+Santa Cruz County Bank,SCZC.PK,4297091554,USA,SCZC,PNK,SCZC,True,1
+Ffb Bancorp,CFST.PK,5044035342,USA,CFST,PNK,CFST,True,2
+Codorus Valley Bancorp Inc,CVLY.O,4295905970,USA,CVLY,NMQ,CVLY,True,1
+FVCBankcorp Inc,FVCB.O,5057825057,USA,FVCB,NAQ,FVCB,True,1
+Southern States Bancshares Inc,SSBK.O,4297759136,USA,SSBK,NSQ,SSBK,True,4
+Bankwell Financial Group Inc,BWFG.O,5000047157,USA,BWFG,NMQ,BWFG,True,1
+First Western Financial Inc,MYFW.O,4298026825,USA,MYFW,NSQ,MYFW,True,4
+Sekerbank TAS,SKBNK.IS,4295893780,TUR,SKBNK,IST,SKBNK.E,True,4
+Sandnes Sparebank,SADG.OL,4295885599,NOR,SADG,OSL,SADG,True,14
+River Financial Corp,RVRF.PK,5046456427,USA,RVRF,PNK,RVRF,True,1
+SG Issuer SA,LEU5.L^K18,5036159086,LUX,SOGNSI,LSE,LEU5,False,14516
+Banque Cantonale Du Jura SA,BCJ.S,4295890704,CHE,BCJ,SWX,BCJ,True,4
+First Internet Bancorp,INBK.O,4297197492,USA,INBKX,NSQ,INBK,True,2
+Blue Ridge Bankshares Inc,BRBS.K,4296470980,USA,BRBS,ASQ,BRBS,True,1
+Banco Comercial AV Villas SA,VLL.CN,5001145817,COL,VLLX,COL,VILLAS,True,335
+Auswide Bank Ltd,ABA.AX,4295858259,AUS,ABAXZ,ASX,ABA,True,123
+HomeStreet Inc,HMST.O,4298443884,USA,HMST,NSQ,HMST,True,3
+Avidbank Holdings Inc,AVBH.PK,4296997637,USA,AVBH,PNK,AVBH,True,1
+Evans Bancorp Inc,EVBN.K,4295913344,USA,EVBN,ASQ,EVBN,True,1
+MBH Jelzalogbank Nyrt,TAKA.BU,4295872054,HUN,MBHJB,BUD,TAKAREKJZB,True,13
+First Commerce Bank,CMRB.PK,5000660312,USA,CMRB,PNK,CMRB,True,5
+Secure Trust Bank PLC,STBS.L,5000871210,GBR,STBS,LSE,STB,True,2
+Coastalsouth Bancshares Inc,COSO.PK,5000071759,USA,COSO,PNK,COSO,True,1
+First Guaranty Bancshares Inc,FGBI.O,5000058627,USA,FGBI,NMQ,FGBI,True,1
+Landesbank Baden Wuerttemberg,LKBFg.F^I15,4295926398,DEU,LKBF,,LBF1,False,5516
+Hanover Bancorp Inc (MINEOLA),HNVR.O,5071172949,USA,HANBP,NSQ,HNVR,True,1
+Franklin Financial Services Corp,FRAF.O,4295913513,USA,FRAF,NAQ,FRAF,True,2
+First Northwest Bancorp,FNWB.O,4296413309,USA,FNWB,NMQ,FNWB,True,1
+Totens Sparebank,TOTG.OL,4295885681,NOR,TOTG,OSL,TOTG,True,13
+Partners Bancorp,PTRS.O,4298052432,USA,PTRS,NAQ,PTRS,True,1
+Meridian Corp,MRBK.O,4296376946,USA,MRBK,NSQ,MRBK,True,1
+Jaeren Sparebank,JAREN.OL,4295885706,NOR,JAREN,OSL,JAREN,True,11
+Ohio Valley Banc Corp,OVBC.O,4295907458,USA,OVBC,NMQ,OVBC,True,9
+BankFinancial Corp,BFIN.O,4295899581,USA,BFINX,NSQ,BFIN,True,1
+Eagle Bancorp Montana Inc,EBMT.O,4296361001,USA,EBMT,NMQ,EBMT,True,3
+First Keystone Corp,FKYS.PK,4295913433,USA,FKYS,PNK,FKYS,True,1
+Caisse Regionale De Credit Agricole Mutuel Toulouse 31,CAT31.PA,4295867049,FRA,CATCA,PAR,CAT31,True,1
+Sparebank 1 Nordmore,SNOR.OL,4297242006,NOR,SNOR,OSL,SNOR,True,23
+First Savings Financial Group Inc,FSFG.O,4298075773,USA,FSFG,NAQ,FSFG,True,2
+Union Bankshares Inc,UNB.O,4295900988,USA,UNBX,NMQ,UNB,True,1
+Morrow Bank ASA,MOBAM.OL,5045818447,NOR,KOMPK,OSL,MOBA,True,3
+Sparebanken Ost,SPOG.OL,4295885327,NOR,SPOG,OSL,SPOG,True,17
+DZ BANK AG Deutsche Zentral Genossenschaftsbank Frankfurt am Main,DGBGg.F^A13,4296420951,DEU,DBANK,,DGB5,False,2819
+Aurskog Sparebank,AURG.OL,4295885606,NOR,AURG,OSL,AURG,True,16
+HSBC USA Inc,HUSI_pf.K^F16,4295900343,USA,HSBAOH,NYQ,HUSI PR F CL,False,2679
+Landesbank Hessen Thueringen Girozentrale,LHTGg.F^E15,8589934258,DEU,HLBG,,HLQC,False,2615
+Sound Financial Bancorp Inc,SFBC.O,5037362943,USA,SFBC,NAQ,SFBC,True,1
+Primary Bank,PRMY.PK,5050471276,USA,PRIYB,PNK,PRMY,True,2
+Caisse Regionale De Credit Agricole Mutuel Sud Rhone Alpes,CRSU.PA,4295867774,FRA,CRSU,PAR,CRSU,True,5
+Security Federal Corp,SFDL.PK,5000067367,USA,SFDL,PNK,SFDL,True,1
+Studio Bank,STBK.PK,5064612950,USA,STBK,PNK,STBK,True,1
+F & M Bank Corp,FMBM.PK,4295913366,USA,FMBM,PNK,FMBM,True,1
+Freedom Bank of Virginia,FDVA.PK,4297208937,USA,FDVA,PNK,FDVA,True,26
+Community Bank of the Bay,CBOBA.PK,4296977640,USA,CBOBA,PNK,CBOBA,True,4
+Village Bank and Trust Financial Corp,VBFC.O,4295899394,USA,VBFC,NAQ,VBFC,True,1
+Bayerische Landesbank,BLGGgi.F^D20,4295869477,DEU,BLGG,,,False,1015
+Pathfinder Bancorp Inc (MARYLAND),PBHC.O,5042953647,USA,PBHC,NAQ,PBHC,True,1
+Traditions Bank (Pennsylvania),TRBK.PK,5000034996,USA,TRDOBT,PNK,TRBK,True,6
+UniCredit Bank AG,HVMG.DE^I08,5000048673,DEU,UCGUNI,GER,HVM,False,887
+Nordfyns Bank A/S,NRDF.CO,4295865894,DNK,NRDF,CPH,NRDF,True,3
+Scotiabank Chile,SCOTIAOSA.SN^E20,5000038955,CHL,SCOTX,SGO,,False,818
+Credit Industriel et Commercial SA,CC.PA^H17,4295866679,FRA,CAFDMC,PAR,CC,False,785
+Moens Bank A/S,MNBA.CO,4295865905,DNK,MNBA,CPH,MNBA,True,2
+West Town Bank & Trust,IFHI.PK,5000647638,USA,IFHI,PNK,IFHI,True,16
+Credit Agricole Alpes Provence,CRAP.PA,4295868036,FRA,CRAP,PAR,CRAP,True,9
+Australia and New Zealand Banking Group Ltd,AN3PF.AX^C23,4295856605,AUS,ANZ,ASX,AN3PF,False,657
+US Metro Bank,USMT.PK,4296227484,USA,USMT,PNK,USMT,True,2
+Idaho First Bank,IDFB.PK,4296176819,USA,IDFB,PNK,IDFB,True,18
+Bristol & West PLC,BWS_p.L,4298128828,GBR,BWS,LSE,,True,1
+Triad Business Bank,TBBC.PK,5073129960,USA,TBBC,PNK,TBBC,True,15
+1st Colonial Bancorp Inc,FCOB.PK,4295902819,USA,FCOB,PNK,FCOB,True,1
+Marine Bancorp of Florida Inc,MBOF.PK,5057493855,USA,MBOF,PNK,MBOF,True,1
+Muenchener Hypothekenbank eG,MHYGg.MU^D09,4296552093,DEU,MNCHY,,MHY1,False,310
+Pinnacle Bankshares Corp,PPBN.PK,4295913041,USA,PPBN,PNK,PPBN,True,1
+Melhus Sparebank,MELG.OL,4295885598,NOR,MELG,OSL,MELG,True,13
+Middletown Valley Bank,CMHF.PK,5000066947,USA,CMHF,PNK,CMHF,True,1
+Bank of San Francisco,BSFO.PK,5000337505,USA,BSFO,PNK,BSFO,True,6
+First-Citizens Bank & Trust Co,CIT^A22,4296462551,USA,FCNCFI,NYQ,,False,200
+OP Yrityspankki Oyj,POH1S.HE^J14,4295866371,FIN,OPOSUY,HEX,POH1S,False,174
+UniCredit Bank Austria AG,BACA.VI^E08,4295859002,AUT,CRDIUE,VIE,BACA,False,165
+Kaupthing ehf,KAUP.IC^A09,4295872108,ISL,KAUHG,ICX,KAUP,False,157
+Patriot National Bancorp Inc,PNBK.O,4295914496,USA,PNBKX,NMQ,PNBK,True,2
+United National Bank,UNBK.PK,5000660239,USA,UNBKX,PNK,UNBK,True,19
+West Shore Bank Corp,WSSH.PK,4296418401,USA,WSSH,PNK,WSSH,True,3
+KEB Hana Bank,004940.KS^D13,4295882085,KOR,KEBHN,KSC,4940,False,140
+Hypo Vorarlberg Bank AG,HBVVp.VI^K08,4295858966,AUT,VORARH,,HVPS,False,138
+Berlin Hyp AG,BHH.TG^H13,4295869044,DEU,LKBFR,TDG,BHH,False,126
+HSBC Continental Europe SA,CCFP.PA^J00,4295866775,FRA,HSBCUH,PAR,,False,121
+BNK Banking Corporation Ltd,BBC.AX,5037340953,AUS,BBCX,ASX,BBC,True,2
+Woori Bank,000030.KS^B19,5000039820,KOR,WRFGRB,KSC,000030,False,107
+Sumitomo Mitsui Trust Bank Ltd,8403.T^C11,4295878061,JPN,MITBKA,TYO,8403,False,103
+Hsbc Bank Canada,HSB_pc.TO^A18,5056392671,CAN,HSBABC,TOR,,False,90
+DEUTSCHE APOTHEKERUND AeRZTEBANK eG,KWGGgi.F^F09,4295941012,DEU,DAPOB,,DAE1,False,89
+Glitnir HoldCo ehf,GLB.IC^J08,4295872105,ISL,GLIRH,ICX,GLB,False,80
+Touchstone Bank,TSBA.PK,4295902876,USA,TSBA,PNK,TSBA,True,1
+Pacific Alliance Bank,PFBN.PK,4297797152,USA,PFBN,PNK,PFBN,True,7
+Oak View National Bank,OAKV.PK,5000646891,USA,OAVNA,PNK,OAKV,True,1
+SVB Financial Group,SIVBQ.PK,4295907927,USA,SIVB,PNK,SIVBQ,True,13
+Banca Nazionale del Lavoro SpA,BANIr.MI^L06,4295875841,ITA,BNPBZN,MIL,BNLR,False,54
+Tysnes Sparebank,TYSB.OL,5040942372,NOR,TYSB,OSL,TYSB,True,11
+IKB Deutsche Industriebank AG,IKBGga.F^G17,4295868946,DEU,LSFEUK,,IKBG,False,33
+Kreissparkasse Goeppingen,KSGGgd.SG^E13,4296715208,DEU,KSPSE,,KSG9,False,31
+Busan Bank,005280.KS^C11,4295880900,KOR,BNKGRB,KSC,5280,False,28
+Daegu Bank Ltd,DGGPF.PK^G11,4295880962,KOR,DGBFNB,PNK,DGGPF,False,26
+Banco Santander Mexico SA Institucion de Banca Multiple Grupo Financiero Santand,BSMXB.MX^E23,4298283335,MEX,BSMXB,MEX,BSMXB,False,25
+California Bank of Commerce,CABC.PK^G17,4297709214,USA,CALBC,OTC,,False,18
+Jeonbuk Bank Ltd,006350.KS^G13,4295881066,KOR,JBFGRJ,KSC,6350,False,16
+Sogn Sparebank,SOGNS.OL,4295885677,NOR,SOGNS,OSL,SOGN,True,3
+Kwangju Bank Co Ltd,192530.KS^J18,5042367661,KOR,KJBFG,KSC,192530,False,15
+Commonwealth Business Bank,CWBB.PK^I17,4296113555,USA,CBBIA,OTC,,False,15
+Holand og Setskog Sparebank,HSPG.OL,4296310165,NOR,HSPG,OSL,HSPG,True,14
+Santander Holdings USA Inc,SOV_pc^H18,5000001412,USA,SANRG,NYQ,,False,14
+Signature Bank,SBNY.PK,5000037516,USA,SBNY,PNK,SBNY,True,98
+Deutsche Bank Ag (London Branch),DZZ,4296555278,GBR,DBKGUK,PCQ,DZZ,True,1922
+Berliner Volksbank eG,BEVGgd.BE^C08,4295976931,DEU,BERVK,,BVN4,False,12
+Volksbank Vorarlberg e Gen,VBGVp.VI^F23,4295859090,AUT,VBGV,,,False,12
+Oldenburgische Landesbank AG,OLBG.F^G18,4295869596,DEU,OLDCB,FRA,OLB,False,11
+Sparkasse Pforzheim Calw,SPFGgf.SG^A07,4295917292,DEU,SPFG,,SPF6,False,10
+Banco Bpi SA,BBPI.LS^L18,8589934325,PRT,BBPI,LIS,BPI,False,10
+Caixa Economica Montepio Geral Caixa Economica Bancaria SA,MPIO.LS^I17,4296466216,PRT,MONGEP,,MPIO,False,8
+HBOS Plc,HBOS.L^A09,4295895499,GBR,LLOYOB,LSE,HBOS,False,8
+Banco di Sardegna SpA,BCH1_p.SG^F21,4295875328,ITA,BCHA,STU,BCH1,False,6
+Banco Inbursa SA Institucion de Banca Multiple Grupo Financiero Inbursa,FNAIM18.MX^D19,4296721032,MEX,GFINBI,MEX,FNAIM18,False,6
+Banco Compartamos SA Institucion de Banca Multiple,4FW.BE^C12,4295884470,MEX,COMPRM,BER,4FW,False,6
+BNP Paribas Issuance BV,,4296858866,NLD,BNPPAI,,,False,25451
+CoBank ACB,CBKPP.PK^I22,4298009372,USA,CBKPP,PNK,,False,5
+Southeast Banking Corp,STBPQ.PK^I10,4295911470,USA,SOUBA,PNK,STBPQ,False,5
+HSBC Mexico SA Institucion de Banca Multiple Grupo Financiero HSBC,INTENALB.MX^F04,4295884269,MEX,HSBAW,MEX,,False,5
+Prima Banka Slovensko as,1PKB02CE.BV^G19,4295888235,SVK,PTIMGB,BRA,,False,5
+HSBC Bank PLC,MDBL.L^I92,4295895566,GBR,HSBCU,LSE,,False,13210
+Jpmorgan Chase Financial Company LLC,,5050707760,USA,JPMFIN,,,False,12364
+Barclays Bank PLC,,4296470941,GBR,BARCR,,,True,11857
+JP Morgan Structured Products BV,,4297647222,NLD,JPMSP,,,False,10955
+Credit Suisse Ag London Branch,,4296785143,GBR,CSGNLN,,,False,8169
+JPMorgan Chase Bank NA,,4296044915,USA,JPMBK,,,False,5843
+Bank Cler AG,BC.S^D19,4295890515,CHE,BSLRKB,SWX,BC,False,4
+Shawbrook Group PLC,SHAW.L^H17,5039586530,GBR,SHAWB,LSE,,False,4
+Turk Ekonomi Bankasi AS,TEBNK.IS^F15,4295893775,TUR,TEBHDK,IST,TEBNK,False,4
+Itau CorpBanca Colombia SA,BCA.CN^C12,4295865682,COL,ITCOL,COL,SANTANDER,False,4973
+Banco Mundo Mujer SA,,5052134082,COL,BMM,,,False,3539
+Banco Coomeva SA,,5038078340,COL,BOOME,,,False,2934
+Banco Falabella SA,,5000728040,COL,FLBCO,,,False,2832
+Synchrony Bank,,5000601425,USA,SYFSY,,,False,2475
+International Bank for Reconstruction and Development,,8589934570,USA,IBRD,,,,2072
+Standard Chartered Bank,,4296126537,GBR,STANHB,,,False,2028
+Bofa Finance LLC,,5051775086,USA,BACBON,,,False,1962
+Banco Finandina SA Bic,,4296937771,COL,FIAND,,,False,1640
+Virginia Partners Bank,PTRS.PK^K19,5000646892,USA,VIIIP,OTC,,False,3
+Credit Agricole Corporate and Investment Bank SA,INDOp.PA^F04,4297220581,FRA,CAGRAB,,,False,1329
+Banco Caja Social SA,,4296989386,COL,BNCJS,,,False,1323
+Banco del Estado de Chile,,4296395040,CHL,BAESC,,,,1287
+Royal Bank of Canada (London branch),,5000731377,GBR,RYAAA,,,False,1266
+International Finance Corp,IFK^L10,4296537663,USA,IFC,PCQ,IFK,False,1245
+Norddeutsche Landesbank Girozentrale,,4296555134,DEU,NORDL,,,False,1226
+ING Bank NV,INGs.AS^I99,4295884895,NLD,INGABK,AEX,,False,1059
+KfW,,4295868960,DEU,KFW,,,,1023
+Morgan Stanley Bank NA,,4296783400,USA,MSDWT,,,False,986
+Merrill Lynch BV,,5038044443,NLD,BACME,,,False,952
+Korea Development Bank,,4296424232,KOR,KDB,,,,801
+European Investment Bank,,8589934159,LUX,EIB,,,,752
+Inter-American Development Bank,,8589934158,USA,IADB,,,,710
+European Bank for Reconstruction and Development,,8589934160,GBR,EBRD,,,,676
+Bpce SA,,5000084509,FRA,BPCE,,,False,664
+Discover Bank,,4296730072,USA,DFSDI,,,False,659
+Banco Serfinanza SA,,5038040856,COL,DOLIF,,,False,656
+BMO Harris Bank NA,,4297599861,USA,BMOHNA,,,False,648
+Investec Bank PLC,IM88.L,5000068837,GBR,IMBA,LSE,,True,643
+Banco Nacional de Obras y Servicios Publicos SNC Institucion de Banca de Desarro,,4296749384,MEX,BNOSP,,,,632
+Nederlandse Waterschapsbank NV,,4296543239,NLD,NDLWR,,,,609
+Cooperatieve Rabobank UA,,4298009762,NLD,RABO,,,False,599
+Banco Safra SA (Luxembourg Branch),,5043319006,LUX,BCSFRN,,,False,597
+Barclays Bank Ireland PLC,,5000005399,IRL,BARCID,,,False,590
+Raiffeisenlandesbank Oberoesterreich AG,RLBOp.VI^D16,4296703794,AUT,RAFSNR,,OOPS,False,575
+Banco de Las Microfinanzas Bancamia SA,,5000754825,COL,BNMIA,,,False,564
+Wells Fargo Bank NA,,4297085623,USA,WFCHLL,,,False,562
+Citibank NA,CKYKP.PK^C06,5000035789,USA,CITCRB,PNK,,False,541
+Credit Agricole CIB Finance Luxembourg SA,,5064593845,LUX,CAGRA,,,False,539
+Nomura Bank International PLC,,4296540146,GBR,NMHLDC,,,False,536
+Banco do Brasil SA (New York Branch),,5035094999,USA,BBASCN,,,False,481
+NRW Bank,,4296865322,DEU,NRWBK,,,,447
+Banque Internationale a Luxembourg SA,LU0006040975.BR,4295883019,LUX,LUOOO,BRU,,True,443
+Banque Federative du Credit Mutuel SA,,4296063555,FRA,CAFDDC,,,False,417
+Live Oak Banking Co,,5000607732,USA,LOBXO,,,False,366
+Bng Bank NV,,4295884742,NLD,BNGBA,,,,366
+Banco BICE,BIE.CE^C16,4295863470,CHL,BICECA,BEC,BICE,False,359
+Beal Bank USA,,5000600055,USA,BEALB,,,False,354
+Toronto-Dominion Bank (New York Branch),,5001168265,USA,TDNYB,,,False,330
+Toronto-Dominion Bank (London Branch),,5001167895,GBR,TDLON,,,False,313
+Canadian Imperial Bank of Commerce (Toronto Branch),,5035774224,CAN,CMCCT,,,False,308
+Bank of America NA,NBCFO.OB^J99,4297131030,USA,BACNAB,OBB,,False,305
+Landeskreditbank Baden Wuerttemberg Foerderbank,,4296080185,DEU,LNBAD,,,,303
+MUFG Bank Ltd (New york Branch),,5001112977,USA,MTFGIU,,,False,292
+Santander International Products Public Ltd Co,,4297420314,ESP,SANSIP,,,False,275
+Natixis (New York Branch),,5001114867,USA,CNATY,,,False,273
+Luana Savings Bank,,4296613090,USA,LUANAB,,,False,266
+Development Bank of Japan Inc,,4296543409,JPN,DBJPN,,,,263
+Beal Bank,,5000040590,USA,BEALFB,,,False,261
+Royal Bank of Canada (New York Branch),,5040255928,USA,RYNYA,,,False,258
+Credit Agricole Corporate and Investment Bank (New York Branch),,5040273438,USA,CAGRCD,,,False,258
+TIAA FSB Holdings Inc,EVER.K^F17,4297013677,USA,TIAABS,NYQ,,False,2
+Bank2 ASA,BATO.NFF^I19,4298292649,NOR,BANKS,NFF,BANK2,False,2
+Banif Banco Internacional do Funchal SA em Liquidacao,BANIF.LS^A16,5000035987,PRT,BANIF,LIS,BANIF,False,2
+Mizuho Trust & Banking Co Ltd,8404.T^H11,4295880625,JPN,MZFGAH,TYO,8404,False,2
+Alternatifbank AS,ALNTF.IS^G15,4295893763,TUR,COMBXF,IST,ALNTF,False,2
+State Bank of India (New york Branch),,5000773966,USA,SBINY,,,False,240
+Celtic Bank Corp,,5000050078,USA,CELTIB,,,False,239
+Canadian Imperial Bank of Commerce (New York Branch),,4295984433,USA,CMIMC,,,False,230
+MUFG Bank Ltd (Sydney Branch),,5000942391,AUS,MTFGTY,,,False,227
+BMW Bank of North America,,4298208230,USA,BMWGN,,,False,227
+Industrial and Commercial Bank of China Ltd (Sydney Branch),,5000701292,AUS,ICBAFQ,,,False,221
+Sumitomo Mitsui Banking Corp (Sydney Branch),,5000608724,AUS,SUMSYD,,,False,221
+Banco Ripley,,5000711743,CHL,RIPBCO,,,False,209
+Raiffeisen Landesbank Steiermark AG,,4296587122,AUT,RLBSMF,,,False,201
+Royal Bank Of Canada (Sydney Branch),,4298376322,AUS,RYCAU,,,False,199
+Banque Populaire Val de France,,4297496338,FRA,BPCEAQ,,,False,198
+Bank of Montreal (Chicago branch),,4298053497,USA,BMOCB,,,False,195
+Sumitomo Mitsui Banking Corp (New York Branch),,5000401478,USA,SUMFSM,,,False,191
+Mizuho Bank Ltd (New York Branch),,5001168291,USA,MZFGH,,,False,187
+BNP Paribas (New York Branch),,4297128641,USA,BNPPY,,,False,182
+Lloyds Bank Corporate Markets PLC,,5057476778,GBR,LLOYM,,,False,181
+Mizuho Bank Ltd (Sydney Branch),,5000675183,AUS,MZFGAN,,,False,180
+First Foundation Bank,,5000774324,USA,FFWMF,,,False,179
+Bank of China Ltd (Sydney Branch),,4297169786,AUS,BKCHAU,,,False,174
+Bank of Communications Co Ltd (Sydney Branch),,5039106519,AUS,BKCOMY,,,False,174
+Compagnie de Financement Foncier SA,,4296092115,FRA,BPCERF,,,False,171
+Cooperatieve Rabobank UA (New York Branch),,5000610154,USA,RABON,,,False,168
+Canadian Imperial Bank of Commerce (Sydney Branch),,5001094029,AUS,CMAUS,,,False,168
+Kookmin Bank,,5000076303,KOR,KBFNGK,,,False,166
+KBC Ifima SA,,5044364754,LUX,KBCIFM,,,False,160
+Texas Exchange Bank SSB,,5000650168,USA,TXSEB,,,False,159
+Sumitomo Mitsui Trust Bank Ltd (New York Branch),,5000883049,USA,MITBKI,,,False,157
+Oversea-Chinese Banking Corporation Ltd (Sydney Branch),,5001217461,AUS,OCBCAU,,,False,156
+DLR Kredit A/S,,4295866110,DNK,DLRKR,,,False,152
+United Overseas Bank Ltd (Sydney Branch),,4298146841,AUS,UOBHSY,,,False,151
+Hypo Noe Landesbank fuer Niederoesterreich und Wien AG,,4296576032,AUT,NOEHLF,,,False,146
+Pacific Western Bank,PWB.A^D94,5000106577,USA,PACWTB,ASE,,False,143
+China Construction Bank Corp (Tokyo Branch),,5041079932,JPN,CNCBKM,,,False,141
+Shoko Chukin Bank Ltd,,4295878866,JPN,SKCBK,,,False,141
+Raiffeisenverband Salzburg Egen,,4296918511,AUT,RSALZ,,,False,140
+Nordea Bank Abp (New York Branch),,5000398827,USA,NDAFIN,,,False,139
+Svenska Handelsbanken AB (New York Branch),,4296688734,USA,SHBSH,,,False,136
+Rabobank London (London Branch),,5000613122,GBR,RABOL,,,False,131
+1st Financial Bank USA,,5000678432,USA,FNCBK,,,False,131
+Suncorp-Metway Ltd,,5035391926,AUS,SUNCM,,,False,129
+Cibanco SA Institucion de Banca Multiple,,4298528922,MEX,MIRAP,,,False,128
+Hamburger Sparkasse AG,,4296880258,DEU,HASPAS,,,False,127
+Belfius Banque SA,,4296394119,BEL,SFDPIA,,,False,126
+Sallie Mae Bank,,5000615214,USA,SLMSBK,,,False,126
+Nacional Financiera SNC (London Branch),,5035725287,GBR,NACFNC,,,False,126
+Banco de Credito e Inversiones SA (Miami Branch),,5035455451,USA,BCIB,,,False,124
+Raiffeisen Landesbank Vorarlberg mit Revisionsverband eGen,,4296803425,AUT,RFELV,,,False,123
+Bnp Paribas (London Branch),,5001111230,GBR,BNPSD,,,False,122
+WebBank,,4296277419,USA,STPHOW,,,False,122
+Hamilton Capital Trust I,HABKP.PK^D16,4295970901,USA,HABKP,PNK,HABKP,False,1
+Golden Mountain Financial Corp,FNBCQ.PK^A21,5001291846,USA,GOMOF,PNK,,False,1
+Franklin Bank Corp,FBTXQ.PK^A15,4295905252,USA,FBTXQ,OTC,FBTXQ,False,1
+Malvern Bancorp Inc,MLVF.O^G23,5037590570,USA,MLVF,NMQ,,False,1
+HSBC Trinkaus & Burkhardt AG,TUBG.D^A21,4295869032,DEU,HSBCUT,DUS,TUB,False,1
+Aareal Beteiligungen AG,AHYGga.F^D10,4297245100,DEU,ARLGR,,AHY2,False,1
+Deutsche Bank Mexico SA Institucion de Banca Multiple,DBMOF.PK^K12,4295967926,MEX,DBKGMX,PNK,DBMOF,False,1
+Dexia SA,DEXI.BR^L19,8589934302,BEL,DXBGY,BRU,DEXB,False,1
+Raiffeisenlandesbank Niederoesterreich Wien AG,,4296585421,AUT,RHNDWR,,,False,118
+NongHyup Bank,,5037349820,KOR,NAGRIB,,,False,114
+Cooperatieve Rabobank UA (Sydney Branch),,4297066570,AUS,RABOO,,,False,113
+Swedbank AB (New York Branch),,5001115662,USA,SWEDXN,,,False,113
+MUFG Bank Ltd,8315.T^C01,4295878360,JPN,MTFGTU,TYO,8315,False,110
+Mizuho Bank Ltd (London Branch),,5000263732,GBR,MZFGOB,,,False,109
+MUFG Bank Ltd (London Branch),,5001111208,GBR,MTFGIR,,,False,107
+American Express National Bank,,4296443914,USA,AXPTRO,,,False,107
+China Construction Bank Corp (Seoul Branch),,5001166651,KOR,CNCBKL,,,False,106
+KBC Bank NV,,4295982440,BEL,KBCBK,,,False,105
+Hypo Tirol Bank AG,,4296715194,AUT,LDHYKT,,,False,105
+Sumitomo Mitsui Banking Corp,8318.T^K02,5000001007,JPN,SUMFGI,TYO,8318,False,104
+Standard Chartered Bank (New York Branch),,4296080427,USA,STANBY,,,False,102
+Bank of Nova Scotia (Sydney Branch),,5057780575,AUS,BNSAU,,,False,100
+LCA Bank Corp,,5000605593,USA,LEASEL,,,False,96
+BPCE SFH SA,,5035086727,FRA,BPCEBC,,,False,96
+Wells Fargo Finance LLC,,5063732457,USA,WFCFA,,,False,95
+Sumitomo Mitsui Banking Corporation (Brussels Branch),,5000760721,BEL,SUMFBE,,,False,94
+DBS Bank Ltd (Sydney Branch),,5045871692,AUS,DBSMSK,,,False,93
+Sparkasse Emsland,,4296784422,DEU,KSKAH,,,False,93
+Mitsubishi UFJ Trust And Banking Corp,8402.T^C01,4295880553,JPN,MTFGTB,TYO,8402,False,92
+Atlantic Asset Securitization LLC,,4296317123,USA,CAGRAT,,,False,92
+Industrial and Commercial Bank of China Ltd (Luxembourg Branch),,5000683908,LUX,ICBACF,,,False,91
+DNB Boligkreditt AS,,4297653217,NOR,DNBDB,,,False,91
+Kreissparkasse Heilbronn,,4296674170,DEU,KSPKH,,,False,91
+Bank of Montreal (London Branch),,5001111206,GBR,BMOLD,,,False,90
+Korea Development Bank (London Branch),,4296999124,GBR,KDBLN,,,False,90
+Jonesboro State Bank,,5000648540,USA,JONBAJ,,,False,90
+Bank of Montreal (Toronto Branch),,5037935712,CAN,BMOTO,,,False,90
+National Australia Bank Ltd (London Branch),,5000953432,GBR,NABUK,,,False,89
+NIBC Bank NV,,4295884631,NLD,NEWNIB,,,False,89
+BAWAG PSK Bank fuer Arbeit und Wirtschaft und Oesterreichische Postsparkasse AG,,4296729968,AUT,BAWGA,,,False,89
+Banco Santander SA (New York Branch),,4296154985,USA,SANNY,,,False,88
+Mizuho Bank Ltd,8317.T^I00,4295878063,JPN,MZFGK,TYO,8317,False,88
+Uinta Bank,,5000592715,USA,UCSBFU,,,False,87
+Barclays Bank PLC (New York Branch),,5001112991,USA,BARCBN,,,False,86
+Crossfirst Bank,,5000648166,USA,CROFTB,,,False,86
+Western Alliance Bank,,4297596999,USA,WALALB,,,False,83
+Westpac Banking Corporation (New York branch),,5000611677,USA,WBCWB,,,False,83
+PNC Bank NA,,4296959656,USA,PNCBKN,,,False,83
+Sumitomo Mitsui Trust Bank Ltd (London Branch),,5000866874,GBR,MITBKL,,,False,82
+The Central Bank of Chile,,8589934488,CHL,BCCL,,,,82
+Council of Europe Development Bank,,4295946698,FRA,CEB,,,,80
+Legacy Bank & Trust Co,,5000649118,USA,CURBNL,,,False,80
+DMB Community Bank,,5000001055,USA,DMBCOM,,,False,79
+Mitsubishi Ufj Trust and Banking Corp (London Branch),,5001168240,GBR,MTFGBU,,,False,78
+Teachers Mutual Bank Ltd,,4298362665,AUS,TMBAU,,,False,78
+State Bank of India (Chicago Branch),,5000776446,USA,SBICH,,,False,77
+Industrial And Commercial Bank Of China Ltd (Tokyo Branch),,5001166551,JPN,ICBAFT,,,False,76
+Industrial and Commercial Bank of China Ltd (Seoul Branch),,5001166626,KOR,ICBAFE,,,False,75
+Bank of China Ltd (New York Branch),,5001112967,USA,BKCHNW,,,False,75
+Stadtsparkasse Wuppertal,,4296712650,DEU,SSPKW,,,False,74
+Industrial and Commercial Bank of China Ltd (London Branch),,5045856696,GBR,ICBATF,,,False,73
+Lakeside Bank,,4296715513,USA,LABAPL,,,False,72
+Customers Bank,NCYB.PK^K11,5001175359,USA,CUBIU,QBB,NCYB,False,72
+Cassa di Risparmio di Asti SpA,CRASTI.HT,5000058110,ITA,CRAST,HMT,IT0001090783,True,71
+Bank of Communications Co Ltd (Tokyo Branch),,5043336688,JPN,BKCOMT,,,False,71
+MidFirst Bank,,5026392701,USA,DORCHI,,,False,71
+Synovus Bank,,4296529352,USA,SNVSYN,,,False,71
+Credit Industriel et Commercial SA (New York Branch),,5001113473,USA,CAFDCT,,,False,69
+Raiffeisenlandesbank Burgenland und Revisionsverband eGen,,5000050191,AUT,RLBUR,,,False,69
+Sparkasse Schwaebisch Hall Crailsheim,,5000030138,DEU,SPSHC,,,False,69
+Bank of Nova Scotia (Houston Branch),,5000733676,USA,BNSHUS,,,False,68
+Credit Lyonnais SA,,8589934311,FRA,CRLP,,,False,68
+First PREMIER Bank,,4296063882,USA,UNINAF,,,False,67
+Volvo Treasury AB,,4296471853,SWE,VOLVT,,,False,65
+National Bank of Kuwait (New York Branch),,5030787585,USA,NBKKN,,,False,65
+John Marshall Bank (Reston Branch),,5034146384,USA,JMSBMB,,,False,64
+Police & Nurses Ltd,,4298004990,AUS,POLNL,,,False,64
+Kreissparkasse Esslingen Nuertingen,,5000041774,DEU,KRSEN,,,False,64
+TIAA FSB,,5000731291,USA,TIAABB,,,False,63
+The Norinchukin Bank (London Branch),,5001167847,GBR,NORBKL,,,False,62
+LfA Foerderbank Bayern,,4297551525,DEU,LFAFO,,,,61
+Victoria Teachers Ltd,,4298376849,AUS,VICTE,,,False,61
+Mega International Commercial Bank Co Ltd (Sydney Branch),,4297288025,AUS,MEGAAU,,,False,61
+Mediobanca International Luxembourg SA,,5000037433,LUX,MDBIM,,,False,61
+Citibank NA (London Branch),,5001110470,GBR,CRPHBD,,,False,60
+Flagstar Bank National Association,,4296977018,USA,NYCBF,,,False,60
+Eaglemark Savings Bank,,5000456621,USA,HOGDVG,,,False,59
+Credit Suisse AG,,4295890645,CHE,CSGNSU,,,False,58
+Bank of Korea,,5000010123,KOR,BANKK,,,,58
+Commerce Bank (Minnesota),,5000660170,USA,CMRBCC,,,False,57
+Oversea-Chinese Banking Corporation Ltd (New York Branch),,5001168154,USA,OCBCNE,,,False,57
+Comenity Capital Bank,,4297331107,USA,ADSCA,,,False,57
+Bank Hapoalim BM (New York Branch),,5000728457,USA,POLIN,,,False,57
+DNB BANK ASA (New York Branch),,5001112835,USA,DNBDK,,,False,56
+Riverhills Bank,,5000659549,USA,NERICR,,,False,56
+Sparkasse Oberoesterreich Bank AG,,4295858994,AUT,ATALSS,,,False,55
+NatWest Markets NV,ABZRF.PK^C06,4296540158,NLD,NWGNM,PNK,,False,55
+SBAB Bank AB (publ),,4296811369,SWE,SBAB,,,False,55
+Landesbank Baden Wuerttemberg (New York Branch),,5000083581,USA,LKBFLW,,,False,54
+Norinchukin Bank (New York Branch),,5001114920,USA,NORBKA,,,False,54
+Manulife Bank of Canada,,4297301744,CAN,MFCBA,,,False,53
+Transportation Alliance Bank Inc,,4298364013,USA,FJMNGT,,,False,52
+Poppy Bank,,5000660200,USA,BGPPPP,,,False,52
+Bank Australia Ltd,,4297240374,AUS,BANAU,,,False,52
+BankUnited NA,,5035433006,USA,BKUBA,,,False,52
+Kreissparkasse Koeln,,4296242946,DEU,KSPKL,,,False,52
+Bridgewater Bank,,5000075031,USA,BWBBR,,,False,52
+Kookmin Bank (New York Branch),,5000728714,USA,KBFNGO,,,False,51
+Police Bank Ltd,,5043462040,AUS,POLIE,,,False,51
+Gateway Bank Ltd,,5040273195,AUS,GTEWB,,,False,51
+Prime Alliance Bank Inc,,5000001193,USA,PRALB,,,False,51
+Sparkasse Vogtland,,4298172992,DEU,SPRKV,,,False,51
+Mitsubishi UFJ Trust and Banking Corp (New York Branch),,5001168150,USA,MTFGNE,,,False,50
+Exchange Bank (Nebraska),,5000659695,USA,EXCHCC,,,False,50
+Credit Agricole Corporate and Investment Bank (London Branch),,5000740484,GBR,CAGRAE,,,False,50
+Banco Promerica de Costa Rica SA,BPROMA1.CJ,5001437763,CRI,PRFCR,CRI,BPROMA1,True,50
+Credit Industriel Et Commercial London Branch,,5001110482,GBR,CAFDER,,,False,50
+Financiera de Desarrollo Nacional SA,,4295865704,COL,FDENA,,,,49
+Cross River Bank,,5000649327,USA,CRBOUC,,,False,49
+First Abu Dhabi Bank PJSC (London Branch),,5039188471,GBR,FABFT,,,False,49
+ING Bank NV (Sydney Branch),,5000615990,AUS,INGBKY,,,False,49
+AB Sveriges Sakerstallda Obligationer (publ),,4296770150,SWE,SBABS,,,False,49
+Frontier Bank (Nebraska Madison),,5001222345,USA,FRNMEN,,,False,48
+Mufg Bank Ltd (Canada Branch),,5052123035,CAN,MTFGCA,,,False,48
+Korea Development Bank (New York Branch),,5000588708,USA,KDBNY,,,False,48
+Manufacturers and Traders Trust Co,,4297905338,USA,MTBXM,,,False,47
+Scotiabank Inverlat SA Institucion de Banca Multiple Grupo Financiero Scotiabank,BAINLATF.MX^D01,4296823827,MEX,BNSGFT,MEX,,False,47
+Wirtschafts und Infrastrukturbank Hessen,,5037947732,DEU,HLBGSG,,,False,47
+Wells Fargo Bank International Unlimited Co,,5000716749,IRL,WFCWIW,,,False,47
+Kreissparkasse Ludwigsburg,,4296627160,DEU,KRELU,,,False,47
+China Construction Bank Corp (Sydney Branch),,5000700735,AUS,CNCBKY,,,False,46
+CorpBanca (New York Branch),,5037623578,USA,ITCCO,,,False,46
+B & E Ltd,,5040697109,AUS,BELIM,,,False,46
+Associated Bank NA,,4296720832,USA,ASBNA,,,False,45
+Oversea-Chinese Banking Corporation Ltd (London Branch),,5001168124,GBR,OCBCLO,,,False,45
+Invex Grupo Financiero SA de CV,,4295884366,MEX,INVEXG,,,False,45
+DZ Privatbank SA,,5001204548,LUX,DGBGDZ,,,False,45
+Bank Five Nine,,5000595269,USA,OCNBB,,,False,44
+Handelsbanken PLC,,5067158742,GBR,SHBHN,,,False,44
+Volksbank Wien AG,,4297600149,AUT,VOKNK,,,False,44
+BNP Paribas SA (Canada Branch),,5086536683,CAN,BNPPBA,,,False,44
+Defence Bank Ltd,,5039681674,AUS,DEFBK,,,False,43
+IMB Ltd,,4297735307,AUS,IMBLT,,,False,43
+CF Bank,,5000260156,USA,CFBKC,,,False,42
+Simmons Bank,,5000647170,USA,SFNCM,,,False,42
+La Cassa di Ravenna SpA,CDRDRS.HT,5000004037,ITA,CDRDR,HMT,IT0001005229,True,41
+ING Bank (Australia) Ltd,,5000041387,AUS,INGBKA,,,False,41
+Goldman Sachs International Bank,,5000064006,GBR,GSGODI,,,False,41
+Saco And Biddeford Savings Institution,,5000648550,USA,SACBD,,,False,41
+Charles Schwab Bank SSB,,5000195556,USA,SCHWL,,,False,41
+Bank of China Ltd (Luxembourg Branch),,5042373967,LUX,BKCHNX,,,False,41
+Bayerische Landesbank (New York Branch),,4296738136,USA,BLGGN,,,False,40
+Industrial and Commercial Bank of China (USA) NA,,5000649365,USA,ICBAHF,,,False,40
+Southern Bank,,4296378650,USA,SMBCBK,,,False,40
+National Australia Bank Ltd (New York Branch),,5000728471,USA,NABNY,,,False,40
+Bank of England,,8589934365,GBR,BKENG,,,,40
+Societe Generale Effekten GmbH,,4295869810,DEU,SOGNEF,,,False,39
+KEB Hana Bank (London Branch),,4296929349,GBR,KEBHKN,,,False,39
+First National Bank of Damariscotta,,5000648546,USA,FNLCF,,,False,39
+Cassa di Risparmio di Biella e Vercelli SpA,,5000060640,ITA,CRASTV,,,False,39
+National Bank of Commerce (Wisconsin),,4296313847,USA,NTCBAK,,,False,39
+Bank of Scotland PLC,BSCT.L^I01,5000039807,GBR,LLOYBS,LSE,,False,38
+Stadtsparkasse Essen,,4297861856,DEU,SPESN,,,False,38
+JPMorgan Chase Bank NA (London Branch),,5035468313,GBR,JPMME,,,False,37
+Keb Hana Bank (Sydney Branch),,5049968103,AUS,KEBHHN,,,False,37
+KfW International Finance Inc,,4296850422,USA,KFWIN,,,False,37
+Commonwealth Bank of Australia (London Branch),,5001110475,GBR,CBALN,,,False,36
+Sparkasse Meissen,,4295948835,DEU,SPMSN,,,False,36
+Steiermaerkische Bank Und Sparkassen AG,,5000074532,AUT,SSPAGS,,,False,36
+Continental Bank (Utah),,4296561528,USA,CONTBC,,,False,36
+Sparkasse Werra Meissner,,4296026094,DEU,SPWMS,,,False,36
+Meridian Bank (Pennsylvania),,5000614814,USA,MRBKM,,,False,35
+First Bank Richmond,,5000616080,USA,FTMUTF,,,False,35
+Banco Mercantil del Norte SA Institucion de Banca Multiple Grupo Financiero Bano,,5000036007,MEX,GFNORB,,,False,35
+Nacional Financiera SNC Institucion de Banca de Desarrollo,,4295884278,MEX,NAFIN,,,,35
+Kreissparkasse Ostalb,,4296713918,DEU,KROST,,,False,35
+Talbot State Bank,,5000596860,USA,TSBBCT,,,False,34
+Bank of Baroda (New York Branch),,5000774243,USA,BOBNY,,,False,34
+Cumberland Federal Bank FSB,,5000771988,USA,CBERF,,,False,34
+ITAU UNIBANCO SA (Miami Branch),,5076694473,USA,ITUBDZ,,,False,34
+Minnwest Bank,,5000614012,USA,MIWESW,,,False,34
+First Bank Chicago,,4298367461,USA,FRTKCF,,,False,34
+Santander Bank NA,,4296648276,USA,SANRGK,,,False,33
+Bank Of China (Tokyo Branch),,4297169793,JPN,BKCHTO,,,False,33
+TCM Bank NA,,5000011587,USA,ICBART,,,False,33
+Popular Bank (New York Branch),,5000075040,USA,BPOPAL,,,False,33
+ConnectOne Bank,,5000013564,USA,CNOBON,,,False,33
+Kommunalkredit Austria AG,,4296543445,AUT,INRRUK,,,False,33
+Zuercher Kantonalbank,,8589934170,CHE,ZKB,,,True,33
+Spk Krefeld Zweckvrbspk der Stadt Krefeld und des Kreises Viersen,,4296712643,DEU,SPKKR,,,False,33
+Sparkasse Odenwaldkreis In Erbach Odenwald,,4296760736,DEU,SODWL,,,False,33
+SG Structured Products Inc,,4297131127,USA,SOGNSP,,,False,32
+Bank of India (New York Branch),,5001112970,USA,BOINY,,,False,32
+Banca Cambiano 1884 SpA,,5000013705,ITA,BCCBI,,,False,32
+Encore Bank (Arkansas),,5000616810,USA,ENCBCB,,,False,32
+EagleBank,,4297279385,USA,EGBNL,,,False,32
+1St Security Bank of Washington,,4297431052,USA,FSBWB,,,False,32
+Northern Bank & Trust Co,,5000648593,USA,NTBCRN,,,False,32
+Bank Gospodarstwa Krajowego,,5000018341,POL,BKGDK,,,,32
+Banco Nacional de Comercio Exterior SNC,,4296540199,MEX,BNDCE,,,,32
+Sparkasse Mittelsachsen,,4295948820,DEU,SKMTH,,,False,31
+Deutsche Bank AG (New York Branch),,4296358021,USA,DBKGN,,,False,31
+Independent Bank (Tennessee),,5000659658,USA,IDPHDI,,,False,31
+KS Statebank,,5000578602,USA,MNHTBK,,,False,31
+Caixa Geral de Depositos (Paris Branch),,5003721333,FRA,CGDESF,,,False,31
+KeyBank NA,,5000008374,USA,KEYBK,,,False,31
+Sparkasse Holstein,,5000050028,DEU,SKHST,,,False,30
+Banco BAC San Jose SA,,5000953775,CRI,TENBB,,,False,30
+Midland States Bank,,5000617614,USA,MSBIM,,,False,30
+Pathfinder Bank,,5000644954,USA,PATFBP,,,False,30
+Bank of America National Association (Canada Branch),,4298147266,CAN,BACBOA,,,False,30
+Qudos Mutual Ltd,,4298362767,AUS,QSCULA,,,False,30
+Sfil SA,,5038044574,FRA,SFIL,,,,30
+Santander UK Group Holdings PLC,,5044339809,GBR,SANNU,,,False,30
+Washington Trust Company of Westerly,,4298217530,USA,WASHT,,,False,30
+Banco Bilbao Vizcaya Argentaria Paris Branch,,5000761952,FRA,BBVAPA,,,False,29
+Enterprise Bank (Pennsylvania),,5000660220,USA,EFSGXE,,,False,29
+Banco Davivienda Costa Rica SA,,5000917549,CRI,CBANEB,,,False,29
+Credit Suisse AG (New York Branch),,4296168464,USA,CSGNCU,,,False,29
+InsBank,,5000600869,USA,IBTNB,,,False,29
+Central Bank (Arkansas),,5000660262,USA,CELBK,,,False,29
+American Commercial Bank & Trust NA,,5000483746,USA,FOTBAM,,,False,29
+Bank Of New England (New Hampshire),,5000649306,USA,BANED,,,False,29
+Dz Bank AG Deutsche Zentral Genossenschaftsbank Frankfurt am Main (London Branch,,5000867021,GBR,DGBGT,,,False,29
+Sparkasse Bamberg,,5000071995,DEU,SPBAM,,,False,29
+Sparkasse Neunkirchen,,4296784579,DEU,SPNKN,,,False,29
+Bank of Wisconsin Dells,,4296483082,USA,DLLBAW,,,False,28
+Haddon Savings Bank,,5000649325,USA,HDNSV,,,False,28
+Peoples Security Bank and Trust Co,,5000480815,USA,PFISPO,,,False,28
+Bank of East Asia Limited New York Branch,,5051002057,USA,BKEASY,,,False,28
+Sumitomo Mitsui Banking Corporation (Canada Branch),,5052164003,CAN,SUMFGC,,,False,28
+BGL BNP Paribas SA,,5000011691,LUX,BEOAGG,,,True,28
+Nelnet Bank,,5079226997,USA,NELBA,,,False,28
+Citizens Bank NA,,5000069297,USA,CFGTZ,,,False,28
+Hongkong and Shanghai Banking Corporation Ltd (Sydney Branch),,5001094070,AUS,HSBASY,,,False,28
+NORD LB Luxembourg Covered Bond Bank SA,,4296448545,LUX,NORDLG,,,False,28
+Credit Municipal de Paris,,4296491338,FRA,CRMNP,,,False,28
+Sparkasse Rhein Nahe,,5000041723,DEU,SKRHN,,,False,28
+Bank of Hope,,4298547120,USA,HOPEA,,,False,27
+Bnp Paribas (Sydney Branch),,5000600453,AUS,BNPPAU,,,False,27
+Australia and New Zealand Banking Group Ltd (London Branch),,5000438204,GBR,ANZLO,,,False,27
+Seacoast National Bank A National Banking Association,,4298207508,USA,SBCFNB,,,False,27
+JP Morgan Bank Canada,,5000327065,CAN,JPMBNC,,,False,27
+Sparkasse Oberhessen,,4296172483,DEU,SPOBH,,,False,27
+Rheinhessen Sparkasse,,5000049242,DEU,RHESP,,,False,27
+Banco Actinver SA Institucion de Banca Multiple Grupo Financiero Actinver,,4298505914,MEX,FSITE,,,True,26
+State Bank of Texas,,4295999360,USA,SBTBNB,,,False,26
+Bankwell Bank,,5000055631,USA,BWFGB,,,False,26
+Tradition Capital Bank,,5000591374,USA,TRDBAC,,,False,26
+Mid-Missouri Bank,,5000649127,USA,MDSSUM,,,False,26
+First National Bank of McGregor,,5000600196,USA,MBGBCF,,,False,26
+Farmers & Merchants Bank of Central California,,4298547146,USA,FMCBC,,,False,26
+Forbright Bank,,5000648557,USA,FOBRIF,,,False,26
+Kookmin Bank Co Ltd London Branch,,5001168111,GBR,KBFNGN,,,False,26
+Chiantibanca Credito Cooperativo Sc,,5000598775,ITA,CHIAB,,,False,26
+Sparkasse KoelnBonn,,4296034228,DEU,SPKOB,,,False,26
+Commonwealth Bank of Australia (New York Branch),,5000728453,USA,CBANY,,,False,26
+Bank of Deerfield,,5000592467,USA,DEFEFD,,,False,25
+Belmont Bank & Trust Co,,5000071805,USA,BEFIGB,,,False,25
+Bankers' Bank,,5000647003,USA,BNKBCB,,,False,25
+Hiawatha National Bank,,5000647009,USA,LKSHRN,,,False,25
+Beyond Bank Australia Ltd,,4297914147,AUS,BEYBK,,,False,25
+Bayerische Landesbodenkreditanstalt,,5071169713,DEU,BLGGL,,,False,25
+Brookline Bank,,4297707944,USA,BRKLE,,,False,25
+Volkskreditbank AG,,4296535010,AUT,VOLKVV,,,False,25
+Sparkasse Bad Hersfeld Rotenburg,,4296712641,DEU,SPBHR,,,False,25
+Sparkasse Tauberfranken,,4296074910,DEU,STBRF,,,False,25
+Sparkasse Niederoesterreich Mitte West AG,,5000074503,AUT,PSPNIS,,,False,24
+Legends Bank (Tennessee),,4297950716,USA,LSFCLL,,,False,24
+American Eagle Bank,,5000001299,USA,ORFNBG,,,False,24
+Sparkasse der Stadt Iserlohn,,4296712642,DEU,SDSIS,,,False,24
+Old National Bank,,4296732044,USA,ONBOL,,,False,23
+Cetelem SA de CV SOFOM ER,,4298284061,MEX,,,,False,23
+Institution for Savings in Newburyport and Its Vicinity,,5000648602,USA,ISNYV,,,False,23
+Old Missouri Bank,,5000649105,USA,JAMBAO,,,False,23
+Royal Bank of Canada (Toronto Branch),,5035428308,CAN,RYCTO,,,False,23
+SouthState Bank NA,,5000300141,USA,SSBSB,,,False,23
+Mizuho Bank Ltd (Toronto Branch),,5001167902,CAN,MZFGCA,,,False,23
+Fidelity Bank NA (Kansas),,5056441455,USA,FDLYFF,,,False,23
+First Commercial Bank Co Ltd (Brisbane Branch),,5070507846,AUS,FIRFNI,,,False,23
+Paragon Bank,,4297208244,USA,PGNNB,,,False,23
+Sparkasse Ulm,SKUGga.SG^G06,4296053061,DEU,SPRKU,,SKU2,False,23
+Banca di Imola SpA,BDIS.HT,4296514607,ITA,BDIS,HMT,IT0000300746,True,23
+Deutsche Kreditbank AG,,4296849642,DEU,BLGGD,,,False,23
+Kreissparkasse Duesseldorf,,4296785234,DEU,KSPDS,,,False,23
+Stadt und Kreis Sparkasse Darmstadt,,5000063114,DEU,SKDRM,,,False,23
+Sparkasse Mainfranken Wuerzburg,,5000050635,DEU,SPKMWG,,,False,23
+Sparkasse Coburg Lichtenfels,,4297373268,DEU,SPKCB,,,False,23
+Gold Coast Bank Chicago,,5000603283,USA,GCBCPK,,,False,22
+Nebraskaland Bank,,5000616760,USA,NBDFSN,,,False,22
+Genoa Banking Co,,5000019753,USA,GNBACK,,,False,22
+Haven Savings Bank,,5000649315,USA,HVEBAS,,,False,22
+Agricultural Bank of China (Tokyo Branch),,5040196807,JPN,AGBKCM,,,False,22
+SR Boligkreditt AS,,5046050289,NOR,SRBANB,,,False,22
+CA Auto Bank SpA (Dublin Branch),,5053941681,IRL,CAGRCB,,,False,22
+Peoples Bank,,5070504205,USA,PEBOP,,,False,22
+Yorkshire Building Society,YBS_p.L^D19,4295895368,GBR,YOBGSC,LSE,YBS,False,22
+Stadt und Kreissparkasse Erlangen Hoechstadt Herzogenaurach,,5000056768,DEU,SKSEL,,,False,22
+Schelhammer Capital Bank AG,,5000003247,AUT,GRVMEC,,,False,21
+Bankers' Bank of The West,,5000594157,USA,BWSTBW,,,False,21
+Canadian Imperial Bank of Commerce (London Branch),,5035441697,GBR,CMUKB,,,False,21
+Commercial Bank (Tennessee),,5000660031,USA,RBRTSM,,,False,21
+Cornhusker Bank,,5000649224,USA,CORGRU,,,False,21
+Dnb Bank Asa (London Branch),,5035883921,GBR,DNBNOX,,,False,21
+Bank of America NA (London Branch),,5001111202,GBR,BACNLO,,,False,21
+First Internet Bank of Indiana,,5000104251,USA,INBKXF,,,False,21
+Sparkasse Schwarzwald Baar,,5000042923,DEU,SPKVS,,,False,21
+Sparkasse Baden Baden Gaggenau,,5000001671,DEU,SSBND,,,False,21
+Landsbankinn hf,,5000632996,ISL,LANDS,,,False,20
+Hanmi Bank,,4296742722,USA,HAFCNM,,,False,20
+Bankers Bank,,5000649631,USA,BKNOPA,,,False,20
+Independent Bank (Texas),,5000659661,USA,IBTXDE,,,False,20
+Fifth Third Bank NA (OHIO),,5037621464,USA,FITBTH,,,False,20
+Banca Centro Credito Cooperativo Toscana-Umbria Sc,,5073623970,ITA,BNCCN,,,False,20
+MBH Bank Nyrt,MKBB.BU,4297919833,HUN,BLGGM,BUD,MKBBANK,True,20
+Vseobecna Uverova Banka as,1VUB02AE.BV,4295888197,SVK,AVUBO,BRA,1VUB02AE,True,20
+Carrefour Banque SA,,5000057981,FRA,CARRF,,,False,20
+Old Dominion National Bank,,5000645076,USA,OLNTB,,,False,19
+NexBank SSB,,5000604449,USA,MARKPN,,,False,19
+Erste Bank Hungary Zrt,,4297189869,HUN,ERSTHU,,,False,19
+Pacific Premier Bank,,5000257938,USA,PPBIPR,,,False,19
+Farmers & Merchants Bank of Colby,,5000648324,USA,SYBRSS,,,False,19
+Ergo Bank,,5066248052,USA,FSCSHE,,,False,19
+BN Bank ASA,,4295885674,NOR,BNBAK,,,False,19
+Banca di Credito Cooperativo Bergamasca e Orobica SC,,5046663401,ITA,BCDIO,,,False,19
+Home Federal Savings Bank,,4296051950,USA,HMNFS,,,False,19
+Wuestenrot Bausparkasse AG,,5000035951,DEU,WUWGWB,,,False,19
+Bank of New York Mellon,,4296225616,USA,BKNYK,,,False,19
+Sparkasse Wetzlar,,4296012941,DEU,SPWTZ,,,False,19
+First Business Bank,,4295985302,USA,FBIZF,,,False,18
+Banca di Credito Cooperativo di Roma Sc,,4297833790,ITA,BCCRS,,,False,18
+Cassa di Risparmio di Fossano SpA,,5000372553,ITA,FCRFSN,,,False,18
+Credito Cooperativo Ravennate Forlivese e Imolese Sc,,5000609446,ITA,CRCOR,,,False,18
+First Farmers and Merchants Bank,FIME.PK^F12,5000354808,USA,FFMHB,PNK,FIME,False,18
+Central Bank of Costa Rica,,4296930716,CRI,BCDCR,,,,18
+First Farmers Bank & Trust,,4297130661,USA,FFMRF,,,False,18
+Incrediblebank,,4298526662,USA,RVLLYI,,,False,18
+Citizens State Bank of La Crosse,,5000616072,USA,CLABAC,,,False,18
+Hardin County Savings Bank,,5000648028,USA,HARDNT,,,False,18
+Grand River Bank,,5000648658,USA,GNRVGB,,,False,18
+Bank of the Valley,,5000649219,USA,BLLOOB,,,False,18
+Lyons National Bank,,4297971853,USA,LYBCLY,,,False,18
+Investitionsbank Schleswig Holstein,,4298170401,DEU,INVSH,,,,18
+Nationale Nederlanden Bank NV,,5040258918,NLD,NNNAN,,,False,18
+China Construction Bank Corporation (London Branch),,5047643874,GBR,CNCBST,,,False,18
+Pinnacle Bank (Tennessee),,4296429722,USA,PNFPP,,,False,18
+Bank of China (London Branch),,5001167814,GBR,BKCHNL,,,False,18
+Euroclear Bank SA,,4297218313,BEL,EHLDGK,,,False,18
+Bank Rhode Island,,4298547112,USA,BRKLB,,,False,18
+Kreissparkasse Grafschaft Diepholz,,4296760708,DEU,KGRDP,,,False,18
+Norinchukin Bank,,4295878071,JPN,NORBK,,,False,18
+Sparkasse Attendorn Lennestadt Kirchhundem Zweckverbandssparkasse der Staedte At,,4296784518,DEU,SPALK,,,False,18
+Sparkasse Kulmbach Kronach,,4295964053,DEU,SKLMB,,,False,18
+Sparkasse Maerkisches Sauerland Hemer Menden,,5000050329,DEU,SPMKS,,,False,18
+Sparkasse Ansbach,,5000044398,DEU,SPAKH,,,False,18
+Nano Banc,CKTM.PK^E18,4297709211,USA,NNFNNN,OTC,,False,17
+Scotiabank de Costa Rica SA,,5000009342,CRI,BNSCR,,,False,17
+Caisse Federale Du Credit Mutuel Ocean,,5000919594,FRA,SFDOC,,,False,17
+CommerceWest Bank,,4296407861,USA,CWBK,,,False,17
+Ultima Bank Minnesota,,5000613842,USA,FNSEVU,,,False,17
+Consubanco SA Institucion de Banca Multiple,,5000007888,MEX,SRFINF,,,False,17
+Falcon National Bank,,5000648869,USA,CETRAF,,,False,17
+TBK Bank SSB,,5000649939,USA,TBKTB,,,False,17
+Saechsische Aufbaubank Foerderbank,,5000692938,DEU,AUFBK,,,,17
+Midwestone Bank,,5000483020,USA,MOFGM,,,False,17
+Nurol Yatirim Bankasi AS,,4298250064,TUR,NURHON,,,False,17
+First National Bank (Arkansas),,5000776690,USA,FRPGLN,,,False,17
+Woori Bank London Branch,,5001168136,GBR,WOORIL,,,False,17
+Australian Unity Bank Ltd,,5036895107,AUS,AUSUNK,,,False,17
+Bristol Morgan Bank,,5041062728,USA,OKFLDR,,,False,17
+CBOM Finance PLC,,4297818316,IRL,CBOMF,,,False,17
+Sparkasse Rotenburg Osterholz,,4295948839,DEU,KRTNB,,,False,17
+Sparkasse Westerwald Sieg,,4296904083,DEU,WTRLD,,,False,17
+Landessparkasse zu Oldenburg,,4296786217,DEU,LSKOL,,,False,17
+Sparkasse Hohenlohekreis,,4296619702,DEU,SPKHH,,,False,17
+Stadtsparkasse Remscheid,,4296842460,DEU,SSRMS,,,False,17
+Caisse Federale du Credit Mutuel de Maine Anjou et Basse Normandie,,4296770063,FRA,FDJBS,,,False,16
+Lincoln Savings Bank,,5000644748,USA,LIOLNL,,,False,16
+Northwest Bank (Idaho),,5000647571,USA,GWYNT,,,False,16
+Mutualone Bank,,4297166649,USA,MTUBK,,,False,16
+Newton Federal Bank,,5000774040,USA,CFBINW,,,False,16
+Raymond James Bank,,4296342624,USA,RJFRJ,,,False,16
+Iowa State Bank,,5000776799,USA,CLAKLI,,,False,16
+DBS Bank Ltd (London Branch),,5001168071,GBR,DBSMBO,,,False,16
+Dundee Bank,,5051612326,USA,MYBCOD,,,False,16
+Mainstreet Bank,,4297201257,USA,MNSBMT,,,False,16
+Park State Bank,,5000644855,USA,PARSB,,,False,16
+ANB Bank,,4296049139,USA,STURMB,,,False,16
+Cathay Bank,,4298547113,USA,CATYBK,,,False,16
+Grundy National Bank,,5000061260,USA,GNBBSG,,,False,16
+Israel Discount Bank of New York,,4296139934,USA,DSCTN,,,False,16
+Banco Nacional de Mexico SA Integrante del Grupo Financiero Banamex,,4295884268,MEX,CBNX,,,False,16
+Banca di Credito Cooperativo di Pontassieve Sc,,4295969000,ITA,BPONT,,,False,16
+Banco Santander Totta SA,,5000100451,PRT,SANHLD,,,False,16
+Univest Bank and Trust Co,,4297026775,USA,UVSPUB,,,False,16
+Evangelische Bank eG,,4296010486,DEU,EVAGH,,,False,16
+Sparkasse Fulda,,4296784547,DEU,SPKFL,,,False,16
+Kreissparkasse Rottweil,,4296242949,DEU,KSRTW,,,False,16
+Sparkasse Nienburg,,4296760735,DEU,SPKNI,,,False,16
+Stadtsparkasse Augsburg,,4297920194,DEU,SSPAU,,,False,16
+Sparkasse Kufstein Tiroler Sparkasse Von 1877,,4296803355,AUT,SPKKU,,,False,15
+Farmers Bank & Trust NA,,5000648300,USA,FARENB,,,False,15
+Societe Generale (New York Branch),,4297114306,USA,SOGNNY,,,False,15
+Midcountry Bank,,4298338435,USA,MCYAQM,,,False,15
+Bank of Communications Co Ltd (New York Branch),,5000873878,USA,BKCOME,,,False,15
+Community Bankers Bank,,5000593382,USA,CBBFIB,,,False,15
+Mizrahi Tefahot Bank Ltd (Los Angeles Branch),,5000774231,USA,MZTFEO,,,False,15
+Bank of the Sierra,,5000585060,USA,BSRRIE,,,False,15
+American Plus Bank NA,,5000647231,USA,ACAUS,,,False,15
+Ponce Bank,,5000774236,USA,POBAMO,,,False,15
+China Merchants Bank Co Ltd (London Branch),,5046657638,GBR,CHMBMC,,,False,15
+Standard Chartered Bank AG,,5050473487,DEU,STANDE,,,False,15
+Barclays Bank UK PLC,,5052124010,GBR,BARCLR,,,False,15
+Parkway Bank and Trust Co,,5000037434,USA,PRWYCB,,,False,15
+Iccrea Banca SpA Istituto Centrale del Credito Cooperativo,,5000029408,ITA,ICCRT,,,False,15
+Banca March SA,,4296969970,ESP,BNCMH,,,False,15
+Sparkasse Osnabrueck,,4296780600,DEU,SKOSB,,,False,15
+Westerwald Bank eG Volks und Raiffeisenbank,,5000041683,DEU,WESBK,,,False,15
+HomeStreet Bank,,5000381423,USA,HMSTH,,,False,14
+Centier Bank,,5000644793,USA,FIBCHC,,,False,14
+Bankers Trust Co (Iowa),,5000272957,USA,BTCFLT,,,False,14
+Somerset Trust Co,,5000617660,USA,SOMET,,,False,14
+Aysgarth Finance DAC,,4298046538,IRL,BARCH,,,False,14
+Community State Bank (Spencer),,5000660291,USA,CMTSEK,,,False,14
+Dream First Bank NA,,5000644807,USA,LEGFID,,,False,14
+ESSA Bank and Trust,,5000052318,USA,ESSAXE,,,False,14
+Fidelity Bank (Louisiana),,4296202329,USA,FIDLY,,,False,14
+Stone Bank,,5000647215,USA,STONBS,,,False,14
+Prospect Bank,,5000647780,USA,EDBNSE,,,False,14
+Hamburgische Investitionsund Foerderbank,,4298169821,DEU,HAMIN,,,False,14
+Kbc Bank,,5001167883,GBR,KBCBN,,,False,14
+HomeTrust Bank,,5037132638,USA,HTBIO,,,False,14
+Flushing Bank,,5040925468,USA,FFICFH,,,False,14
+Emisora Santander Espana SAU,,5042252302,ESP,SANERA,,,False,14
+Luminate Bank,,5000058353,USA,EBHDGL,,,False,14
+Banca di Credito cooperativo di Alba Langhe Roero e del Canavese SC,,5000588048,ITA,BCCAL,,,False,14
+New Valley Bank & Trust,,5073964440,USA,NWVBK,,,False,14
+Macquarie Bank Ltd (London Branch),,5001111365,GBR,MQGBL,,,False,14
+Abington Bank,,5044857715,USA,HOTWGI,,,False,14
+First State Bank of Dequeen,,5000022078,USA,FRSTEK,,,False,14
+National Bank Of Kuwait (International) PLC,,5000055850,GBR,NBKKI,,,False,14
+Turkiye Ihracat Kredi Bankasi AS,,4297147213,TUR,TURIH,,,,14
+Bankers Bank of Kansas,,5000648265,USA,BBOKBB,,,False,14
+FNB Oxford Bank,,5000607892,USA,FSNTHX,,,False,14
+Kasseler Sparkasse,,5000068693,DEU,SKASS,,,False,14
+Kreissparkasse Heidenheim,,4296782954,DEU,KSKHEI,,,False,14
+Sparkasse Beckum Wadersloh Zweckverbandssparkasse der Stadt Beckum und der Gemei,,4296784522,DEU,SPBKW,,,False,14
+Sparkasse Saarbruecken,,4296419152,DEU,SKSRB,,,False,14
+Sparkasse Zu Luebeck AG,,4296706926,DEU,GSPKLB,,,False,14
+Sparkasse Dortmund,,4297253716,DEU,SSDRT,,,False,14
+Sparkasse Hannover,,5000051064,DEU,STADS,,,False,14
+Volksbank in Suedwestfalen eG,,4296795671,DEU,VBKDW,,,False,14
+Bar Harbor Bank & Trust,,4296477419,USA,BHBTR,,,False,14
+Bank J Van Breda & C NV,,5000045045,BEL,AVHBB,,,False,13
+Highland Bank,,5000613145,USA,HIGBAH,,,False,13
+Thread Bank,,5000645037,USA,VEEBCT,,,False,13
+Mizrahi Tefahot Issuing Company Ltd,,4298372052,ISR,MZTFA,,,False,13
+Everett Co Operative Bank,,5000648624,USA,EVTCO,,,False,13
+Rondout Savings Bank,,5000649411,USA,RONSB,,,False,13
+First Financial Northwest Bank,,5000132255,USA,FFNWF,,,False,13
+State Bank & Trust,,5000659942,USA,PPLBPS,,,False,13
+Arlo XIV Ltd,,5001195362,GBR,BARCRN,,,False,13
+Banca Valsabbina SCpA,BVAL.HT,4297175134,ITA,BVAL,HMT,IT0000220449,True,13
+China Construction Bank Corporation SA (Luxembourg Branch),,5046709928,LUX,CNCBLK,,,False,13
+Bank of Communications Co Ltd London Branch,,5052154160,GBR,BKCOLM,,,False,13
+Sparkasse Oberpfalz Nord,,4298133633,DEU,SPKOZ,,,False,13
+Machias Savings Bank,,4296610383,USA,MACHBS,,,False,13
+Southern First Bank,,5000034579,USA,SFSTS,,,False,13
+Societe Generale (Sydney Branch),,5001094294,AUS,SOGNO,,,False,13
+KA Finanz AG,,5000609798,AUT,KAFIN,,,False,13
+Bank im Bistum Essen eG,,4296767796,DEU,BSTME,,,False,13
+Bremische Volksbank eG,,4296705445,DEU,BVOLK,,,False,13
+Kreissparkasse Saale Orla,,4296715315,DEU,KSSAA,,,False,13
+Southside Bank,,4297239883,USA,SBSIFB,,,False,13
+Sparkasse Hochfranken,,4296824335,DEU,SPKFN,,,False,13
+Turkiye Cumhuriyeti Ziraat Bankasi AS,,4296757902,TUR,TCHZNC,,,False,13
+Volksbank Euskirchen eG,,4296795632,DEU,VESKR,,,False,13
+Apple Bank for Savings,,5000372233,USA,APFIHB,,,False,12
+SMBC Bank International PLC,,5000001311,GBR,SUMFGN,,,False,12
+Dallas Capital Bank NA,,4295555290,USA,PRKCFD,,,False,12
+PCB Bank,,5000054674,USA,PCBPC,,,False,12
+Metropolitan Capital Bank & Trust,,5000644774,USA,MECABK,,,False,12
+Cherokee State Bank,,5000644743,USA,CRKEE,,,False,12
+Bank of Lexington Inc,,5000616586,USA,BNLEX,,,False,12
+Border State Bank,,5000605443,USA,BBMEBS,,,False,12
+TS Bank,,5000052544,USA,TRNBAK,,,False,12
+M1 Bank,,5000644896,USA,MBSHAA,,,False,12
+Horatio State Bank,,5000647186,USA,PIOEEH,,,False,12
+Timberline Bank,,5000647353,USA,TMBNER,,,False,12
+Merchants Bank of Indiana,,5000647970,USA,MBINT,,,False,12
+Kennett Trust Bank,,5000649017,USA,KNNTTK,,,False,12
+Aktif Yatirim Bankasi AS,,4298474369,TUR,CALIKB,,,False,12
+SSB Boligkreditt AS,,5000728961,NOR,SADGSB,,,False,12
+Bawag PSK Wohnbaubank AG,,5000060935,AUT,BAWGAW,,,False,12
+Southland Building Society,,5001195944,NZL,SBLDG,,,False,12
+Societe Generale (London Branch),,4296705910,GBR,SOGNL,,,False,12
+Novo Banco SA,,5043417725,PRT,LSFNSO,,,False,12
+Great North Bank,,5000613148,USA,FLRBCN,,,False,12
+Millyard Bank,,5080525967,USA,MILYR,,,False,12
+Bank of Israel,,5000004510,ISR,BAIRA,,,,12
+Skagerrak Sparebank,,4297562986,NOR,SKGSP,,,False,12
+Fosse Master Issuer PLC,,4297714862,GBR,INTUER,,,False,12
+Kiwibank Ltd,,4296977023,NZL,KIWIGK,,,True,12
+Banca Patavina Credito Cooperativo di Santelena e Piove di Sacco Sc,,5000599997,ITA,BCPVS,,,False,12
+Huntington National Bank,,4296540416,USA,HBANH,,,False,12
+Bausparkasse Der Oesterreichischen Sparkassen AG,,4296044940,AUT,ERSTBO,,,False,12
+Dornbirner Sparkasse Bank AG,,4297018883,AUT,DRNBNO,,,False,11
+Henderson State Bank,,5000602433,USA,HENSTB,,,False,11
+Bankprov,,4296375834,USA,PVBCP,,,False,11
+TriState Capital Bank,,5000616118,USA,TSCTC,,,False,11
+Landesbank Baden-Wurttemberg (London Branch),,4296033277,GBR,LKBFLB,,,False,11
+Texas Security Bank,,5000609420,USA,TEXRTS,,,False,11
+MVB Bank Inc,,4296426968,USA,MVBFBA,,,False,11
+Intercredit Bank NA,,4295482779,USA,ITCRB,,,False,11
+Australia and New Zealand Banking Group Ltd (New York Branch),,5001168020,USA,ANZNEW,,,False,11
+Farmers Trust & Savings Bank Earling Iowa,,5035428400,USA,JCRLHF,,,False,11
+Provident Savings Bank FSB,,5000095352,USA,PROVPS,,,False,11
+Sparbanken Sjuharad AB (publ),,5000637873,SWE,SPASJB,,,False,11
+Hatch Bank,,5000647243,USA,HATH,,,False,11
+Stonehambank A Co-Operative Bank,,5000648628,USA,STONH,,,False,11
+United Republic Bank,,5000649184,USA,CNRLBU,,,False,11
+Security State Bank of Oklahoma,,5000649718,USA,SEYBAS,,,False,11
+Stellar Bank,,5000650188,USA,STELXS,,,False,11
+Spring Bank WI,,5000646970,USA,SRNGB,,,False,11
+Dayspring Bank,,5000659982,USA,FIRGBD,,,False,11
+TexasBank,,4297259380,USA,TXBNK,,,False,11
+Banco Nacional de Costa Rica,,4296608294,CRI,BNACR,,,,11
+Bangor Savings Bank,,4296148132,USA,BNGBCB,,,False,11
+Method Bank,,5083872218,USA,METOD,,,False,11
+CHIP Mortgage Trust,,4297302178,CAN,BHEMGR,,,False,11
+Banca Sella SpA,BSEL.HT,5000010779,ITA,BSEL,HMT,IT0005124398,True,11
+American Bank & Trust Company Inc,,5000069148,USA,AMBTC,,,False,11
+ABANCA Corporacion Bancaria SA,NCGOF.PK^L16,4298089043,ESP,ABAHFA,PNK,,False,11
+First Service Bank,,5000644634,USA,FSRVBF,,,False,11
+First National Bank of Pennsylvania,,5000314863,USA,FNBFI,,,False,11
+Banca di Pisa e Fornacette Credito Cooperativo ScpA,,4297864886,ITA,BFORN,,,False,11
+Nord Ostsee Sparkasse,,4296742737,DEU,NORDO,,,False,11
+HSBC Bank Chile,,5000026624,CHL,HSBAX,,,False,11
+ING Diba AG,,4296540296,DEU,INGAB,,,False,11
+Sparkasse Uelzen Luechow Dannenberg,,4298172991,DEU,SULZN,,,False,11
+Volksbank Bochum Witten eG,,4296795575,DEU,VKBWN,,,False,11
+Volksbank pur eG,,4296795677,DEU,VLKSA,,,False,11
+Emil Banca Credito Cooperativo Sc,,4297025280,ITA,EMLBA,,,False,10
+Cassa Rurale ed Artigiana di Binasco Credito cooperativo Sc,,5000607636,ITA,CRABC,,,False,10
+Cassa Rurale Banca di Credito Cooperativo di Treviglio Sc,,5000053658,ITA,BCCTS,,,False,10
+Banca Cassa di Risparmio di Savigliano SpA,,4296577766,ITA,FOCRSB,,,False,10
+First Commercial Bank (Mississippi),,5000659931,USA,FICOBF,,,False,10
+First National Bank of Michigan,,5038070780,USA,FRNBPF,,,False,10
+Mutual Savings Association,,5000066733,USA,MTSAV,,,False,10
+Patriot Bank NA,,4296323776,USA,PNBSPI,,,False,10
+Community Partners Savings Bank,,5000614912,USA,CMMPN,,,False,10
+Availa Bank,,5000648052,USA,CACBSV,,,False,10
+Bank of Tioga,,5000649498,USA,TRNBAB,,,False,10
+SouthEast Bank,,4297593139,USA,EDCASE,,,False,10
+State Exchange Bank,,5000660412,USA,STEXBS,,,False,10
+Cambridge Trust Co,,4296432826,USA,CATCB,,,False,10
+Equitable Bank,,5000817835,CAN,EQBLB,,,False,10
+Ibercaja Banco SA,,5036187581,ESP,FUBAII,,,False,10
+Valiant Bank AG,,5000029610,CHE,VATNB,,,False,10
+VCC Bank,,5061698055,USA,VRGCCV,,,False,10
+Financial Federal Bank,,4296139218,USA,FINFDF,,,False,10
+Banco di Credito P Azzoaglio SpA,,5000986551,ITA,CRPAO,,,False,10
+Sparekassen Kronjylland,,4298007060,DNK,SPAKR,,,False,10
+Sparkasse an Volme und Ruhr Zweckverbandssparkasse der Staedte Hagen Halver Herd,,4296784550,DEU,SPHGN,,,False,10
+Northwest Bank,,5000051300,USA,NWBIO,,,False,10
+Haltdalen Sparebank,,5000002861,NOR,HALBK,,,False,10
+State Bank of India (London Branch),,4297066605,GBR,SBILO,,,False,10
+BLC Community Bank,,5000055276,USA,IBANCB,,,False,10
+Soknedal Sparebank,,4296172367,NOR,SKNSB,,,False,10
+Triad Bank,,4296430376,USA,TBANCT,,,False,10
+Kreissparkasse Saarpfalz,,4296552140,DEU,KSPSP,,,False,10
+Kreissparkasse Schwalm Eder,,5000042110,DEU,KSKSE,,,False,10
+Raiffeisen-Volksbank Aschaffenburg eG,,4296703768,DEU,RAVOA,,,False,10
+Sparkasse Guetersloh-Rietberg-Versmold Zweckverbandssparkasse der Staedte Gueter,,4296334872,DEU,SPGUT,,,False,10
+Stadtsparkasse Oberhausen,,4296694576,DEU,SSOHN,,,False,10
+Cooperatieve Rabobank UA (Wellington Branch),,5001106113,NZL,RABOZ,,,False,10
+EBN Banco de Negocios SA,,4298432681,ESP,EBNBN,,,False,9
+Intesa Sanpaolo SPA (London Branch),,5001110558,GBR,ISPLD,,,False,9
+Empire State Bank,,5000037352,USA,ESBSE,,,False,9
+Firstrust Savings Bank,,5000601065,USA,SEMPRF,,,False,9
+Axos Bank,,4296161917,USA,AXXOB,,,False,9
+Merchants and Manufacturers Bank,,5000607030,USA,MCMFRM,,,False,9
+Denver Savings Bank,,4297980766,USA,PSBCRD,,,False,9
+Visionbank of Iowa,,5000061946,USA,VIONBI,,,False,9
+First Citizens Community Bank,,5039192224,USA,CZFSC,,,False,9
+First Mid Bank & Trust NA,,4297021004,USA,FMBHNT,,,False,9
+Starion Bank,,5000644927,USA,STRBCB,,,False,9
+First FSB (Indiana),,4297202618,USA,FSTDG,,,False,9
+Gateway Bank (Arkansas),,5000647173,USA,SGHDSG,,,False,9
+Farmers State Bank Of Oakley Kansas,,5000648323,USA,SCRTYF,,,False,9
+Eclipse Bank Inc,,5000648359,USA,GABCBN,,,False,9
+Brentwood Bank,,4297281112,USA,MHCWPB,,,False,9
+Providence Bank (North Carolina),,5000659965,USA,PIEBK,,,False,9
+University Bank,,5000184586,USA,UNIBZK,,,False,9
+Home Loan Investment Bank FSB,,5000774186,USA,GEEIRH,,,False,9
+Winter Hill Bank FSB,,5000774210,USA,WHLB,,,False,9
+Resurs Bank AB,,4297847478,SWE,RESHOS,,,False,9
+First State Bank (Spearman),,5000776762,USA,FITAE,,,False,9
+Luminor Bank AS,,5034824671,EST,BXBRBU,,,False,9
+Bank of Bird-in-Hand,,5047972278,USA,BNKIN,,,False,9
+Taiwan Cooperative Bank Ltd (Sydney Branch),,5070822111,AUS,TWCOFA,,,False,9
+Maitland Mutual Ltd,,5040269976,AUS,MILDU,,,False,9
+Intesa Sanpaolo SPA (Australia Branch),,5081460350,AUS,ISPTS,,,False,9
+Open Bank,,4297141831,USA,OPBKO,,,False,9
+Midwest Bank (Illinois),,4297321836,USA,WESIBW,,,False,9
+Fulton Bank NA,,4296508424,USA,FULTF,,,False,9
+Santander Financial Services Plc,,4296457498,GBR,SANNUF,,,False,9
+Volksbank Kassel Goettingen eG,,5000038433,DEU,VOBKG,,,False,9
+Volksbank Rhein Ruhr eG,,4296795765,DEU,VRHNR,,,False,9
+Volksbank Goeppingen eG,,5000040754,DEU,VLKGP,,,False,9
+"FirstBank (Lakewood, Colorado)",,5000012638,USA,FIRHOR,,,False,9
+Banca Cremasca e Mantovana Credito Cooperativo Sc,,4297175168,ITA,BCRDC,,,False,8
+WEX Bank,,4298368991,USA,WEXWE,,,False,8
+Smartbank,,5000608232,USA,SMBKSM,,,False,8
+Plains Commerce Bank,,4295584635,USA,PLCCK,,,False,8
+Independence Bank of Kentucky,,5000648419,USA,INDERI,,,False,8
+American Commerce Bank NA,,5000592791,USA,AMCOBB,,,False,8
+Cleveland State Bank,,5000648935,USA,CLVSBK,,,False,8
+Hapoalim Hanpakot Ltd,,4297031050,ISR,POLIO,,,False,8
+Colony Bank,,4298526675,USA,CBANCY,,,False,8
+Sturgis Bank & Trust Co,,5000013500,USA,STBIXK,,,False,8
+Horizon Bank (Indiana),,5000616620,USA,HBNCR,,,False,8
+First Central Bank,,5000776772,USA,CNRLBF,,,False,8
+Citizens Community Federal NA,,4297677650,USA,CZWICC,,,False,8
+Central Valley Community Bank,,5000483909,USA,CVCYC,,,False,8
+Royal Business Bank,,5000647227,USA,RBBOY,,,False,8
+First Heritage Bank,,5000648174,USA,FRCEBH,,,False,8
+United Community Bank Of West Kentucky Inc,,5000648428,USA,UNCBHN,,,False,8
+Kennebec Savings Bank,,5000648549,USA,KENSVB,,,False,8
+Partners Bank of New England,,5000648543,USA,SISBCP,,,False,8
+Portage Bank,,5000648824,USA,CEYBAP,,,False,8
+First Midwest Bank of the Ozarks,,4297412963,USA,POBLUW,,,False,8
+Planters Bank & Trust Co,,5000648933,USA,PLNTB,,,False,8
+Hanover Community Bank,,5000425500,USA,HANBPM,,,False,8
+Citizens Bank Co (Ohio),,5000649567,USA,MUVALC,,,False,8
+Triad Bank NA,,5000649682,USA,TRIABT,,,False,8
+Liberty Bank,,5000659847,USA,LBETY,,,False,8
+First Savings Bank (CLARKSVILLE),,4296472686,USA,FSFGF,,,False,8
+Spareskillingsbanken,,5000995523,NOR,SPARE,,,False,8
+Farmers State Bank (Waterloo),,5000776650,USA,FSBNSF,,,False,8
+Shizuoka Bank Ltd (New York Branch),,5035416225,USA,SHZBKN,,,False,8
+Cajamar Caja Rural S Coop de Credito,,5038055469,ESP,CJMCR,,,False,8
+Banco Fiorentino Mugello Impruneta Signa Credito Cooperativo,,5051787177,ITA,BANFI,,,False,8
+HSBC Uk Bank PLC,,5052546316,GBR,HSBAUK,,,False,8
+Beacon Community Bank,,5057937214,USA,BECMB,,,False,8
+"Peoples Bank (Clive, Iowa)",,5034579294,USA,RGRIVP,,,False,8
+FSB (Illinois),,5000037106,USA,NTLBNS,,,False,8
+Andebu Sparebank,,4296172466,NOR,ANDSB,,,False,8
+Gulf Coast Bank and Trust Co,,4295256131,USA,GFCBT,,,False,8
+Upper Peninsula State Bank,,5000600026,USA,SBECRU,,,False,8
+Nomura Trust and Banking Co Ltd,,5000068442,JPN,NMHLDV,,,False,8
+Hjelmeland Sparebank,,4296172467,NOR,HJELB,,,False,8
+VR Bank Hessenland eG,,4297787895,DEU,HESSE,,,False,8
+First State Community Bank,,4297572437,USA,FSTBAT,,,False,8
+Great Midwest Bank State Savings Bank,,4297335009,USA,GMDBN,,,False,8
+Kreissparkasse Limburg,,4297376806,DEU,KSPLM,,,False,8
+Mainzer Volksbank eG,,4296703671,DEU,MNZEV,,,False,8
+Sparkasse Goettingen,,5000001696,DEU,SPKGO,,,False,8
+Volksbank Bocholt eG,,4296715219,DEU,VBCLT,,,False,8
+Volksbank Gronau Ahaus eG,,5000002726,DEU,VGRNH,,,False,8
+Vereinigte Volksbank Raiffeisenbank Odenwald eG,,4296795735,DEU,VORAI,,,False,8
+Volksbank Wilhelmshaven eG,,4296797873,DEU,VWLMS,,,False,8
+First Merchants Bank,,5000485292,USA,FRMEB,,,False,7
+Sparkasse Amberg Sulzbach,,4296703840,DEU,SAMSZ,,,False,7
+Intesa Sanpaolo SpA (New York Branch),,5001114326,USA,ISPNY,,,False,7
+National Bank of Canada (London Branch),,5001121434,GBR,NACLN,,,False,7
+Sparebank 1 Hallingdal Valdres,,4297565398,NOR,SPBNH,,,False,7
+Ameris Bank,,4298480953,USA,ABCBXA,,,False,7
+Volksbank Lauterbach Schlitz eG,,4296795693,DEU,VLTRS,,,False,7
+Queensborough National Bank and Trust Co,,5000594472,USA,QBOROK,,,False,7
+Peoples Independent Bank,,5000608869,USA,PPLINB,,,False,7
+St Charles Bank & Trust Co,,5000597726,USA,WTFCSB,,,False,7
+Enterprise Bank (Nebraska),,5000058011,USA,ENPSDN,,,False,7
+City Bank & Trust Co,,5000073535,USA,TCMPOR,,,False,7
+First Resource Bank (Minnesota),,5000678448,USA,AMFIGF,,,False,7
+Integrity Bank and Trust,,5000644671,USA,GMINBK,,,False,7
+Southern Michigan Bank & Trust,,5000053948,USA,SOMCIH,,,False,7
+First Federal Bank of Florida,,5000756077,USA,FRFDBB,,,False,7
+Chemung Canal Trust Co,,5000600812,USA,CHMGC,,,False,7
+Cayuga Lake National Bank,,4297382349,USA,CAYUGC,,,False,7
+First Western Trust Bank,,5000660326,USA,MYFWF,,,False,7
+Bank of Old Monroe,,5000648980,USA,CUIVRB,,,False,7
+Commercial Bank Of Nelson,,5000649279,USA,CLCENC,,,False,7
+Claremont Savings Bank,,5000649310,USA,CLMON,,,False,7
+New Mexico Bank & Trust,,4297193139,USA,HTLFE,,,False,7
+Bank of Grand Lake,,4295654848,USA,TWNHGB,,,False,7
+BankWest Inc,,5000649875,USA,SODKBN,,,False,7
+Bank of Frankewing,,5000649920,USA,BNKFR,,,False,7
+Unity Bank (Wisconsin),,5000659592,USA,AGSNNU,,,False,7
+Pinnacle Bank (Iowa),,5000659895,USA,IOWARP,,,False,7
+Peoples Savings Bank (WELLSBURG),,5000659739,USA,PSBCRP,,,False,7
+Fana Sparebank Boligkreditt AS,,5001106247,NOR,FANASF,,,False,7
+Sparebanken Ost Boligkreditt AS,,5001106278,NOR,SPOGB,,,False,7
+Iroquois Federal Savings and Loan Association,,5000774067,USA,IROQR,,,False,7
+Opportunity Bank of Montana,,5000585314,USA,EBMTO,,,False,7
+Country Club Bank,,5000649045,USA,CCBFCC,,,False,7
+Kutxabank SA,,5037242956,ESP,BLKUTK,,,False,7
+Comenity Bank,,5000062049,USA,ADSCB,,,False,7
+Deutsche Bank Spain,,4297142050,ESP,DBKGV,,,False,7
+Hometown Bank (Ohio),HSVG.PK^A11,4296456241,USA,HOMBNH,PNK,HSVG,False,7
+Rockland Trust Co,,5000644837,USA,INDBL,,,False,7
+Bank of Southern California NA,,4297262484,USA,BCALBK,,,False,7
+Close Brothers Finance PLC,,4296854204,GBR,CBROI,,,False,7
+Morton Community Bank,,4296414912,USA,HCBCTB,,,False,7
+Sparbanken Syd,,4297757253,SWE,SARBA,,,False,7
+Atlantic Union Bank,UBTP.OB^K98,5000351564,USA,AUBXAT,OBB,,False,7
+Banca di Credito Cooperativo Pordenonese e Monsile Sc,,5000603528,ITA,BPORE,,,False,7
+Wayne County Bank,WYBP.OB^D00,5000649922,USA,WAYCU,OBB,,False,7
+Riverbank (Washington),,5000604491,USA,RIVBK,,,False,7
+Evje og Hornnes Sparebank,,5000041378,NOR,EOHSP,,,False,7
+Schwyzer Kantonalbank,,4296961325,CHE,SHWYZK,,,False,7
+Bausparkasse Schwaebisch Hall Bausparkasse der Volksbanken und Raiffeisenbanken,,4296481994,DEU,DGBGBA,,,False,7
+Sparkasse Kraichgau Bruchsal Bretten Sinsheim,,5000056751,DEU,SPKBB,,,False,7
+Sparkasse Oberland,,5000062733,DEU,SPKAE,,,False,7
+Volksbank Altshausen eG,,4296795555,DEU,VALTS,,,False,7
+Volksbank Alzey Worms eG,,4296795556,DEU,VALZE,,,False,7
+VR Bank Mittlere Oberpfalz eG,,4297787982,DEU,VRBBF,,,False,7
+Sparkasse Bludenz Bank AG,,4296784523,AUT,PSBLDS,,,False,6
+Cassa di Risparmio di Bolzano SpA,,4296491394,ITA,CRBOL,,,True,6
+Banca di Credito Cooperativo Terra di Lavoro S Vincenzo de Paoli ScpA,,5000727875,ITA,BCCTV,,,False,6
+Adams Bank & Trust,,5000644929,USA,ADBACA,,,False,6
+BCC del Garda Banca di Credito Cooperativo Colli Morenici del Garda Sc,,5000554454,ITA,BDCCM,,,False,6
+Eh National Bank,,5000610248,USA,EHNAB,,,False,6
+First Bank (Tennessee),,5000659923,USA,FBKXF,,,False,6
+American Federal Bank,,5000055545,USA,AMFALA,,,False,6
+Oakstar Bank,,5000616170,USA,HWBNCB,,,False,6
+Ephrata National Bank,,4296477121,USA,ENBPE,,,False,6
+Heritage Bank and Trust,,5000645040,USA,HETAU,,,False,6
+Gbank,,5000592403,USA,GBFHG,,,False,6
+Central National Bank,CCAN.PK^J01,4296487794,USA,CNTBNK,OTC,,False,6
+Barrington Bank and Trust Company NA,,5000236686,USA,WTFCBB,,,False,6
+State Bank of The Lakes,,5000483564,USA,WTFCSL,,,False,6
+First American State Bank,,4296899276,USA,FITAM,,,False,6
+Intrust Bank NA,,5000648254,USA,INFNCI,,,False,6
+Bay State Savings Bank,,5000648595,USA,AHIEMB,,,False,6
+Ks Bank Inc,,5000482744,USA,KSBIB,,,False,6
+Dakota Western Bank,,5000649488,USA,DWBSHD,,,False,6
+Bogota Savings Bank,,5000649321,USA,BSBKB,,,False,6
+First National Bank of Long Island,,5000649390,USA,FLICF,,,False,6
+Interaudi Bank,,4298012895,USA,INTUD,,,False,6
+PCSB Bank,,5000649373,USA,PCSBXP,,,False,6
+Centerbank,,5000421768,USA,CENFIC,,,False,6
+Fannin Bank,,4295975342,USA,FANNNF,,,False,6
+Bank of Commerce (Mississippi),,5000659564,USA,COMBCC,,,False,6
+Premier Bank,,5000659667,USA,PMRBK,,,False,6
+Community Bank Lexington Tennessee,,5000660383,USA,CMNATC,,,False,6
+Security State Bank (Texas),,5000660183,USA,SUTYE,,,False,6
+Commercial State Bank,,5000660360,USA,WUSBNC,,,False,6
+Banco Monex SA Institucion de Banca Multiple Monex Grupo Financiero,,5000691541,MEX,HMSBBA,,,False,6
+Dollar Bank FSB,,5000774263,USA,DMUTLD,,,False,6
+Multi-Family and Commercial Lending Corp,,5000774283,USA,SLQUEF,,,False,6
+Washington County Bank,,5000610219,USA,BLHLDW,,,False,6
+Mercantile Bank of Louisiana Mo,,5000648984,USA,MERBK,,,False,6
+Union State Bank (Greenfield),,5000776624,USA,GREBCU,,,False,6
+Bank of New York Mellon Luxembourg SA,,5000041985,LUX,BKNYRL,,,False,6
+Capital Bank NA,,5000644843,USA,CAPBAB,,,False,6
+Orange Bank &Trust Co,,5035777144,USA,SALORG,,,False,6
+Hannoversche Volksbank eG,,4297399588,DEU,HANVB,,,False,6
+Natixis Pfandbriefbank AG,,5038059917,DEU,CNATPD,,,False,6
+Cape Cod Cooperative Bank,,5039194235,USA,CPCDB,,,False,6
+Ceska Sporitelna as,CESKY.PK^D10,4295865779,CZE,ERSTCS,PNK,CESKY,False,6
+3 banken Wohnbaubank AG,,5040932737,AUT,OBERW,,,False,6
+"Peoples Savings Bank (Indianola, Iowa)",,5053508614,USA,CESOBP,,,False,6
+Danske Hypotek AB (publ),,5057766045,SWE,DANSKH,,,False,6
+Centreville BankRhode Island,,5071515990,USA,CENBR,,,False,6
+Gulf Capital Bank,,5073157779,USA,GUCAB,,,False,6
+Banca di Cividale SpA,BPCIV.HT,4296687715,ITA,BPCIV,HMT,IT0001014783,True,6
+Lake Forest Bank & Trust Company NA,,4296607915,USA,WTFCL,,,False,6
+Banco Ve Por Mas SA Institucion de Banca Multiple Grupo Financiero Ve Por Mas,,4297411368,MEX,GFMASB,,,False,6
+Citibank Korea Inc,CBKKY.PK^K15,4295881555,KOR,CRPHIK,PNK,CBKKY,False,6
+Hinsdale Bank & Trust Company NA,,5000049895,USA,WTFCH,,,False,6
+Stadtsparkasse Duesseldorf,,4297920195,DEU,SSPKD,,,False,6
+Alpha Bank SA,,5080075318,GRC,ACBLP,,,False,6
+Commerzbank Finance & Covered Bond SA,,4296851906,LUX,CBKGCN,,,False,6
+Sparkasse Waldeck Frankenberg,,4296786297,DEU,SPKWF,,,False,6
+Dubuque Bank and Trust Co,,4296218603,USA,HTLFD,,,False,6
+AbbyBank,,5000001127,USA,ABBYBA,,,False,6
+Coastal States Bank,,5000037482,USA,COSOT,,,False,6
+Deutsche Bank AG (Sydney Branch),,4297086720,AUS,DBKGHE,,,False,6
+Bank Of Farmington,,4295958917,USA,FRMBRF,,,False,6
+Caisse Centrale Credit Immobilier France SA,,5000003371,FRA,CIDFRT,,,False,6
+Banco Marchigiano Credito Cooperativo,,5000591466,ITA,BCRVT,,,False,6
+Banca di Credito Cooperativo di Triuggio e della Valle del Lambro Sc,,5000604766,ITA,BTRUI,,,False,6
+Banca di Credito Cooperativo di Busto Garolfo e Buguggiate Sc,,4297175118,ITA,BCBGR,,,False,6
+State Bank of Chilton,,5000004930,USA,CABPRC,,,False,6
+Iris II SPV DAC,,4297660982,IRL,SOGNIB,,,False,6
+VR Bank Fulda eG,,5000001659,DEU,VrFLD,,,False,6
+Raiffeisenbank Obermain Nord eG,,4295968645,DEU,OBRMN,,,False,6
+National Cooperative Bank NA,,4297872787,USA,NCSCPN,,,False,6
+Sparkasse Hochschwarzwald,,4296784559,DEU,SHWRZ,,,False,6
+Sparkasse Oder Spree,,4295948821,DEU,SPKOS,,,False,6
+Stadtsparkasse Muenchen,,4297920198,DEU,SPKMN,,,False,6
+VR Bank Ravensburg-Weingarten eG,,5000037399,DEU,RAVWE,,,False,6
+Schaffhauser Kantonalbank,,4296726197,CHE,SCHAK,,,False,5
+Caisse Regionale de Credit Agricole Mutuel Charente Perigord,,5000757929,FRA,CRAMP,,,False,5
+Veneto Banca in liquidazione coatta amministrativa SpA,,5000067461,ITA,VBANC,,,False,5
+Caldwell Bank & Trust Co,,5000644823,USA,CALHDB,,,False,5
+Vival Banca Banca di Credito Cooperativo di Montecatini Terme Bientina e S Pietr,,4295968487,ITA,VBBCC,,,False,5
+VR Bank Rottal Inn eG,,4297724220,DEU,VRBRO,,,False,5
+Commercial Bank (Michigan),,5000660033,USA,CEFCI,,,False,5
+Reliabank Dakota,,5000617633,USA,RDAKA,,,False,5
+First International Issues Ltd,,4297673724,ISR,FIBIU,,,False,5
+Community Financial Services Bank Inc,,5000644819,USA,CNNNEB,,,False,5
+Magyar Bank,,5000614350,USA,MGYRBK,,,False,5
+Southern Bancorp Bank,,5000618049,USA,SUANCA,,,False,5
+Mega Bank,,5000647237,USA,MEGAB,,,False,5
+Academy Bank NA,,5000647321,USA,DKNNNC,,,False,5
+Thomaston Savings Bank,,5000647374,USA,THOSA,,,False,5
+Iowa Trust & Savings Bank,,5000648023,USA,EMMETI,,,False,5
+German American State Bank,,5000647923,USA,FGFHGA,,,False,5
+Northbrook Bank & Trust Company NA,,5000647579,USA,WTFCNB,,,False,5
+First Community Bank of The Heartland Inc,,5000648407,USA,FRSTFC,,,False,5
+Wakefield Cooperative Bank,,4296613169,USA,WKFCP,,,False,5
+Prime Security Bank,,5000648924,USA,NTHBCP,,,False,5
+CNB St Louis Bank,,5000648978,USA,CRDNBC,,,False,5
+Welch State Bank of Welch Okla,,5000649693,USA,WCHBCW,,,False,5
+Marathon Bank,,5000647020,USA,CPWAVS,,,False,5
+Bank of Oak Ridge,,4295902271,USA,BKORI,,,False,5
+Fairfield County Bank,,5000613876,USA,FACOBF,,,False,5
+American Bank NA (Iowa),,5000660242,USA,AMNKCB,,,False,5
+Cambridge Savings Bank,,4295984382,USA,CAMFIC,,,False,5
+Bank of Nova Scotia (London Branch),,4297173338,GBR,BNSUK,,,False,5
+Touchmark National Bank,,5000257152,USA,TMAKH,,,False,5
+Lillesands Sparebank,,5000002846,NOR,LILES,,,False,5
+Security First Bank (Nebraska),,5000635188,USA,STOKME,,,False,5
+Banco Bradesco SA (New York Branch),,5035095906,USA,BBDCDN,,,False,5
+Banca Di Taranto E Massafra BCC Bc,,5035395972,ITA,ICCRTR,,,False,5
+Bank of East Asia Ltd (London Branch),,5037590730,GBR,BKEASO,,,False,5
+J&T Banka as,,5000053040,CZE,JTFIGJ,,,False,5
+First of Washington FSB,,5079211223,USA,FIRWA,,,False,5
+Adams Community Bank,,5083857115,USA,COMBMA,,,False,5
+Town Bank NA,,4296385128,USA,WTFCTB,,,False,5
+Arcadian Bank,,5000578092,USA,MICOBA,,,False,5
+Die Sparkasse Bremen AG,SIBGg.BM^F02,5000055885,DEU,DSPKBR,,,False,5
+Citizens State Bank (Nebraska),,5000659684,USA,CZNLB,,,False,5
+Banca San Francesco Credito Cooperativo Sc,,5000599054,ITA,BNFRS,,,False,5
+Mountain Commerce Bank,,4297198267,USA,MCBIC,,,False,5
+Banca di Credito Cooperativo Brianza e Laghi Sc,,5000589429,ITA,BCCNZ,,,False,5
+Bezirkssparkasse Reichenau,,4296769974,DEU,BZRHN,,,False,5
+Kreis Und Stadtsparkasse Wasserburg Am Inn,,5000050841,DEU,KSSWM,,,False,5
+Kreissparkasse Ravensburg,,4296724861,DEU,KRERA,,,False,5
+Kreissparkasse Reutlingen,,5000037450,DEU,REUTLK,,,False,5
+Kreissparkasse St Wendel,,4296034272,DEU,KRSWN,,,False,5
+VR GenoBank DonauWald eG,,4296717428,DEU,GBKDO,,,False,5
+Sparkasse Kierspe Meinerzhagen Zweckverbandssparkasse der Staedte Kierspe und Me,,5000062633,DEU,SPKKIM,,,False,5
+Sparkasse Mittelfranken Sued,,5000042199,DEU,SKRSB,,,False,5
+Taunus Sparkasse,,4296712621,DEU,SPKTU,,,False,5
+VBU Volksbank im Unterland eG,,4297238494,DEU,VBUSW,,,False,5
+Volksbank Staufen eG,,4296795796,DEU,VSTFN,,,False,5
+Banca Popolare di Puglia e Basilicata SCpA,BPPUGL.HT,5000010808,ITA,BPPUX,HMT,IT0001069860,True,4
+Midwest Bankcentre,,5000367282,USA,MDWTBB,,,False,4
+1st Capital Bank,,4297698645,USA,FISBAC,,,False,4
+Banque Populaire Bourgogne Franche Comte SA,,4295928690,FRA,BPCEU,,,False,4
+Volksbank Salzburg Eg,,4296865388,AUT,VBKSA,,,False,4
+Commercial Savings Bank (Iowa),,5000644737,USA,COMBNC,,,False,4
+Skandinaviska Enskilda Banken AB Publ (London Branch),,5001168273,GBR,SEBKL,,,False,4
+Discount Manpikim Ltd,,4297602983,ISR,DSCTM,,,False,4
+Wahoo State Bank,,5000617613,USA,HOHLFW,,,False,4
+Anderson Brothers Bank,,5000598682,USA,ADBNCA,,,False,4
+1st Colonial Community Bank,,5000483225,USA,FCOBm,,,False,4
+Montgomery Bank,,5000603239,USA,MTGMRY,,,False,4
+SID Banka dd Ljubljana,,4296721549,SVN,SKIRJ,,,False,4
+Georgia Banking Co,,4296575012,USA,GRGIAG,,,False,4
+Willamette Valley Bank,,5000001257,USA,ORBNTT,,,False,4
+Bank of Missouri,,5000029792,USA,RIMMUB,,,False,4
+Sparbanken Rekarne AB,,5000007210,SWE,SPBKR,,,False,4
+Home Exchange Bank,,5000607035,USA,CYBCSH,,,False,4
+Raiffeisen holding Niederoesterreich Wien Registrierte GmbH,,4296888600,AUT,RHNDW,,,False,4
+Korea Development Bank (Tokyo Branch),,5000938266,JPN,KDBTK,,,False,4
+Marion Community Bank,,5000647148,USA,MRCMK,,,False,4
+Liberty Bank NA,,4297384092,USA,DMGBAI,,,False,4
+Mission Valley Bank,,5000647232,USA,MVLYV,,,False,4
+Pacific National Bank,,5000660318,USA,PFNTB,,,False,4
+Claxton Bank,,5000647510,USA,SHNBSC,,,False,4
+South Story Bank & Trust,,4296278773,USA,GREEIS,,,False,4
+Illini State Bank,,5000647730,USA,ISBBCI,,,False,4
+Iroquois Farmers State Bank,,5000647665,USA,SHHODI,,,False,4
+Iuka State Bank,,5000647888,USA,LUKBST,,,False,4
+Bank of Buffalo Inc,,5000648454,USA,BFFLOB,,,False,4
+First National Bank of Moose Lake,,5000648754,USA,FRSTNN,,,False,4
+Bank Of Kremlin,,5000649659,USA,KREMLO,,,False,4
+Mountain Pacific Bank,MPBX.PK^L19,5000454005,USA,MPCBM,OTC,,False,4
+Citizens Bank (Arkansas),,5000660317,USA,CSBCSC,,,False,4
+Cogent Bank,,5000659896,USA,PNNHDC,,,False,4
+Signature Bank (Illinois),,5000659975,USA,SURBCS,,,False,4
+Security State Bank (Wyoming),,5000660186,USA,FISERS,,,False,4
+First State Bank (North Dakota),,5000659985,USA,FLSRVK,,,False,4
+First State Bank (Winchester),,5000659988,USA,FSTBF,,,False,4
+First Savings Bank (South Dakota),,5000774541,USA,FBFITF,,,False,4
+Citadele Banka AS,,5001169025,LVA,RIPADC,,,False,4
+Gateway First Bank,,4297713212,USA,GTEFS,,,False,4
+Forte Bank,,5000646972,USA,FNBHAO,,,False,4
+First Security Bank and Trust Co (Iowa),,5000648126,USA,CDVLLF,,,False,4
+Guaranty State Bank and Trust Company Beloit Kansas,,5000648278,USA,GURTYG,,,False,4
+First National Bank and Trust Co (Illinios),,5000660119,USA,TRNBAL,,,False,4
+Central State Bank (Iowa),,5000776689,USA,AJJBCT,,,False,4
+Community First Bank (Wisconsin),,5000776641,USA,BSCBNF,,,False,4
+"Citizens Savings Bank (Spillville, Iowa)",,5000776628,USA,CISAV,,,False,4
+"Citizens Bank (Elizabethton, Tennessee)",,5000776519,USA,CTCMBI,,,False,4
+Dolomitenbank Osttirol westkaernten Eg,,5001231931,AUT,DOLOS,,,False,4
+Credit Suisse AG (Sydney Branch),,5035926760,AUS,CSGNSD,,,False,4
+Finanzholding der Sparkasse in Bremen,,4298427994,DEU,DSPKB,,,False,4
+Criteria Caixa SAU,,5037086832,ESP,CAIXAR,,,False,4
+Savings Bank of Danbury,,5044265288,USA,SBDBCT,,,False,4
+Meredith Village Savings Bank,,5044267163,USA,NHMPEM,,,False,4
+Inbank AS,,5046041824,EST,INBAK,,,False,4
+Frazer Bank,,5051606431,USA,FSTABC,,,False,4
+Jersey Shore State Bank,,5057567190,USA,PWODES,,,False,4
+Mutual Savings Bank (Franklin),,5057776698,USA,TDCBM,,,False,4
+Breedewee Opportunities SA,,5065370398,LUX,BREEW,,,False,4
+Co-Operative Bank Finance PLC,,5068324371,GBR,COPVEI,,,False,4
+Banco de Costa Rica,,4296631747,CRI,BCOCR,,,,4
+Eurocaja Rural S Coop de Credito,,4296106452,ESP,ERCJR,,,False,4
+Gorham Savings Bank,,5000592494,USA,GORHAG,,,False,4
+D Yatirim Bankasi AS,,5079141241,TUR,DOHOLY,,,False,4
+First Seacoast Bank,,5079244034,USA,FSEAF,,,False,4
+Carson Community Bank,,5034682902,USA,CARCM,,,False,4
+Sormlands Sparbank AB,,5083346528,SWE,SRMDS,,,False,4
+North American Banking Co,,4295896518,USA,NACMIB,,,False,4
+Currie State Bank,,5000059332,USA,CRBCPC,,,False,4
+Northwestern Bank,,5000069136,USA,NWBASN,,,False,4
+Citizens State Bank (Wisconsin),,4297149448,USA,CZNSBI,,,False,4
+Allied Irish Banks PLC,,8589934341,IRL,AIBGL,,,False,4
+Eastern Bank,,5000398016,USA,EBCEB,,,False,4
+UMB Bank NA,,5000009319,USA,UMBFN,,,False,4
+Legacy National Bank,,4297078515,USA,LEGBAN,,,False,4
+Credit Agricole Mutuel Pyrenees Gascogne,,5000011167,FRA,MPYRS,,,False,4
+Arab Bank Australia Ltd,,4297035858,AUS,ARBKXA,,,False,4
+Camden National Bank,,5000243516,USA,CACCN,,,False,4
+Banca di Ripatransone e del Fermano Credito Cooperativo Sc,,5000588866,ITA,BRIPT,,,False,4
+Cassa Rurale Val di Non Rotaliana e Giovo Banca di Credito Cooperativo,,4296094868,ITA,CRTVN,,,False,4
+Ulster Bank Ireland DAC,FAP.L,4297023080,IRL,NWGUI,LSE,,True,4
+Decorah Bank and Trust Co,,5000644744,USA,SECAGD,,,False,4
+Sparkasse Rosenheim Bad Aibling,,4296834790,DEU,SPRBA,,,False,4
+Volksbank Emmerich Rees eG,,4296042882,DEU,RBEMM,,,False,4
+Raiffeisenbank Wangen eG,,4296010609,DEU,RWNGN,,,False,4
+Sparkasse Hochrhein,,4296824383,DEU,SKHCH,,,False,4
+Sparkasse Leverkusen,,4296074130,DEU,SPALE,,,False,4
+Stadt Sparkasse Solingen,,4298173109,DEU,SSPKS,,,False,4
+Stadtsparkasse Wunstorf,,4296786469,DEU,SSWUN,,,False,4
+VR Bank Dreieich Offenbach eG,,4296707004,DEU,VKDRE,,,False,4
+Volksbank Stuttgart eG,,4296712656,DEU,VKSTG,,,False,4
+Volksbank Mittlerer Neckar eG,,5000069323,DEU,VBMRN,,,False,4
+Banca di Caraglio del Cuneese e della Riviera dei Fiori Credito cooperativo Sc,,5000603187,ITA,BCGCN,,,False,3
+Banca Territori del Monviso Credito Cooperativo di Casalgrasso e Santalbano Stur,,5000597154,ITA,BCCAS,,,False,3
+Vereinigte Sparkasse im Maerkischen Kreis Zweckverbandssparkasse der Staedte Alt,,5000013605,DEU,VESIMK,,,False,3
+Orix Bank Corp,,4296977011,JPN,ORIXCT,,,False,3
+IBL Istituto Bancario del Lavoro SpA,,5000891736,ITA,IBLBL,,,False,3
+Caisse Reg Credit Agric Mut Normandie,,5000045381,FRA,CACAM,,,False,3
+Banca Prealpi SanBiagio Credito Cooperativo Sc,,5000590575,ITA,BPREA,,,False,3
+TSB Bank PLC,,5000058413,GBR,SABEGP,,,False,3
+Raiffeisenbank Salzburger Seenland Egen,,5000041773,AUT,RFKZG,,,False,3
+Bene Banca Credito Cooperativo di Bene Vagienna Cuneo Sc,,5000599946,ITA,BCCBV,,,False,3
+Volksbank Riesa eG,,4296803429,DEU,VBKRI,,,False,3
+Raiffeisenbank Altenmarkt flachau eben Egen,,5000043411,AUT,RAAFE,,,False,3
+Bayerische Landesbank (London Branch),,5000630769,GBR,BLGGBB,,,False,3
+National Bank Of Canada (New York Branch),,4297078975,USA,NACNY,,,False,3
+ACN 087 652 024 Ltd,,4298145203,AUS,ACNGH,,,False,3
+Citizens and Farmers Bank,,4296406206,USA,CFFIB,,,False,3
+Banco Penta,,5000031948,CHL,EPENTP,,,False,3
+North American Savings Bank FSB,,5000608084,USA,NASBOR,,,False,3
+Georgia Primary Bank,,5000600853,USA,GRPRM,,,False,3
+First Bank Blue Earth,,5000601045,USA,FNBBCF,,,False,3
+First Bank (North Carolina),,5000643567,USA,FBNCAK,,,False,3
+1st Trust Bank Inc,,5000644817,USA,TRSBK,,,False,3
+Bluff View Bank,,5000019211,USA,GLBHIB,,,False,3
+Mabrey Bank,,5000645005,USA,MBBNCA,,,False,3
+Newfield National Bank,FNBI.PK^C14,5000644942,USA,NFBPA,PNK,FNBI,False,3
+Bank of Bridger NA,,5000611842,USA,BDGERB,,,False,3
+Tri County Trust Co,,5000015648,USA,TRCNY,,,False,3
+Paducah Bank and Trust Co,,5000045776,USA,PADUKT,,,False,3
+Piedmont Bank,,5000602476,USA,PBCRPD,,,False,3
+State Bank (Michigan),,5000192620,USA,FETMSB,,,False,3
+Voss Sparebank,,4298299905,NOR,VOSSP,,,False,3
+FBT Bank & Mortgage,,5000647182,USA,FBTBHF,,,False,3
+Flagler Bank,,5000647445,USA,FLABCF,,,False,3
+Atkins Savings Bank & Trust,,5000648071,USA,ATSAB,,,False,3
+Wayne Bank and Trust Co,,5000648000,USA,WAYTRW,,,False,3
+Citizens Progressive Bank,,5000648555,USA,CALHDC,,,False,3
+Reading Co-operative Bank,,4296116456,USA,REDTI,,,False,3
+Guaranty Bank,,5000649134,USA,QCRHG,,,False,3
+Unison Bank,,5000649465,USA,MSHCTU,,,False,3
+Auburn State Bank,,4296049158,USA,AUBST,,,False,3
+Merrimack County Savings Bank,,4297166568,USA,NHMPEC,,,False,3
+Merchants State Bank,,5000649850,USA,HWHLDM,,,False,3
+One Bank of Tennessee,,5000649926,USA,ONEBT,,,False,3
+Bank Of Lake Mills,,5000646994,USA,BLAKM,,,False,3
+Bank Of Luxemburg,,5000647024,USA,LCBGBB,,,False,3
+State Bank of Reeseville,,5000647079,USA,RWBNCS,,,False,3
+Waukesha State Bank,,4297354037,USA,WAUST,,,False,3
+Citizens First Bank,,5000659698,USA,CFBLDC,,,False,3
+Savibank,,5000646921,USA,SVVBB,,,False,3
+Legacy Bank (Oklahoma),,5000659616,USA,MDCRPL,,,False,3
+Bank of China Ltd (Paris Branch),,5000761472,FRA,BKCHIN,,,False,3
+Raiffeisen Regionalbank Moedling eG,,5000766264,AUT,RAFFR,,,False,3
+Hampshire Trust Bank PLC,,4296188280,GBR,ALYSFM,,,False,3
+Commonwealth Cooperative Bank,,4297994275,USA,CMMWE,,,False,3
+Heartland Bank (Iowa),,5000772376,USA,SMRBCH,,,False,3
+Systematic Savings Bank,SSSB.PK^I22,5000774177,USA,SSSB,PNK,,False,3
+Chambers State Bank,,5000786565,USA,CMBCOC,,,False,3
+Bank of New York Mellon International Limited (Luxembourg Branch),,5000810802,LUX,BKBYL,,,False,3
+First Federal Savings Bank of Kentucky,,4296209870,USA,KFFBFK,,,False,3
+Bank Austria Wohnbaubank AG,,4297238597,AUT,UCBAW,,,False,3
+Bank of South Carolina Corp,,5000038152,USA,BSUTC,,,False,3
+First Federal Community Bank NA,,5000127011,USA,FFDFR,,,False,3
+Washington Savings Bank (Illinois),,5000647833,USA,WHGTSW,,,False,3
+Biz Finance PLC,,5000728485,GBR,PEXFSN,,,False,3
+Mid America Bank,,5000659911,USA,WNSBPM,,,False,3
+Volksbank Vogtland Saale Orla eG,,4296260533,DEU,VBVOG,,,False,3
+Agricultural Bank of China Ltd (Seoul Branch),,5040196682,KOR,AGBKCL,,,False,3
+Industrial and Commercial Bank of China (New Zealand) Limited,,5038911394,NZL,ICBAFA,,,False,3
+Central Federal Savings and Loan Association,,5041840793,USA,CFSLA,,,False,3
+Banca di Credito Cooperativo Appulo Lucana Sc,,5044753864,ITA,BADCO,,,False,3
+Piedmont FSB,,4295917936,USA,PIDMT,,,False,3
+Nordea Bank Abp (London Branch),,5066536946,GBR,NDAFIO,,,False,3
+Blue Ridge Bank NA (Martinsville),,5068478497,USA,BRBSBR,,,False,3
+Country Bank for Savings,,4296521914,USA,CONBK,,,False,3
+Riverside Bank,,5000660250,USA,RIVBCR,,,False,3
+Martha's Vineyard Bank,,5081959036,USA,MAHVB,,,False,3
+Guilford Savings Bank,,5083434314,USA,GSBMUU,,,False,3
+Viking Bank,,5083975021,USA,VIKFAB,,,False,3
+Crown Bank,,5000660436,USA,CRNAA,,,False,3
+FFB Bank,,4297499039,USA,CFSTFF,,,False,3
+Verus Bank of Commerce,,5000063934,USA,VEACGE,,,False,3
+Mound City Bank,,5000645083,USA,MCYFNO,,,False,3
+North Alabama Bank,,5000001225,USA,BLCRPB,,,False,3
+INB NA,,5000644762,USA,ILNABI,,,False,3
+Banco Regional SA Institucion de Banca Multiple Banregio Grupo Financiero,,4297010920,MEX,RAXA,,,False,3
+Credito Cooperativo Cassa Rurale ed Artigiana del Friuli Venezia Giulia Sc,,5000727680,ITA,FRVNG,,,False,3
+Goldman Sachs Bank AG,,5000755083,CHE,GSGSCG,,,False,3
+Kreis und Stadtsparkasse Erding Dorfen,,4295948804,DEU,KSSED,,,False,3
+Sparkasse Bayreuth,,4296780865,DEU,SPKBY,,,False,3
+Kreissparkasse Traunstein Trostberg,,5000041658,DEU,KTRNT,,,False,3
+Weser-Elbe Sparkasse,,5000037466,DEU,WSRBE,,,False,3
+VR Bank Metropolregion Nuernberg eG,,5000069356,DEU,VRBMN,,,False,3
+Volksbank Die Gestalterbank eG,,5000051175,DEU,VOLNK,,,False,3
+Sparkasse Radevormwald Hueckeswagen,,4296619857,DEU,SRDHK,,,False,3
+Volksbank Bruchsal Bretten eG,,5000002751,DEU,VLKBR,,,False,3
+Volksbank Mittlerer Schwarzwald eG,,4296795679,DEU,VKKMT,,,False,3
+Volksbank Darmstadt Suedhessen eG,,4296729957,DEU,VLDMS,,,False,3
+Volksbank Raiffeisenbank Nordoberpfalz eG,,4297155195,DEU,VLKRA,,,False,3
+United Trust Bank,,4295144811,USA,UNTBNU,,,False,3
+Credito Emiliano Holding SpA,,4295970397,ITA,CREDE,,,False,2
+Crelan SA,,4298430817,BEL,CRELAN,,,False,2
+Sparkasse Bregenz Bank AG,,4295968653,AUT,DRNBNS,,,False,2
+Sparkasse Reutte AG,,4296784587,AUT,PVSFUS,,,False,2
+First Commonwealth Bank,,4295909876,USA,FCFBK,,,False,2
+BCC Felsinea Banca di Credito Cooperativo dal 1902 Sc,,5000588034,ITA,BCCBL,,,False,2
+Banca di Credito Cooperativo di Abruzzi e Molise Sc,,5000600334,ITA,BNCDI,,,False,2
+Community First Bank Inc,,5000659951,USA,CFOKC,,,False,2
+Kremser Bank Und Sparkassen AG,,5000074804,AUT,PRSPKK,,,False,2
+Northpointe Bancshares Inc,,5000054069,USA,NTHPB,,,False,2
+Banca di Credito Cooperativo di San Giovanni Rotondo Sc,,5000588970,ITA,BCCGR,,,False,2
+State Bank of New Richland,,5000617629,USA,NRICBR,,,False,2
+Astra Bank,,5000614161,USA,FBLLEA,,,False,2
+Volksbank Mittweida eG,,4296865425,DEU,VBKMIT,,,False,2
+First Independent Bank,,5000659810,USA,FINBCB,,,False,2
+JPMorgan Chase Bank NA (Toronto Branch),,5001095664,CAN,JPMBTO,,,False,2
+Danske Bank A/S (London Branch),,5038074724,GBR,DANSBK,,,False,2
+365 Bank as,,4296138923,SVK,JTFIGA,,,False,2
+Banco Centroamericano de Integracion Economica (San Pedro Branch),,5001121364,CRI,BCIEC,,,False,2
+HSBC Capital Funding (Dollar1) LP,,5000047413,GBR,HSBADA,,,False,2
+PlainsCapital Bank,,4298362093,USA,HTHDGC,,,False,2
+Choice Financial Group,,5000616023,USA,CHFIHG,,,False,2
+First Peoples Bank,,5000659740,USA,FRSPBF,,,False,2
+New Market Bank,,5000603519,USA,MBANCN,,,False,2
+ICICI Bank UK PLC,,4297700921,GBR,ICBKK,,,False,2
+Community Bank Owatonna,,5000592759,USA,BANRCM,,,False,2
+First State Bank of Mendota,,5033564488,USA,TRCOFS,,,False,2
+Mercantile Hanpakot Ltd,,4297543716,ISR,DSCTH,,,False,2
+Civista Bank,,5000484888,USA,CIVBC,,,False,2
+Lea County State Bank,,5000644950,USA,LEACTL,,,False,2
+Banner Capital Bank,,5000644933,USA,BNNCYB,,,False,2
+First Bank of Coastal Georgia,,5000644733,USA,PGREEG,,,False,2
+Stockman Bank Of Montana,,4298219439,USA,STNNNS,,,False,2
+Signature Bank NA,,5000052902,USA,SIGNUK,,,False,2
+Coastal Heritage Bank,,5000541195,USA,STHORK,,,False,2
+Avidia Bank,,4297884499,USA,ASSBVV,,,False,2
+Iowa State Bank and Trust Company of Fairfield Iowa,,5000648100,USA,IWSSSI,,,False,2
+Springs Valley Bank & Trust Co,,5000647969,USA,SVBTV,,,False,2
+Gnbank NA,,5000648202,USA,GNKSHG,,,False,2
+Farmers & Traders Bank Of Campton,,5000648398,USA,MIDFIF,,,False,2
+Cape Cod Five Cents Savings Bank,,4296521838,USA,CAPECC,,,False,2
+Bath Savings Institution,,5000648551,USA,BATHS,,,False,2
+Pine Island Bank,,5000648774,USA,ZUMBTP,,,False,2
+Peoples Bank Of Wyaconda Missouri,,5000648986,USA,PPBNK,,,False,2
+First Northeast Bank of Nebraska,,5000649182,USA,CNAGCB,,,False,2
+Home Loan Savings Bank,,5000649527,USA,HLFNHO,,,False,2
+First Bethany Bank & Trust,,5000649726,USA,FBETHF,,,False,2
+Penn Community Bank,,4297361081,USA,PNCMHB,,,False,2
+Bank of Halls,,5000649900,USA,SCYTBK,,,False,2
+Communitybank of Texas NA,,5000650049,USA,HILENX,,,False,2
+Charis Bank,,5000649985,USA,CRISB,,,False,2
+Titan Bank NA,,5000649993,USA,BMCBAT,,,False,2
+Bank of Ontario,,5000647050,USA,ONTBAB,,,False,2
+Benton State Bank,,5000647004,USA,BSCOBK,,,False,2
+Bonduel State Bank,,5000647014,USA,BDUNPB,,,False,2
+Greenwoods State Bank,,5000647072,USA,GRWOOG,,,False,2
+Pendleton Community Bank Inc,,5000646968,USA,ALEBAP,,,False,2
+Sandhills State Bank,,5000660034,USA,SDHLLS,,,False,2
+First Security Bank (Minnesota),,5000659864,USA,OLMSTF,,,False,2
+Castle Rock Bank (Minnesota),,5000659729,USA,CTLRK,,,False,2
+First State Bank of Lynnville Iowa,,5000659980,USA,FSTBHK,,,False,2
+Bank Pocztowy SA,,4296331130,POL,POTPOB,,,False,2
+Caisse Reg Credit Agric Mut Val France,,4296435103,FRA,CRCAF,,,False,2
+Northfield Bank,,4298526643,USA,NFBKNR,,,False,2
+Lyons Federal Bank,,5000774238,USA,LYFEB,,,False,2
+Southwest Capital Bank,,5000660234,USA,SWCPB,,,False,2
+Sullivan Bank,,4295173558,USA,MIDMIS,,,False,2
+Co-Operative Bank Ltd,,4296300491,NZL,COBKN,,,False,2
+BancPlus Corp,,4297022197,USA,BANPL,,,False,2
+Bank of China (Australia) Ltd,,4298530839,AUS,BOCAU,,,False,2
+Equitable Bank,,5000106984,USA,EQFNE,,,False,2
+Rocky Mountain Bank (Montana),,5000136185,USA,HTLFI,,,False,2
+West Michigan Community Bank,,5000396036,USA,WMCBK,,,False,2
+Millennium Bank (Tennessee),,5000617361,USA,PBDHLI,,,False,2
+Farmers Savings Bank (Colesburg),,5000728888,USA,MRJBAF,,,False,2
+First State Bank (Arkansas),,5000776708,USA,FRBKGF,,,False,2
+Pan American Bank & Trust,,5000879573,USA,AMCBOP,,,False,2
+Home Federal Bank,,5000992667,USA,HFBLH,,,False,2
+Shoko Chukin Bank Ltd (New York Branch),,5001167988,USA,SKCBKN,,,False,2
+Kookmin Bank (Auckland Branch),,5001168103,NZL,KBFNGA,,,False,2
+Danske Bank A/S (New York Branch),,5001167880,USA,DANSKN,,,False,2
+Banca dell Alta Murgia Credito Cooperativo Sc,,5035438070,ITA,BCCAM,,,False,2
+Joh Berenberg Gossler & Co KG,,8589934328,DEU,BEREN,,,False,2
+Privatbank Reithinger GmbH & Co KG,,4296042740,DEU,REITH,,,False,2
+Farm Credit Bank of Texas,FCTXZ.PK,4296973088,USA,FCTXZ,PNK,,True,2
+Raiffeisenkasse Ritten Genossenschaft Cassa Rurale Renon Sc,,5037353538,ITA,CARUR,,,False,2
+IH Mississippi Valley Credit Union,,5009830272,USA,IHMIS,,,False,2
+VTB Eurasia DAC,,5037650376,IRL,VTBRE,,,False,2
+Waldviertler Sparkasse Bank AG,,5039145283,AUT,SPZTPW,,,False,2
+Odea Bank AS,,5039545102,TUR,AUDIO,,,False,2
+Relyance Bank NA,,5040791434,USA,JEFBSY,,,False,2
+Mashreqbank PSC (London Branch),,5044031496,GBR,MASBM,,,False,2
+Taishin International Bank Co Ltd (Brisbane Branch),,5045506938,AUS,TAINT,,,False,2
+Opusalpha Funding Ltd,,4298280010,IRL,HLBGOP,,,False,2
+VR-Bank Coburg eG,,5000073896,DEU,VRCOR,,,False,2
+Rise Sparekasse,,5045179214,DNK,RISEK,,,False,2
+UBS Europe SE,,5052965148,DEU,UBSGEU,,,False,2
+Rhinebeck Bank (Rhinebeck) Branch,,5046430538,USA,INEBE,,,False,2
+Raiffeisenbank Aare-Langete Genossenschaft,,5044777448,CHE,RAIFB,,,False,2
+Seneca Savings,,5059933867,USA,SNNFS,,,False,2
+Westmark Credit Union,,5001416124,USA,WETMR,,,False,2
+University Credit Union,,5001408728,USA,UNVCT,,,False,2
+Caisse Centrale du Credit Mutuel SA,,4296117748,FRA,CAFDCM,,,False,2
+Bank of Tennessee,,5000608023,USA,BANCTB,,,False,2
+Factorbank AG,,4296106934,AUT,UCFCT,,,False,2
+Royal Bank of Scotland PLC,,5000008742,GBR,NWGSN,,,False,2
+Woori Bank (Sydney Branch),,5076935365,AUS,WORRID,,,False,2
+EBN Finance Company BV,,5079887447,NLD,STIEFE,,,False,2
+Appenzeller Kantonalbank,,4297554219,CHE,APPKA,,,False,2
+TD Bank NA,,5000075050,USA,TDTDBA,,,False,2
+LQ Inversiones Financieras SAC,,4296673964,CHL,QUINEL,,,False,2
+Frankfurter Sparkasse,FSPGgh.F^F06,4295917623,DEU,HLBGF,,FSP7,False,2
+LHV Pank AS,,4298221078,EST,LHVATB,,,False,2
+Wilmington Savings Fund Society,,4296195025,USA,WSFSW,,,False,2
+S&T Bank,,5000026213,USA,STBAS,,,False,2
+Bernhauser Bank eG,,4297142020,DEU,BERBK,,,False,2
+Wells Fargo Bank Northwest NA,,5000196060,USA,WFCWF,,,False,2
+Quad City Bank and Trust Co,,5000585906,USA,QCRHBK,,,False,2
+RSHB Capital SA,,4296148092,LUX,FASPRM,,,False,2
+Ca Auto Bank SpA,,4296637555,ITA,CAGRCA,,,False,2
+Hongkong and Shanghai Banking Corporation Ltd (Auckland Branch),,5001106095,NZL,HSBCNZ,,,False,2
+SB Capital SA,,4297574811,LUX,STSBCS,,,False,2
+OFCB Capital PLC,,4297563861,IRL,RUSSCC,,,False,2
+Bippus State Bank,,5000058448,USA,BPSTBK,,,False,2
+Oostburg State Bank,,5000001246,USA,OSGBCO,,,False,2
+Resona Bank Ltd,8319.T^L01,5000007230,JPN,RESHDA,TYO,8319,False,2
+Landesbank Hessen-Thueringen Girozentrale (New York Branch),,5001100871,USA,HLBGLD,,,False,2
+NexBank Capital Inc,,4297687606,USA,MARKPL,,,False,2
+Sony Bank Inc,,4296982028,JPN,SNYFNB,,,False,2
+Deutsche Bank SpA,,4296537661,ITA,DBKGDE,,,False,2
+Peapack-Gladstone Bank,PGBK.PK^A02,4296020527,USA,PGCPGB,PNK,,False,2
+Sparebank 1 Gruppen AS,,4295968465,NOR,SOGAS,,,False,2
+BANQUE RAIFFEISEN SC,,4296540304,LUX,BANQR,,,False,2
+Carter Bank and Trust,,4297914503,USA,CAREBK,,,False,2
+Fidelity Federal Bancorp,FDLB.PK,4295906443,USA,FDLB,PNK,FDLB,True,2
+Banca di Credito Cooperativo di Flumeri Sc,,5000018835,ITA,FLUME,,,False,2
+Banca di Credito cooperativo di Gaudiano di Lavello Sc,,5000587669,ITA,BCLVL,,,False,2
+Banca 360 Credito Cooperativo Fvg Sc,,4297175223,ITA,CSNBCE,,,False,2
+Banca Lazio Nord Credito Cooperativo ScpA,,5000594329,ITA,CSNBCB,,,False,2
+Banca Popolare di Lajatico ScpA,BPLAJ.HT,4296094878,ITA,BPLAJ,HMT,IT0001345443,True,2
+ZKB Credito Cooperativo di Trieste e Gorizia Sc,,5000607285,ITA,BCARO,,,False,2
+Cassa Rurale Valsugana e Tesino Banca di Credito Cooperativo Sc,,4297175145,ITA,CRVTB,,,False,2
+Cassa Rurale di Ledro Banca di Credito Cooperativo Sc,,5000607142,ITA,CSLDR,,,False,2
+Banca di Credito Cooperativo Abruzzese Cappelle sul Tavo Sc,,4297175228,ITA,BCABZ,,,False,2
+Credito Cooperativo Friuli Sc,,4295969026,ITA,CDFRL,,,False,2
+Raiffeisenbank Elsavatal eG,,5000600268,DEU,RAELS,,,False,2
+Crescent Bank & Trust (Louisiana),,4297388728,USA,CBTHLB,,,False,2
+Johnson Bank,,4298110052,USA,JNIAPJ,,,False,2
+Eika Kredittbank AS,,5000589378,NOR,EIKGRR,,,False,2
+National Bank of Poland,,8589934401,POL,NBPOL,,,,2
+Security Federal Bank,,5000026612,USA,SFDLE,,,False,2
+Banque Nomura France SA,,5000763213,FRA,NMHLUB,,,False,2
+First Fidelity Bank (Oklahoma),,5000645003,USA,FRSBCD,,,False,2
+Shinhan Bank America,,5000008754,USA,SHINGS,,,False,2
+Ceskoslovenska Obchodna Banka as,,5000256435,SVK,KBCOK,,,False,2
+Seattle Bank,,4297872771,USA,SEATT,,,False,2
+Sparkasse Dillenburg,,4296760701,DEU,SPDLB,,,False,2
+VR-Bank Mittelfranken West eG,,5000002692,DEU,VBMTW,,,False,2
+Sparkasse Dillingen-Noerdlingen,,5000075447,DEU,SPDIN,,,False,2
+Kreissparkasse Tuebingen,,5000056746,DEU,KSTUE,,,False,2
+VR Bank Heilbronn Schwaebisch Hall eG,,4297235803,DEU,VRSHC,,,False,2
+Stadt Sparkasse Gelsenkirchen,,4298173107,DEU,SPKGL,,,False,2
+Sparkasse Hanau,,4297861857,DEU,SPKHN,,,False,2
+Sparkasse Landshut,,4296760734,DEU,SKLND,,,False,2
+Sparkasse Loerrach Rheinfelden,,4296334874,DEU,SLOER,,,False,2
+Stadtsparkasse Moenchengladbach,,5000074432,DEU,SSPKM,,,False,2
+Sparkasse Witten,,4296011306,DEU,SSWTN,,,False,2
+Volksbank Butzbach eG,,4296795588,DEU,VBTZB,,,False,2
+Volksbank Mosbach eG,,4296795614,DEU,VMSBC,,,False,2
+Volksbank in Schaumburg und Nienburg eG,,5000076416,DEU,VOSBC,,,False,2
+Investors Bank,,5000286446,USA,ISBCI,,,False,2
+VR Bank Bamberg-Forchheim VolksRaiffeisenbank eG,,4296795634,DEU,VFRCH,,,False,2
+Volksbank Mittelhessen eG,,4296795712,DEU,VBMTH,,,False,2
+Volksbank Hohenzollern Balingen eG,,4297238457,DEU,VHNZL,,,False,2
+Volksbank Lahr eG,,4297788911,DEU,VBLHR,,,False,2
+VR Bank in Mittelbaden eG,,4297238352,DEU,VMUGG,,,False,2
+Volksbank eG (Seesen/Harz),,5000076628,DEU,VBSEE,,,False,2
+Societe Generale Australia Ltd,,5000054474,AUS,SOGNU,,,False,1
+Brianza Unione di Luigi Gavazzi e Stefano Lado SapA,,5000014349,ITA,BUDLG,,,False,1
+Walser Raiffeisen Bank AG,,5000068479,AUT,RAHLDW,,,False,1
+Lienzer Sparkasse AG,,4295934368,AUT,PLIEZL,,,False,1
+Sparkasse Neuhofen Bank AG,,4296784578,AUT,SPKNH,,,False,1
+Prva Stavebna Sporitelna as,,5000060989,SVK,PRSVT,,,False,1
+Banca di Credito cooperativo di Gambatesa Sc,,5000607630,ITA,BCCGB,,,False,1
+Banca di Credito Cooperativo di Lezzeno Como Sc,,5000610767,ITA,BCCLN,,,False,1
+Open Bank SA,,5000003345,ESP,SANOB,,,False,1
+Deutsche Bank Trust Corp,,4295909138,USA,DBKGTB,,,False,1
+Societe Generale Securities Services SpA,,5000070268,ITA,SOGNGS,,,False,1
+Banca di Credito Cooperativo di Brescia Sc,,5000608846,ITA,CCRBS,,,False,1
+Keycorp Capital I,,4295925444,USA,KEYCK,,,False,1
+Keycorp Capital III,,5000023987,USA,KEYCPC,,,False,1
+Raiffeisenbank Amriswil Bischofszell Genossenschaft,,5000861777,CHE,RAAMB,,,False,1
+FBOP Corp,,4298009794,USA,FBOPC,,,False,1
+UniCredit Banka Slovenija dd,,5000034443,SVN,CRDIUI,,,False,1
+Banca Don Rizzo Credito Cooperativo della Sicilia Occidentale Sc,,5000599984,ITA,BCCRI,,,False,1
+Sparkasse Voitsberg Koeflach Bankaktiengesellschaft,,4296786296,AUT,VOITS,,,False,1
+Cassa di Risparmio di Volterra SpA,,5000013696,ITA,FCRVLP,,,False,1
+Saitama Resona Bank Ltd,,4297199062,JPN,RESHDQ,,,False,1
+J&T Finance Group SE,,5000039326,CZE,JTFIG,,,False,1
+BkmU Bank AG,,5000073704,DEU,BKMUB,,,False,1
+VR Bank Uckermark Randow eG,,4296797847,DEU,VBKUC,,,False,1
+Bank First NA,,4298367464,USA,BFCBA,,,False,1
+First Investment Finance BV,,5000070198,NLD,EFDVE,,,False,1
+John Deere Bank SA,,4296710694,LUX,DEBAN,,,False,1
+Lakeland Bank,LLNW.PK^F07,4298366675,USA,LBAIL,PNK,LLNW,False,1
+Star Financial Group Inc,SFIGA.PK,4296552547,USA,SFIGA,PNK,SFIGA,True,1
+Commerzbank AG (London Branch),,4297227413,GBR,CBKGU,,,False,1
+Westpac Banking Corp (London Branch),,5000602460,GBR,WBCTP,,,False,1
+NatWest Markets NV (New York Branch),,4297291751,USA,RBSHLO,,,False,1
+Volksbank Hellweg eG,,4296795656,DEU,VHELL,,,False,1
+Carver State Bank,,4296479384,USA,CAVENS,,,False,1
+Dacotah Bank (Aberdeen Branch),,5000645029,USA,DBINK,,,False,1
+Delamare Cards MTN Issuer PLC,,4298102087,GBR,DCMTN,,,False,1
+VR Bank Rhein Neckar eG,,4298128200,DEU,VRBRH,,,False,1
+First Community Bank of Central Alabama,,5000607627,USA,CAAAAF,,,False,1
+Premier Bank (Iowa),,5000734554,USA,PMFINP,,,False,1
+Ameriana Capital Trust I,,5000156965,USA,FRMEA,,,False,1
+IW Private Investments SIM SpA,,5000013103,ITA,ISPIW,,,False,1
+Middelfart Sparekasse,,4296695846,DNK,MILAS,,,False,1
+Nebraska State Bank and Trust Co,,5000592500,USA,FRCTAN,,,False,1
+Xelo VI Ltd,,4298047214,IRL,BARCLF,,,False,1
+High Plains Bank,,5000617553,USA,HPNGPB,,,False,1
+Pinnacle Bank (Nebraska),,4298215528,USA,PNNHPI,,,False,1
+Santander Consumer Bank SA,,5000061745,POL,SPLAC,,,False,1
+BNP Paribas SA (Luxembourg Branch),,5000757922,LUX,BNPPLX,,,False,1
+Citibank NA (Sydney Branch),,5001168039,AUS,CRPHSY,,,False,1
+Westpac Banking Corp (Sydney Branch),,5038070672,AUS,WBCSD,,,False,1
+Linden Bancshares Inc,,5000461723,USA,LNDBS,,,False,1
+Farmers and Merchants Union Bank,,5000011485,USA,JWLBFM,,,False,1
+First United Bank And Trust Co (Kentucky),,4295909908,USA,FINAPS,,,False,1
+Hardin County Bank,,4296259760,USA,HRCBNK,,,False,1
+Western Nebraska Bank,,5000644932,USA,WSRNBT,,,False,1
+United Bank Of Michigan,,4297980417,USA,UNIBFU,,,False,1
+Eastern Colorado Bank,,5000054494,USA,WEDIVC,,,False,1
+Three Rivers Bank Of MontaNA,,5000644914,USA,GNTBCT,,,False,1
+Kaw Valley Bank,,5000594505,USA,TOPBAK,,,False,1
+Sword Financial Corp,,5000068296,USA,SWRFI,,,False,1
+Stock Yards Bank & Trust Co,,4295999383,USA,SYBTS,,,False,1
+Bank Of Wiggins,,5000644907,USA,BWGGN,,,False,1
+Dsfb NV,,5000898902,BEL,SFDPIS,,,False,1
+BBVA USA Bancshares Inc,CBSS.O^I07,4295907952,USA,BBVAOA,NSQ,CBSS,False,1
+First Bank Of Boaz,,4295272333,USA,FIBOBF,,,False,1
+Hometown Bank of Alabama,,5000647101,USA,HTWBCH,,,False,1
+Frontier Bank (Lamar),,5000647331,USA,WHTCPT,,,False,1
+"Natbank, NA",,5000647424,USA,NATBCB,,,False,1
+Peoples Bank of Georgia,,5000647557,USA,POPBK,,,False,1
+First Security Bank and Trust Co (Oklahoma),,5000660405,USA,FSBBAU,,,False,1
+Green Belt Bank & Trust,,4296095186,USA,GREBEG,,,False,1
+County Bank,,5000648108,USA,FOUVIC,,,False,1
+Mediapolis Savings Bank,,5000648106,USA,MEDIAP,,,False,1
+State Bank of Wapello,,5000648137,USA,WPLBKS,,,False,1
+Bank Of Yates City,,5000647764,USA,FRBARB,,,False,1
+Community National Bank In Monmouth,,5000647927,USA,CMMNT,,,False,1
+First Neighbor Bank NA,,5000647840,USA,FSTNBF,,,False,1
+Riddell National Bank The,,5000647984,USA,RNBCPR,,,False,1
+Armed Forces Bank NA,,5000648140,USA,DKNNNF,,,False,1
+Bank of Holyrood,,5000648287,USA,HOLBAB,,,False,1
+Bennington State Bank,,5000648277,USA,BERCOB,,,False,1
+Cecilian Bank,,5000648468,USA,FISCBC,,,False,1
+First Kentucky Bank Inc,,5000648414,USA,EXGBCF,,,False,1
+Tensas State Bank,,4295999407,USA,TENSBT,,,False,1
+Citizens State Bank (Ontonagon),,5000648685,USA,CTZBCO,,,False,1
+Lake-Osceola State Bank,,4296607964,USA,LAKFIL,,,False,1
+American State Bank Of Grygla,,5000648922,USA,GGAFCA,,,False,1
+Minnesota Lakes Bank,,5000648723,USA,WILBAM,,,False,1
+Community First Bank (Minnesota),,5000648887,USA,MEGRSF,,,False,1
+Woodland Bank,,5000648910,USA,REMERW,,,False,1
+Woodlands National Bank,,5000648700,USA,WODLA,,,False,1
+Heritage Bank Of The Ozarks,,5000649100,USA,CORBAH,,,False,1
+People's Bank Of Seneca,,5000649072,USA,PBSBAP,,,False,1
+Renasant Bank,,4298530593,USA,RNSTR,,,False,1
+Bank Of Clarks,,5000649222,USA,CLBNCB,,,False,1
+Hershey State Bank,,5000649285,USA,HSBMEH,,,False,1
+Schuyler Savings Bank,,5000649323,USA,SCHUY,,,False,1
+First Central Savings Bank,,5000649392,USA,FSCTS,,,False,1
+Oklahoma Heritage Bank,,5000649717,USA,OKHRT,,,False,1
+Carroll Bank and Trust,,5000649912,USA,CARBK,,,False,1
+Putnam 1st Mercantile Bank,,5000649929,USA,FTMRFP,,,False,1
+Citizens National Bank Of Hillsboro,,5000650176,USA,HILBAC,,,False,1
+First National Bank Of Fort Stockton,,4296469341,USA,FNBHGF,,,False,1
+MCBank,,5000650034,USA,MCBNK,,,False,1
+Texas Champion Bank,,5000650078,USA,TEXMP,,,False,1
+Woodford State Bank,,5000647070,USA,WODFBW,,,False,1
+Access Bank,,5000678314,USA,BGBSSS,,,False,1
+Peoples Bank (North Carolina),,5000585488,USA,PEBKP,,,False,1
+Cornerstone Bank (Nebraska),,4296927506,USA,FYKBNC,,,False,1
+Farmers State Bank (Oklahoma),,5000660406,USA,FFICSB,,,False,1
+Security State Bank (Wisconsin),,5000660188,USA,SCRTBA,,,False,1
+Farmers Savings Bank,,5000600400,USA,FARGS,,,False,1
+Bankfive Mhc,,5000646548,USA,BNKFV,,,False,1
+Bank of Clarke,,4296474643,USA,EFSIBK,,,False,1
+First National Bancshares Inc (Michigan),,5001113832,USA,FNNBR,,,False,1
+ABLV Bank AS,,4298221753,LVA,ABLVB,,,False,1
+Bedford FSB,,4297425881,USA,BEDFD,,,False,1
+First Federal Bank & Trust,,5000773927,USA,FRFLB,,,False,1
+Farmers and Merchants State Bank of Alpha,,5000787518,USA,FMEBA,,,False,1
+Andorra Capital Agricol Reig BV,,5000844084,NLD,ADRBCL,,,False,1
+Lyonnaise de Banque SA,,4296450678,FRA,SLBL,,,False,1
+Westpac Banking Corp (Auckland Branch),,4296929369,NZL,WBKNZL,,,False,1
+HSBC Bank Capital Funding (Sterling 1) LP,,4296966901,GBR,HSBALF,,,False,1
+BNP Paribas Lease Group SA,,4295868266,FRA,BNPFRB,,,False,1
+Colony Bankcorp Capital Trust II,,5000108607,USA,CBANTR,,,False,1
+City National Bancshares Corp,CYNB.PK^H09,5000446035,USA,CYNBC,PNK,CYNB,False,1
+Security Savings Bank,,5000660382,USA,LRCHBS,,,False,1
+F&M Financial Corp (Tennessee),,5000820673,USA,FMFNC,,,False,1
+Citibank NA (Toronto Branch),,5001167908,CAN,CRPHCA,,,False,1
+DIE Erste Oesterreichische Spar casse Privatstiftung,,5033563944,AUT,ERSET,,,False,1
+Sainsbury's Bank PLC,,5001180841,GBR,SBRYSB,,,False,1
+Avanza Bank AB,,5001187371,SWE,AVANZB,,,False,1
+Stateca DAC,,5001187087,IRL,BARCTT,,,False,1
+CBT Corporation Inc,,5001429761,USA,CBTCO,,,False,1
+Raiffeisenbank Region St Poelten eGen,,5028043712,AUT,RARSP,,,False,1
+Unicredit SPA (London Branch),,5000605605,GBR,CRDINI,,,False,1
+ICICI Bank Ltd (New York Branch),,5035166723,USA,ICBKN,,,False,1
+Spoldzielczy Bank Rzemiosla i Rolnictwa w Wolominie w Upadlosci Likwidacyjnej,,5035437948,POL,SPOLB,,,False,1
+Valle Sparebank,,5000040675,NOR,VALLE,,,False,1
+Banco Interamericano de Desarrollo,,5036161883,CRI,BIDCR,,,False,1
+Deutsche Bank AG (Milan Branch),,5001449874,ITA,DBKGMI,,,False,1
+Banca Cesare Ponti SpA,,5037454405,ITA,CRGIP,,,False,1
+Capital Funding Bancorp Inc,,5037638189,USA,CAPFB,,,False,1
+BSB Capital Trust I LLC,,5000235848,USA,PBCTBA,,,False,1
+UTB Financial Holding Co,,5037934467,USA,UTBFH,,,False,1
+VR Bank Landau Mengkofen eG,,5000041692,DEU,VBAAN,,,False,1
+Cendera Bank NA,,5040258694,USA,CNDRB,,,False,1
+Volksbank Thueringen Mitte eG,,4297834091,DEU,VOTUM,,,False,1
+Sparekassen Djursland,,4298522571,DNK,SPSSD,,,False,1
+Central Virginia Bankshares Inc Statutory Trust 1,,5001113231,USA,CFFIV,,,False,1
+VCL Master Residual Value Compartment 1 SA,,5044027731,LUX,VCLMVA,,,False,1
+Landesbeteiligungen Baden-Wuerttemberg GmbH,,5046043449,DEU,LANDT,,,False,1
+Bank of China Limited (Budapest Branch),,5046279231,HUN,BKCHNR,,,False,1
+Steiermaerkische Verwaltungssparkasse,,5000035865,AUT,SSPAG,,,False,1
+Wintrust Statutory Trust IV,,5000062376,USA,WTFCB,,,False,1
+Global Bank,,5033376940,USA,GLOBK,,,False,1
+WCF Financial Bank,,5052522550,USA,WCFBW,,,False,1
+CBT Statutory Trust II,,5052791025,USA,CBTHLS,,,False,1
+Quontic Bank Acquisition Corp,,5056412243,USA,QUNTC,,,False,1
+China Merchants Bank Co Ltd (Sydney Branch),,5056414987,AUS,CHMBKI,,,False,1
+Banca di Andria di Credito Cooperativo Sc,,5056422595,ITA,ICCRTO,,,False,1
+Raiffeisenbank Pongau Mitte eGen,,5057508108,AUT,RBPMG,,,False,1
+Broager Sparekasse,,4298263151,DNK,BGRSK,,,False,1
+Orbita Funding 2017 1 PLC,,5057941802,GBR,CBROOI,,,False,1
+Dakota Community Bank & Trust NA,,5003123493,USA,DAKCMA,,,False,1
+Colonnade Global 2017-1 SARL,,5057957024,LUX,BARCCG,,,False,1
+First State Bank of The Southeast Inc,,5059026695,USA,FSSTBF,,,False,1
+"Farmers & Merchants Savings Bank (Iowa City, Iowa)",,5028454744,USA,CYBNOF,,,False,1
+First Western Bank,,5001400019,USA,FWBESF,,,False,1
+MUFG Bank Ltd (Auckland Branch),,5063173556,NZL,MTFGAU,,,False,1
+First State Bank of Pond Creek Oklahoma,,5004899145,USA,FSBPC,,,False,1
+Merkur Andelskasse,,4298522562,DNK,MERAN,,,False,1
+Riverbank (Arkansas),,5052582077,USA,RIVRB,,,False,1
+JT Global Finance IX sro,,5065361649,SVK,JTFIGI,,,False,1
+Credit du Nord SA,CTNRp.PA^G05,4295866777,FRA,SOGDN,,,False,1
+BayVanguard Bank,,5071403145,USA,BVFLB,,,False,1
+Cullen/Frost Capital Trust II,,4297056649,USA,CFRTB,,,False,1
+AgTexas Farm Credit Services,,5001238624,USA,AGTXF,,,False,1
+Caja Rural De Albacete Ciudad Real Y Cuenca SCC,,4298138909,ESP,CJRSC,,,False,1
+Fiba Holding AS,,5000040470,TUR,FIBAH,,,False,1
+Medicinos Bankas UAB,,4296129384,LTU,UMEDI,,,False,1
+UNICRE Instituicao Financeira de Credito SA,,5000050175,PRT,UCIFC,,,False,1
+J&T Global Finance XIII sro,,5080018632,CZE,JTFIGO,,,False,1
+Froes Sparekasse,,4298264060,DNK,FROES,,,False,1
+J&T Global Finance XI sro,,5080048064,CZE,JTGLF,,,False,1
+Adirondack Bank,,5000644963,USA,ANKBPA,,,False,1
+JT Global Finance XII sro,,5080153351,SVK,JTGLO,,,False,1
+HanaLogis No.1,,5081085521,KOR,HNGRPG,,,False,1
+Community National Bank & Trust,,5064006544,USA,CMBCKC,,,False,1
+Piraeus Group Capital Ltd,,4297038769,GBR,BOPGC,,,False,1
+SunTrust Capital I,,4296588521,USA,STITA,,,False,1
+JT Global Finance XIV sro,,5083163474,SVK,JTFIGM,,,False,1
+Buckeye State Bank,,5083475298,USA,BUCKEB,,,False,1
+Walden Mutual Bank,,5083850988,USA,WALDM,,,False,1
+Sparkasse Hilden Ratingen Velbert,,4297707945,DEU,SPHRV,,,False,1
+Credit Cooperatif,,4295866613,FRA,BPCECR,,,False,1
+Deutsche Postbank Funding Trust III,,4297311782,USA,DBKGFC,,,False,1
+Standard Bank London Holdings Ltd,,4296030856,GBR,SBKJSL,,,False,1
+Elgin State Bank,,5000648066,USA,KBKSRE,,,False,1
+Halifax Group Ltd,,5000025793,GBR,LLOYH,,,False,1
+Primis Bank,,5000319478,USA,SONAXP,,,False,1
+IKB Funding Trust I,,4296865313,USA,LSFEUA,,,False,1
+Wachovia Capital Trust III,,4296372253,USA,WFCWAC,,,False,1
+21st Century Bank,,5000046057,USA,DOLFAU,,,False,1
+Raiffeisen Volksbank Ebersberg eG,,5000042334,DEU,RAVBK,,,False,1
+Minnwest Corp,,4297029115,USA,MIWESC,,,False,1
+Citibank Europe PLC,,4298466267,IRL,CRPHRE,,,False,1
+National Bank of Hungary,,8589934452,HUN,MGNZI,,,,1
+Keycorp Capital II,,4295925446,USA,KEYCC,,,False,1
+Canara Bank (London Branch),,4297004377,GBR,CNBKL,,,False,1
+Volksbank Main Tauber eG,,5000037551,DEU,VKWRT,,,False,1
+Istituto per il Credito Sportivo,,5000062202,ITA,ICS,,,False,1
+Westfield Bank,,5000585230,USA,WNEBF,,,False,1
+Salzburger Sparkasse Bank AG,,4296100984,AUT,ERSTA,,,False,1
+JPMorgan Chase Bank NA (New York Branch),,5001113611,USA,JPMBNY,,,False,1
+Bank of Baroda,,5001111203,GBR,BOBLN,,,False,1
+Banco Santander International,,4298528747,USA,SANSI,,,False,1
+BAC Capital Trust XIII,,4297558015,USA,BACTM,,,False,1
+BAC Capital Trust XIV,,4297558037,USA,BACLN,,,False,1
+VR Bank Dornstetten-Horb eG,,4297731703,DEU,VRDST,,,False,1
+VR-Bank Suedwestpfalz Pirmasens Zweibruecken eG,,4297789013,DEU,SUEDW,,,False,1
+Banco de Mexico,,4295985837,MEX,BNMEX,,,,1
+Sparkasse Mittelholstein AG,SKMGg.H^E08,4295972972,DEU,SPMTL,,SKM1,False,1
+Cassa Rurale Alta Valsugana Banca di Credito Cooperativo Sc,,4296094844,ITA,CRVBC,,,False,1
+Cassa Rurale Val Di Sole Banca Di Credito Cooperativo Sc,,5000607244,ITA,CRVDS,,,False,1
+Banca per lo Sviluppo della Cooperazione di Credito SpA,,5000607185,ITA,ICCRTP,,,False,1
+Banca di Credito cooperativo la Riscossa di Regalbuto Sc,,5000599135,ITA,BCCRR,,,False,1
+Tiroler Sparkasse Bankaktiengesellschaft Innsbruck,,4295859096,AUT,ERSTRB,,,False,1
+Czech National Bank,,8589934478,CZE,CSNBN,,,,1
+Banque Populaire Grand Ouest SA (Saint-Gregoire),,5000046021,FRA,BPCEBL,,,False,1
+Raiffeisenbank Lungau eGen,,5000038604,AUT,RFKTM,,,False,1
+Sparkasse Rhein Neckar Nord,,5000009125,DEU,SPRNN,,,False,1
+Volksbank Kurpfalz eG,,4298169770,DEU,VOLKU,,,False,1
+Hamburger Volksbank eG,,5000003038,DEU,HAMVB,,,False,1
+Sparkasse Schwaben Bodensee,,4296700685,DEU,SPAKW,,,False,1
+Sparkasse Hildesheim Goslar Peine,,5000057235,DEU,SPHLD,,,False,1
+Vereinigte Volksbank Bramgau Osnabrueck Wittlage eG,,4296803446,DEU,VEVBS,,,False,1
+Raiffeisenbank Floss eG,,4297238458,DEU,FLOSS,,,False,1
+Bank 1 Saar eG,,5000045065,DEU,BSAAR,,,False,1
+Sparkasse Aachen,,4296771898,DEU,SPKAA,,,False,1
+Sparkasse Altenburger Land,,4297081543,DEU,SALTB,,,False,1
+Sparkasse Forchheim,,4296784544,DEU,SPKFH,,,False,1
+Sparkasse Im Kreis Herford Zweckverbandssparkasse Des Kreises Herford Und Der St,,4297047332,DEU,SPKHR,,,False,1
+Sparkasse im Landkreis Schwandorf,,4296044929,DEU,SHWAN,,,False,1
+Sparkasse Rhein Maas,,4296619707,DEU,SPKRM,,,False,1
+Sparkasse Miltenberg Obernburg,,4296784573,DEU,SPMOB,,,False,1
+Sparkasse Suedpfalz,,4296074860,DEU,SPKSW,,,False,1
+Sparkasse Nuernberg,,5000068088,DEU,SKSNU,,,False,1
+Vereinigte Sparkassen Eschenbach idOPf Neustadt ad Waldnaab Vohenstrauss,,5000068755,DEU,VSEBO,,,False,1
+VR Bank Ludwigsburg eG,,4297241268,DEU,VRBKD,,,False,1
+Volksbank Eifel eG,,4296795574,DEU,VKSEI,,,False,1
+Volksbank Koeln Bonn eG,,4296732037,DEU,VBONN,,,False,1
+VR Bank Bad Orb Gelnhausen eG,,4297787861,DEU,VRBGH,,,False,1
+Volksbank Lindenberg eG,,4296865400,DEU,VLNBR,,,False,1
+Volksbank Luebeck eG,,4296795700,DEU,VLUBK,,,False,1
+"Volksbank eG (Lower Saxony, Hildesheim)",,5000603586,DEU,VOPAT,,,False,1
+Volksbank Niedersachsen-Mitte eG,,4296797841,DEU,VLKSB,,,False,1
+Volksbank Viersen eG,,4296865337,DEU,VVRSN,,,False,1
+VR Bank Suedpfalz eG,,4296760704,DEU,VRBSF,,,False,1
+Westfed Holdings Inc,,5000387608,USA,WSTFD,,,False,1
+Column NA,NCNB.PK^I21,4297734244,USA,COUMN,PNK,,False,1
+VR Bank eG Monheim,,4297791096,DEU,VRBDG,,,False,1

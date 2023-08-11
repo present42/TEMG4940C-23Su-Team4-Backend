@@ -1,2 +1,4 @@
-data
+data/bond_prices
+data/bonds_data
+data/stock_prices
 node_modules
