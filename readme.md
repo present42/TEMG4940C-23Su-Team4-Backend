@@ -71,6 +71,24 @@ This endpoint allows you to retrieve a list of bonds issued by companies based i
 
 If the specified country code is not found, a 404 error is returned.
 
+### POST /credit/bonds
+This endpoint retrieves the bonds subject to customed criterias. It accepts a POST request and expects the following parameters in the request body:
+
+ - countries (optional): An array of country codes specifying the countries in which the company headquarters are located.
+ - ratings (optional): An array of rating codes specifying the desired bond ratings.
+ - issuers (optional): An array of issuer IDs specifying the desired bond issuers.
+
+#### Request Body Parameters
+The request body should be a JSON object with the following structure:
+`{
+    "countries": ["USA", "CAN"],
+    "ratings": ["A1", "A2"],
+    "issuers": ["4295909138", "5000021791"]
+}`
+
+The response will be a JSON object containing an array of bonds subject to applied criterias.
+
+
 ## Data Sources
 The application uses the following CSV files as data sources:
 
