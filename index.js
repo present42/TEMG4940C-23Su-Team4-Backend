@@ -210,6 +210,31 @@ app.get('/macro/unemploymentRate/:countryCode', (req, res) => {
     });
 });
 
+app.get('/macro/creditRating/:countryCode', (req, res) => {
+    console.log("hi there")
+    fs.readFile('./data/soverign_credit_rating.csv', (err, fileData) => {
+        console.log()
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            console.log(rows);
+            result = rows.filter((country) => 
+                country["Country Code"] === req?.params?.countryCode
+            );
+
+            if (result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            
+            
+            Object.keys(result[0]).forEach((key, index) => {
+                if (result[0][key] == "") result[0][key] = "N/A";
+            })
+            
+            res.send(result[0]);
+        })
+    });
+});
+
 // get bonds of companies whose headquarters in a specific country
 app.post('/credit/bonds', (req, res) => {
     // req.body contains 
