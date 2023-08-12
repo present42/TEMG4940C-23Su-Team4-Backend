@@ -5,6 +5,8 @@ const port = 3500;
 const fs = require('fs');
 const { parse } = require('csv-parse')
 
+app.use(express.json())
+
 // Add headers before the routes are defined
 app.use(function (req, res, next) {
     // Website you wish to allow to connect
@@ -203,6 +205,68 @@ app.get('/macro/unemploymentRate/:countryCode', (req, res) => {
 });
 
 // get bonds of companies whose headquarters in a specific country
+app.post('/credit/bonds', (req, res) => {
+    // req.body contains 
+    // {
+    //      countries: [ "USA", "CAN" ],
+    //      ratings: [ "A1", "A2" ]
+    //      issuers: [ "4295909138", "5000021791" ]
+    // }
+    // 
+    fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            if (req.body === undefined) {
+                res.sendStatus(400);
+                return;
+            }
+
+            if ('countries' in req.body) {
+                if (!Array.isArray(req.body?.countries)) {
+                    res.sendStatus(400);
+                    return;
+                }
+            }
+
+            if ('ratings' in req.body) {
+                if (!Array.isArray(req.body?.ratings)) {
+                    res.sendStatus(400);
+                    return;
+                }
+            }
+
+            if ('issuers' in req.body) {
+                if (!Array.isArray(req.body?.issuers)) {
+                    res.sendStatus(400);
+                    return;
+                }
+            }
+
+            result = rows.filter((bond) => {
+                country = ('countries' in req.body) ? 
+                    req.body?.countries.includes(bond["Company Headquarter"]) :
+                    true;
+
+                rating = ('ratings' in req.body) ? 
+                    (req?.body?.ratings.includes(bond["MoodysRating"])) :
+                    true;
+
+                issuer = ('issuers' in req.body) ? 
+                    (req?.body?.issuers.includes(bond["PermID"])) :
+                    true;
+
+                return country && rating && issuer;
+            });
+            
+            result = result.map(({ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs}) => {
+                return keepAttrs
+            })
+
+            res.send(result);
+        });
+    });
+});
+
+// get bonds of companies whose headquarters in a specific country
 app.get('/credit/bonds/:countryCode', (req, res) => {
     fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
@@ -238,6 +302,8 @@ app.get('/credit/overall/:countryCode', (req, res) => {
         });
     });
 });
+
+app.use(express.json())
 
 app.listen(port, () => {
     console.log(`TEMG4940C Team 4 Backend Server listening on port ${port}`)
