@@ -88,6 +88,11 @@ The request body should be a JSON object with the following structure:
 
 The response will be a JSON object containing an array of bonds subject to applied criterias.
 
+### GET /prediction/:bondID
+
+This endpoint retrieves the predicted rating migration and corresponding probabilities for a specific bond. 
+It accepts a GET request with the bondID parameter in the URL. The API response will be a JSON object containing the predicted rating migration and probability for the specified bond.
+
 
 ## Data Sources
 The application uses the following CSV files as data sources:
