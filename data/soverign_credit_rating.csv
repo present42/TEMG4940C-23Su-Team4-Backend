@@ -1,39 +1,39 @@
 ﻿Country Name,Country Code,Moodys,S&P,Fitch,Average Issuer Rating
-Australia,AUS, Aaa, AAA, AAA,N/A
+Australia,AUS, Aaa, AAA, AAA,Aa3
 Austria,AUT, Aa1, AA+, AA+,N/A
-Belgium,BEL, Aa3, AA, AA-,N/A
-Canada,CAN, Aaa, AAA, AA+,N/A
-Chile,CHL, A2, A, A-,N/A
-Colombia,COL, Baa2, BB+, BB+,N/A
-Costa rica,CRI, B2, B+, BB-,N/A
+Belgium,BEL, Aa3, AA, AA-,Aa2
+Canada,CAN, Aaa, AAA, AA+,A1
+Chile,CHL, A2, A, A-,A2
+Colombia,COL, Baa2, BB+, BB+,Baa3
+Costa rica,CRI, B2, B+, BB-,B1
 Czech republic,CZE, Aa3, AA-, AA-,N/A
 Denmark,DNK, Aaa, AAA, AAA,N/A
 Estonia,EST, A1, AA-, AA-,N/A
-Finland,FIN, Aa1, AA+, AA+,N/A
-France,FRA, Aa2, AA, AA-,N/A
-Germany,DEU, Aaa, AAA, AAA,N/A
+Finland,FIN, Aa1, AA+, AA+,Aa3
+France,FRA, Aa2, AA, AA-,Aa2
+Germany,DEU, Aaa, AAA, AAA,Aaa
 Greece,GRC, Ba3, BB+, BB+,N/A
 Hungary,HUN, Baa2, BBB-, BBB,N/A
 Iceland,ISL, A2, A, A,N/A
-Ireland,IRL, Aa3, AA, AA-,N/A
+Ireland,IRL, Aa3, AA, AA-,A3
 Israel,ISR, A1, AA-, A+,N/A
-Italy,ITA, Baa3, BBB, BBB,N/A
-Japan,JPN, A1, A+, A,N/A
-Korea,KOR, Aa2, AA, AA-,N/A
+Italy,ITA, Baa3, BBB, BBB,Baa1
+Japan,JPN, A1, A+, A,A1
+Korea,KOR, Aa2, AA, AA-,Aa3
 Latvia,LVA, A3, A+, A-,N/A
 Lithuania,LTU, A2, A+, A,N/A
-Luxembourg,LUX, Aaa, AAA, AAA,N/A
-Mexico,MEX, Baa2, BBB, BBB-,N/A
-Netherlands,NLD, Aaa, AAA, AAA,N/A
+Luxembourg,LUX, Aaa, AAA, AAA,Aaa
+Mexico,MEX, Baa2, BBB, BBB-,Baa2
+Netherlands,NLD, Aaa, AAA, AAA,Aa1
 New zealand,NZL, Aaa, AA+, AA+,N/A
 Norway,NOR, Aaa, AAA, AAA,N/A
-Poland,POL, A2, A-, A-,N/A
+Poland,POL, A2, A-, A-,A2
 Portugal,PRT, Baa2, BBB+, BBB+,N/A
 Slovakia,SVK, A2, A+, A,N/A
 Slovenia,SVN, A3, AA-, A,N/A
 Spain,ESP, Baa1, A, A-,N/A
-Sweden,SWE, Aaa, AAA, AAA,N/A
+Sweden,SWE, Aaa, AAA, AAA,Aa3
 Switzerland,CHE, Aaa, AAA, AAA,N/A
-Turkey,TUR, B3, B, B,N/A
-United kingdom,GBR, Aa3, AA, AA-,N/A
-United states,USA, Aaa, AA+, AAA,N/A
+Turkey,TUR, B3, B, B,B2
+United kingdom,GBR, Aa3, AA, AA-,A3
+United states,USA, Aaa, AA+, AAA,A1
