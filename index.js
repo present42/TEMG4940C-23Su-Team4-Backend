@@ -14,13 +14,19 @@ app.use(function (req, res, next) {
     // Request methods you wish to allow
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
     // Request headers you wish to allow
-    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+    res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    // res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
     // Set to true if you need the website to include cookies in the requests sent
     // to the API (e.g. in case you use sessions)
     res.setHeader('Access-Control-Allow-Credentials', true);
 
-    // Pass to next layer of middleware
-    next();
+    if ('OPTIONS' == req.method) {
+        res.sendStatus(200);
+    }
+    else {
+        next();
+    }
 });
 
 app.get('/', (req, res) => {
@@ -71,7 +77,7 @@ app.get('/bond', (req, res) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((bond) => bond.BondID === req?.params?.bondID);
 
-            result = result.map(({ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs}) => {
+            result = result.map(({ ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs }) => {
                 return keepAttrs
             });
 
@@ -91,7 +97,7 @@ app.get('/bond/price_history/:bondID', (req, res) => {
                 res.send([]);
             } else {
                 const path = `./data/bond_prices/${result[0].RIC}.csv`
-                
+
                 if (fs.existsSync(path)) {
                     //file exists
                     fs.readFile(path, (err, histData) => {
@@ -112,12 +118,12 @@ app.get('/macro/corporateIncomeTaxRate/:countryCode', (req, res) => {
     fs.readFile('./data/macroeconomic/corporate income tax rate (yearly).csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((taxRates) => taxRates["Country Code"] === req?.params?.countryCode);
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
             Object.keys(result[0]).forEach((key, index) => {
-                if(result[0][key] == "") result[0][key] = "N/A";
+                if (result[0][key] == "") result[0][key] = "N/A";
             })
             res.send(result[0]);
         })
@@ -128,12 +134,12 @@ app.get('/macro/currentAccountBalance/:countryCode', (req, res) => {
     fs.readFile('./data/macroeconomic/current account balance (quarterly).csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((balances) => balances["Country Code"] === req?.params?.countryCode);
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
             Object.keys(result[0]).forEach((key, index) => {
-                if(result[0][key] == "") result[0][key] = "N/A";
+                if (result[0][key] == "") result[0][key] = "N/A";
             })
             res.send(result[0]);
         })
@@ -144,12 +150,12 @@ app.get('/macro/gdpPerCapita/:countryCode', (req, res) => {
     fs.readFile('./data/macroeconomic/gdp per capita (yearly).csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((gdp) => gdp["Country Code"] === req?.params?.countryCode);
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
             Object.keys(result[0]).forEach((key, index) => {
-                if(result[0][key] == "") result[0][key] = "N/A";
+                if (result[0][key] == "") result[0][key] = "N/A";
             })
             res.send(result[0]);
         })
@@ -160,12 +166,12 @@ app.get('/macro/governmentSpending/:countryCode', (req, res) => {
     fs.readFile('./data/macroeconomic/government spending (yearly).csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((spending) => spending["Country Code"] === req?.params?.countryCode);
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
             Object.keys(result[0]).forEach((key, index) => {
-                if(result[0][key] == "") result[0][key] = "N/A";
+                if (result[0][key] == "") result[0][key] = "N/A";
             })
             res.send(result[0]);
         })
@@ -176,12 +182,12 @@ app.get('/macro/shortTermInterestRate/:countryCode', (req, res) => {
     fs.readFile('./data/macroeconomic/short-term (montly).csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((rates) => rates["Country Code"] === req?.params?.countryCode);
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
             Object.keys(result[0]).forEach((key, index) => {
-                if(result[0][key] == "") result[0][key] = "N/A";
+                if (result[0][key] == "") result[0][key] = "N/A";
             })
             res.send(result[0]);
         })
@@ -192,12 +198,12 @@ app.get('/macro/unemploymentRate/:countryCode', (req, res) => {
     fs.readFile('./data/macroeconomic/unemployment rate (monthly).csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((rates) => rates["Country Code"] === req?.params?.countryCode);
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
             Object.keys(result[0]).forEach((key, index) => {
-                if(result[0][key] == "") result[0][key] = "N/A";
+                if (result[0][key] == "") result[0][key] = "N/A";
             })
             res.send(result[0]);
         })
@@ -242,22 +248,22 @@ app.post('/credit/bonds', (req, res) => {
             }
 
             result = rows.filter((bond) => {
-                country = ('countries' in req.body) ? 
+                country = ('countries' in req.body) ?
                     req.body?.countries.includes(bond["Company Headquarter"]) :
                     true;
 
-                rating = ('ratings' in req.body) ? 
+                rating = ('ratings' in req.body) ?
                     (req?.body?.ratings.includes(bond["MoodysRating"])) :
                     true;
 
-                issuer = ('issuers' in req.body) ? 
+                issuer = ('issuers' in req.body) ?
                     (req?.body?.issuers.includes(bond["PermID"])) :
                     true;
 
                 return country && rating && issuer;
             });
-            
-            result = result.map(({ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs}) => {
+
+            result = result.map(({ ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs }) => {
                 return keepAttrs
             })
 
@@ -271,11 +277,11 @@ app.get('/credit/bonds/:countryCode', (req, res) => {
     fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((rates) => rates["Company Headquarter"] === req?.params?.countryCode);
-            result = result.map(({ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs}) => {
+            result = result.map(({ ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs }) => {
                 return keepAttrs
             })
 
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
@@ -289,11 +295,11 @@ app.get('/credit/overall/:countryCode', (req, res) => {
     fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((rates) => rates["Company Headquarter"] === req?.params?.countryCode);
-            result = result.map(({ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs}) => {
+            result = result.map(({ ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs }) => {
                 return keepAttrs
             })
 
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
@@ -312,11 +318,11 @@ app.get('/prediction/:bondID', (req, res) => {
                 return pred;
             });
 
-            if(result.length > 1) {
+            if (result.length > 1) {
                 result = result[result.length - 1]
             }
 
-            if(result.length === 0) {
+            if (result.length === 0) {
                 res.sendStatus(404);
                 return;
             }
