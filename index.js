@@ -64,8 +64,9 @@ app.get('/company/:companyID/bond', (req, res) => {
 
 // query bond information using bond ID
 app.get('/bond/:bondID', (req, res) => {
-    fs.readFile('./data/combined_bonds_data.csv', (err, fileData) => {
+    fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            console.log(rows);
             result = rows.filter((bond) => bond.BondID === req?.params?.bondID);
             res.send(result);
         })
