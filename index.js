@@ -227,6 +227,22 @@ app.get('/macro/cpi/:countryCode', (req, res) => {
     });
 });
 
+app.get('/macro/governmentDeficit/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/government deficit (yearly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((rates) => rates["Country Code"] === req?.params?.countryCode);
+            if (result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if (result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
 app.get('/macro/creditRating/:countryCode', (req, res) => {
     fs.readFile('./data/soverign_credit_rating.csv', (err, fileData) => {
         console.log()
@@ -363,6 +379,22 @@ app.get('/prediction/:bondID', (req, res) => {
                 result = result[result.length - 1]
             }
 
+            if (result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+
+            res.send(result);
+        });
+    });
+})
+
+app.get('/prediction/creditMigration2024/country/:countryCode', (req, res) => {
+    fs.readFile('./data/predicted/yearly_average_credit_migration.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            // console.log(rows);
+            result = rows.filter((pred) => pred["Country Code"] === req?.params?.countryCode);
+            
             if (result.length === 0) {
                 res.sendStatus(404);
                 return;
