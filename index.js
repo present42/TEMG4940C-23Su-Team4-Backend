@@ -211,6 +211,22 @@ app.get('/macro/unemploymentRate/:countryCode', (req, res) => {
     });
 });
 
+app.get('/macro/cpi/:countryCode', (req, res) => {
+    fs.readFile('./data/macroeconomic/cpi (monthly).csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((rates) => rates["Country Code"] === req?.params?.countryCode);
+            if (result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+            Object.keys(result[0]).forEach((key, index) => {
+                if (result[0][key] == "") result[0][key] = "N/A";
+            })
+            res.send(result[0]);
+        })
+    });
+});
+
 app.get('/macro/creditRating/:countryCode', (req, res) => {
     fs.readFile('./data/soverign_credit_rating.csv', (err, fileData) => {
         console.log()
