@@ -485,6 +485,22 @@ app.get('/prediction/creditMigration2024/country/:countryCode', (req, res) => {
     });
 })
 
+app.get('/camels/:companyOAPermID', (req, res) => {
+    fs.readFile('./data/camels.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            // console.log(rows);
+            result = rows.filter((pred) => pred["OAPermID"] === req?.params?.companyOAPermID);
+
+            if (result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+
+            res.send(result[0]);
+        });
+    });
+})
+
 app.use(express.json())
 
 app.listen(port, () => {
