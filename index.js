@@ -387,6 +387,29 @@ app.get('/prediction/:bondID', (req, res) => {
     });
 })
 
+app.get('/prediction/bond/:bondID', (req, res) => {
+    fs.readFile('./data/predicted/simplified_rating_prediction_with_probability.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            result = rows.filter((pred) => parseInt((pred["BondID"])).toString() === req?.params?.bondID);
+            result = result.map(pred => {
+                pred["BondID"] = parseInt(pred["BondID"])
+                return pred;
+            });
+
+            if (result.length > 1) {
+                result = result[result.length - 1]
+            }
+
+            if (result.length === 0) {
+                res.sendStatus(404);
+                return;
+            }
+
+            res.send(result[0]);
+        });
+    });
+})
+
 app.get('/prediction/creditMigration2024/country/:countryCode', (req, res) => {
     fs.readFile('./data/predicted/yearly_average_credit_migration.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
