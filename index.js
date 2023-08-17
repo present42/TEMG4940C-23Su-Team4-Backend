@@ -133,6 +133,14 @@ app.get('/bond', (req, res) => {
     });
 });
 
+app.get('/bond/specific', (req, res) => {
+    fs.readFile('./data/backend_specific_combined_bonds_data.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            res.send(rows);
+        })
+    });
+});
+
 // query bond price history using bond ID
 app.get('/bond/price_history/:bondID', (req, res) => {
 
