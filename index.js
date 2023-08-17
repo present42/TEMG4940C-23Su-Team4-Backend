@@ -76,9 +76,7 @@ app.get('/bond/:bondID', (req, res) => {
 app.get('/bond', (req, res) => {
     fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
-            result = rows.filter((bond) => bond.BondID === req?.params?.bondID);
-
-            result = result.map(({ ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs }) => {
+            result = rows.map(({ ISIN, DebtTypeDescription, FaceIssuedUSD, CouponCurrency, SPRating, SPRatingDate, IssuerOAPermID, SeniorityTypeDescription, SPIssuerRating, ...keepAttrs }) => {
                 return keepAttrs
             });
 
