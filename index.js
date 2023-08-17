@@ -73,6 +73,38 @@ app.get('/bond/:bondID', (req, res) => {
     });
 });
 
+// query bond history information using bond ID
+app.get('/bond/history/:bondRIC', (req, res) => {
+    // (1) price history
+    // (2) credit spread history
+    // (3) credit rating history
+    const path = `./data/bond_prices/${req?.params?.bondRIC}.csv`
+    let response = {};
+    if (fs.existsSync(path)) {
+        fs.readFile(path, (err, fileData) => {
+            parse(fileData, { columns: true, trim: true }, (err, rows) => {
+                // console.log(rows);
+                // result = rows.filter((bond) => bond.BondID === req?.params?.bondID);
+                rows = rows.map(({ RIC, ...keepAttrs }) => keepAttrs)
+                response = { priceHistory: rows }
+                // res.send(rows);
+            })
+
+            // (3) credit rating history
+            fs.readFile('./data/Issue Ratings.csv', (err, ratingData) => {
+                parse(ratingData, { columns: true, trim: true }, (err, rows) => {
+                    result = rows.filter((bond) => bond.RIC === req?.params?.bondRIC);
+                    response = { creditRatingHistory: result, ...response }
+                    res.send(response);
+                })
+            })
+        });
+    } else {
+        res.sendStatus(404);
+    }
+
+});
+
 app.get('/bond', (req, res) => {
     fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
@@ -246,7 +278,7 @@ app.get('/macro/creditRating/:countryCode', (req, res) => {
         console.log()
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             console.log(rows);
-            result = rows.filter((country) => 
+            result = rows.filter((country) =>
                 country["Country Code"] === req?.params?.countryCode
             );
 
@@ -254,12 +286,12 @@ app.get('/macro/creditRating/:countryCode', (req, res) => {
                 res.sendStatus(404);
                 return;
             }
-            
-            
+
+
             Object.keys(result[0]).forEach((key, index) => {
                 if (result[0][key] == "") result[0][key] = "N/A";
             })
-            
+
             res.send(result[0]);
         })
     });
@@ -415,7 +447,7 @@ app.get('/prediction/creditMigration2024/country/:countryCode', (req, res) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             // console.log(rows);
             result = rows.filter((pred) => pred["Country Code"] === req?.params?.countryCode);
-            
+
             if (result.length === 0) {
                 res.sendStatus(404);
                 return;
