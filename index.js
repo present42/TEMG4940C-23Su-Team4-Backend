@@ -66,9 +66,25 @@ app.get('/company/:companyID/bond', (req, res) => {
 app.get('/bond/:bondID', (req, res) => {
     fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
-            console.log(rows);
+            // console.log(rows);
             result = rows.filter((bond) => bond.BondID === req?.params?.bondID);
             res.send(result);
+        })
+    });
+});
+
+// query bond information using bond ID
+app.get('/bond/specific/:bondRIC', (req, res) => {
+    fs.readFile('./data/backend_specific_combined_bonds_data.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            // console.log(rows);
+            result = rows.filter((bond) => bond.RIC === req?.params?.bondRIC);
+            
+            if(result.lenth < 1) {
+                res.sendStatus(404);
+            }
+            
+            res.send(result[0]);
         })
     });
 });
@@ -275,9 +291,7 @@ app.get('/macro/governmentDeficit/:countryCode', (req, res) => {
 
 app.get('/macro/creditRating/:countryCode', (req, res) => {
     fs.readFile('./data/soverign_credit_rating.csv', (err, fileData) => {
-        console.log()
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
-            console.log(rows);
             result = rows.filter((country) =>
                 country["Country Code"] === req?.params?.countryCode
             );
