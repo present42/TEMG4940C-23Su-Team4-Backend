@@ -62,16 +62,28 @@ app.get('/company/:companyID/bond', (req, res) => {
     });
 });
 
+app.get('/bond/all/withPred', (req, res) => {
+    fs.readFile('./data/backend_specific_combined_bonds_data.csv', (err, fileData) => {
+        parse(fileData, { columns: true, trim: true }, (err, rows) => {
+            rows = rows.filter((bond) => bond.IssueRating !== 'WR')
+            res.send(rows);
+        })
+    });
+});
+
+
 // query bond information using bond ID
 app.get('/bond/:bondID', (req, res) => {
     fs.readFile('./data/backend_combined_bonds_data.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
-            // console.log(rows);
+            // rows = rows.filter((bond) => bond.IssueRating !== 'WR')
             result = rows.filter((bond) => bond.BondID === req?.params?.bondID);
             res.send(result);
         })
     });
 });
+
+
 
 // query bond information using bond ID
 app.get('/bond/specific/:bondRIC', (req, res) => {
@@ -133,13 +145,6 @@ app.get('/bond', (req, res) => {
     });
 });
 
-app.get('/bond/specific', (req, res) => {
-    fs.readFile('./data/backend_specific_combined_bonds_data.csv', (err, fileData) => {
-        parse(fileData, { columns: true, trim: true }, (err, rows) => {
-            res.send(rows);
-        })
-    });
-});
 
 // query bond price history using bond ID
 app.get('/bond/price_history/:bondID', (req, res) => {
