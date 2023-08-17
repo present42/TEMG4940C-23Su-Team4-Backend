@@ -400,7 +400,7 @@ app.get('/prediction/creditMigration2024/country/:countryCode', (req, res) => {
                 return;
             }
 
-            res.send(result);
+            res.send(result[0]);
         });
     });
 })
