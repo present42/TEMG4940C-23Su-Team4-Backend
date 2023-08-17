@@ -447,7 +447,7 @@ app.get('/prediction/:bondID', (req, res) => {
 })
 
 app.get('/prediction/bond/:bondID', (req, res) => {
-    fs.readFile('./data/predicted/simplified_rating_prediction_with_probability.csv', (err, fileData) => {
+    fs.readFile('./data/predicted/simplified_rating_prediction_with_probability_v2.csv', (err, fileData) => {
         parse(fileData, { columns: true, trim: true }, (err, rows) => {
             result = rows.filter((pred) => parseInt((pred["BondID"])).toString() === req?.params?.bondID);
             result = result.map(pred => {
